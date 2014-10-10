@@ -1,8 +1,8 @@
 <div class="search">
 
     <ul class="search-icons">
-        <li class="icon" ng-repeat="icon in icons | limitTo: 5" ng-click="addToTray(icon)">
-            <img class="icon-image" ng-src="images/glyphish/{{icon.href}}">
+        <li class="icon" ng-repeat="icon in icons" ng-click="addToTray(icon)">
+            <img class="icon-image" ng-src="images/{{icon.href}}">
             <!-- <span>{{icon.filename}}</span>
             <input type="text" class="name" value="{{icon.href | clean}}"> -->
         </li>
@@ -13,8 +13,8 @@
         <ul class="tray-selected-icons">
 
             <li class="icon" ng-repeat="icon in selectedIcons" ng-click="">
-                <a href="http://icons.dev/app/images/glyphish/{{icon.href}}" download="{{icon.filename}}.svg">
-                    <img class="icon-image" ng-src="images/glyphish/{{icon.href}}">
+                <a href="http://icons.dev/app/images/{{icon.href}}" download="{{icon.filename}}.svg">
+                    <img class="icon-image" ng-src="images/{{icon.href}}">
                 </a>
             </li>
 

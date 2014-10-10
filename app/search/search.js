@@ -4,23 +4,23 @@ angular.module('search', [])
 
 .controller('SearchCtrl', ['$scope', '$firebase', '$window', '$http', function($scope, $firebase, $window, $http){
 
-    // $http.get('search/icons.json')
-    //     .then(function(res){
-    //         $scope.icons = res.data.icons;
-    //     });
-
-    var iconsRef = $firebase(new Firebase('https://icons.firebaseio.com/'));
-    $scope.icons = iconsRef.$child('icons');
-
-    $scope.icons.$on('loaded', function(){
-
-        angular.forEach($scope.icons, function(obj, index) {
-            if($scope.icons[index].href){
-                $scope.icons[index].filename = $scope.icons[index].href.replace(/[0-9]*-/, '').replace(/-/g, ' ').replace(/(@2x.svg)/, '')
-            }
+    $http.get('search/icons.json')
+        .then(function(res){
+            $scope.icons = res.data.icons;
         });
 
-    });
+    // var iconsRef = $firebase(new Firebase('https://icons.firebaseio.com/'));
+    // $scope.icons = iconsRef.$child('icons');
+    //
+    // $scope.icons.$on('loaded', function(){
+    //
+    //     angular.forEach($scope.icons, function(obj, index) {
+    //         if($scope.icons[index].href){
+    //             $scope.icons[index].filename = $scope.icons[index].href.replace(/[0-9]*-/, '').replace(/-/g, ' ').replace(/(@2x.svg)/, '')
+    //         }
+    //     });
+    //
+    // });
 
     $scope.addToTray = function(obj){
         var newObj = {
