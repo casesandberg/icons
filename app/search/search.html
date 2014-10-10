@@ -1,0 +1,28 @@
+<div class="search">
+
+    <ul class="search-icons">
+        <li class="icon" ng-repeat="icon in icons | limitTo: 5" ng-click="addToTray(icon)">
+            <img class="icon-image" ng-src="images/glyphish/{{icon.href}}">
+            <!-- <span>{{icon.filename}}</span>
+            <input type="text" class="name" value="{{icon.href | clean}}"> -->
+        </li>
+    </ul>
+
+    <div class="search-tray" ng-show="selectedIcons.length > ''">
+
+        <ul class="tray-selected-icons">
+
+            <li class="icon" ng-repeat="icon in selectedIcons" ng-click="">
+                <a href="http://icons.dev/app/images/glyphish/{{icon.href}}" download="{{icon.filename}}.svg">
+                    <img class="icon-image" ng-src="images/glyphish/{{icon.href}}">
+                </a>
+            </li>
+
+            <li class="download">
+                <a href="" class="download-link" ng-click="clear()">Clear</a>
+            </li>
+
+        </ul>
+    </div>
+
+</div>

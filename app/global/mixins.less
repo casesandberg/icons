@@ -1,0 +1,151 @@
+.clearfix(){
+    zoom: 1;
+    &:before, &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+.a11y(){
+	height: 1px;
+	width: 1px;
+	position: absolute;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px,1px,1px,1px);
+}
+
+.border-radius (@radius: 4px) {
+	-webkit-border-radius: @radius;
+	-moz-border-radius: @radius;
+	border-radius: @radius;
+
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.speed-up(){
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+}
+
+.flicker(){
+	-webkit-backface-visibility: hidden;
+	-webkit-perspective: 1000;
+}
+
+.transition(@arguments: all 200ms 0 linear) {
+	-webkit-transition+: @arguments;
+	-moz-transition+: @arguments;
+	-o-transition+: @arguments;
+	transition+: @arguments;
+}
+
+.rotate(@deg: 8){
+	transform+: rotate(~"@{deg}deg");
+	-ms-transform+: rotate(~"@{deg}deg");
+	-webkit-transform+: rotate(~"@{deg}deg");
+	-webkit-backface-visibility: hidden;
+}
+
+.scale(@ratio) {
+    -webkit-transform+: scale(@ratio);
+    -moz-transform+: scale(@ratio);
+    -ms-transform+: scale(@ratio);
+    -o-transform+: scale(@ratio);
+    transform+: scale(@ratio);
+}
+.translate(@x, @y) {
+    -webkit-transform+: translate(@x, @y);
+    -moz-transform+: translate(@x, @y);
+    -ms-transform+: translate(@x, @y);
+    -o-transform+: translate(@x, @y);
+    transform+: translate(@x, @y);
+}
+
+.font-size(@sizeValue) {
+	@remValue: @sizeValue / 10;
+	@pxValue: (@sizeValue);
+	font-size: ~"@{pxValue}px";
+	font-size: ~"@{remValue}rem";
+}
+.font(@size: 15, @weight: 400, @lineheight: auto){
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	.font-size(@size);
+	font-weight: @weight;
+    line-height: @lineheight;
+	-webkit-font-smoothing: antialiased;
+}
+.box-shadow(@var){
+	-webkit-box-shadow: @var;
+	-moz-box-shadow: @var;
+	-o-box-shadow: @var;
+	box-shadow: @var;
+}
+.opacity(@opacity) {
+    @opacityPercentage: @opacity * 100;
+    opacity: @opacity;
+    -ms-filter: ~"progid:DXImageTransform.Microsoft.Alpha(opacity=(@{opacityPercentage}))";
+    filter: ~"alpha(opacity = (@{opacityPercentage}))";
+}
+
+.dotdotdot() {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.yfont(@size, @weight){
+	.font(@size, @weight);
+	// font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'BenchNine', sans-serif;
+	// font-family: 'Oswald', sans-serif;
+}
+
+.fixed(@top, @right, @bottom, @left){
+    // @pos: ~'(function(arguments){ return arguments.split(" ")[0] })("@{arguments}")'; Get this working eventually
+    position: fixed;
+    top: @top;
+    right: @right;
+    bottom: @bottom;
+    left: @left;
+}
+.absolute(@top, @right, @bottom, @left){
+    position: absolute;
+    top: @top;
+    right: @right;
+    bottom: @bottom;
+    left: @left;
+}
+
+.strip-input(){
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.background-cover(){
+    background-position: center center;
+    background-size: cover;
+}
+
+.height(@height, @lineheight: auto){
+    height: @height;
+    line-height: @lineheight;
+}
+
+.size(@width, @height: auto, @lineheight: auto){
+    height: @height;
+    line-height: @lineheight;
+    width: @width;
+}
+
+.center(){
+    vertical-align: middle;
+    display: inline-block;
+}
