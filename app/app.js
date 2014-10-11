@@ -12,7 +12,7 @@ angular.module('icons', [
 
     $routeProvider
     .when('/search', {
-        templateUrl: 'search/search.html',
+        templateUrl: 'app/search/search.html',
         controller: 'SearchCtrl'
     })
     .otherwise({

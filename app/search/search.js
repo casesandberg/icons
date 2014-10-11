@@ -4,7 +4,7 @@ angular.module('search', [])
 
 .controller('SearchCtrl', ['$scope', '$firebase', '$window', '$http', function($scope, $firebase, $window, $http){
 
-    $http.get('search/icons.json')
+    $http.get('app/search/icons.json')
         .then(function(res){
             $scope.icons = res.data.icons;
         });
