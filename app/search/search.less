@@ -33,6 +33,29 @@ body{
         margin: 0 10px 10px 0;
         .border-radius(6px);
         cursor: pointer;
+        .speed-up();
+
+        &.ng-enter,
+        &.ng-leave
+        {
+            .transition(opacity 200ms linear);
+            .transition(max-width 200ms 200ms linear);
+            display: block;
+        }
+
+        &.ng-enter.ng-enter-active,
+        &.ng-leave {
+            opacity: 1;
+            max-width: 70px;
+        }
+
+        &.ng-leave.ng-leave-active,
+        &.ng-enter {
+            opacity: 0;
+            max-width: 0;
+            .transition(max-width 200ms linear);
+            .transition(opacity 200ms 200ms linear);
+        }
 
         .icon-image{
             display: inline-block;
