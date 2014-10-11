@@ -5,7 +5,7 @@
     </div>
 
     <ul class="search-icons">
-        <li class="icon" ng-repeat="icon in icons | array | filter:searchText" ng-click="addToTray(icon)">
+        <li class="icon" ng-repeat="icon in icons | filter:searchText" ng-click="addToTray(icon)">
             <img class="icon-image" ng-src="app/images/{{icon.href}}">
             <!-- <span>{{icon.filename}}</span>
             <input type="text" class="name" value="{{icon.href | clean}}"> -->
