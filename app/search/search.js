@@ -9,6 +9,8 @@ angular.module('search', [])
             $scope.icons = res.data.icons;
         });
 
+    $scope.searchText = '';
+
     // var iconsRef = $firebase(new Firebase('https://icons.firebaseio.com/'));
     // $scope.icons = iconsRef.$child('icons');
     //
@@ -42,6 +44,16 @@ angular.module('search', [])
     return function(items) {
     return items.replace(/[0-9]*-/, '').replace(/-/g, ' ').replace(/(@2x.svg)/, '');
     };
+})
+
+.filter('array', function() {
+  return function(items) {
+    var filtered = [];
+    angular.forEach(items, function(item) {
+      filtered.push(item);
+    });
+   return filtered;
+  };
 });
 
 // .directive('walletSwitcher', ['$location', '$timeout', function($location, $timeout) {

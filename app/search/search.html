@@ -1,7 +1,11 @@
 <div class="search">
 
+    <div class="search-filter">
+        <input type="text" class="filter-input" placeholder="Search..." ng-model="searchText">
+    </div>
+
     <ul class="search-icons">
-        <li class="icon" ng-repeat="icon in icons" ng-click="addToTray(icon)">
+        <li class="icon" ng-repeat="icon in icons | array | filter:searchText" ng-click="addToTray(icon)">
             <img class="icon-image" ng-src="images/{{icon.href}}">
             <!-- <span>{{icon.filename}}</span>
             <input type="text" class="name" value="{{icon.href | clean}}"> -->
