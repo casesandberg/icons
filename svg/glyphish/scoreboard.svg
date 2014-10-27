@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>1151-scoreboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Glyphish-8-Icons" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -499.000000)" fill="#000000">
+            <g id="1151-scoreboard" sketch:type="MSLayerGroup" transform="translate(20.036996, 499.860499)">
+                <g id="_x31_151-scoreboard_x40_2x.png" sketch:type="MSShapeGroup">
+                    <path d="M54,8 L48.079,8 C44.645,3.288 36.955,0 28,0 C19.045,0 11.355,3.288 7.921,8 L2,8 C0.896,8 0,8.896 0,10 L0,42 C0,43.104 0.896,44 2,44 L6,44 L6,56 L8,56 L8,44 L48,44 L48,56 L50,56 L50,44 L54,44 C55.104,44 56,43.104 56,42 L56,10 C56,8.896 55.104,8 54,8 L54,8 Z M54,42 L50,42 L48,42 L8,42 L6,42 L2,42 L2,32 L54,32 L54,42 L54,42 Z M54,30 L2,30 L2,10 L7.921,10 C8.56,10 9.161,9.694 9.537,9.178 C12.715,4.817 19.962,2 28,2 C36.038,2 43.285,4.817 46.462,9.178 C46.839,9.694 47.439,10 48.079,10 L54,10 L54,30 L54,30 Z M50,36 L38,36 L38,38 L50,38 L50,36 L50,36 Z M34,36 L22,36 L22,38 L34,38 L34,36 L34,36 Z M18,36 L6,36 L6,38 L18,38 L18,36 L18,36 Z M24,26 L32,26 L32,18 L24,18 L24,26 L24,26 Z M26,20 L30,20 L30,24 L26,24 L26,20 L26,20 Z M6,26 L18,26 L18,18 L6,18 L6,26 L6,26 Z M8,20 L16,20 L16,24 L8,24 L8,20 L8,20 Z M38,16 L50,16 L50,14 L38,14 L38,16 L38,16 Z M22,16 L34,16 L34,14 L22,14 L22,16 L22,16 Z M38,26 L50,26 L50,18 L38,18 L38,26 L38,26 Z M40,20 L48,20 L48,24 L40,24 L40,20 L40,20 Z M6,16 L18,16 L18,14 L6,14 L6,16 L6,16 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

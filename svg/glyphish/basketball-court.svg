@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="42px" viewBox="0 0 58 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>1141-basketball-court</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Glyphish-8-Icons" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -411.000000)" fill="#000000">
+            <g id="1141-basketball-court" sketch:type="MSLayerGroup" transform="translate(20.036996, 411.860499)">
+                <g id="_x31_141-basketball-court_x40_2x.png" sketch:type="MSShapeGroup">
+                    <path d="M54,0 L2,0 C0.896,0 0,0.896 0,2 L0,38 C0,39.104 0.896,40 2,40 L54,40 C55.104,40 56,39.104 56,38 L56,2 C56,0.896 55.104,0 54,0 L54,0 Z M29,16.142 C30.722,16.588 32,18.139 32,20 C32,21.861 30.722,23.412 29,23.858 L29,16.142 L29,16.142 Z M2,8 C6.439,8 10.306,10.417 12.381,14 L2,14 L2,8 L2,8 Z M2,16 L13.303,16 C13.746,17.253 14,18.596 14,20 C14,21.405 13.746,22.747 13.303,24 L2,24 L2,16 L2,16 Z M2,26 L12.381,26 C10.306,29.584 6.439,32 2,32 L2,26 L2,26 Z M27,23.858 C25.278,23.412 24,21.861 24,20 C24,18.139 25.278,16.588 27,16.142 L27,23.858 L27,23.858 Z M27,14.101 C24.165,14.58 22,17.03 22,20 C22,22.972 24.165,25.421 27,25.899 L27,38 L2,38 L2,34 C9.732,34 16,27.732 16,20 C16,12.269 9.732,6 2,6 L2,2 L27,2 L27,14.101 L27,14.101 Z M54,32 C49.561,32 45.694,29.584 43.619,26 L54,26 L54,32 L54,32 Z M54,24 L42.697,24 C42.254,22.747 42,21.405 42,20 C42,18.596 42.254,17.253 42.697,16 L54,16 L54,24 L54,24 Z M54,14 L43.619,14 C45.694,10.417 49.561,8 54,8 L54,14 L54,14 Z M54,6 C46.268,6 40,12.269 40,20 C40,27.732 46.268,34 54,34 L54,38 L29,38 L29,25.899 C31.835,25.42 34,22.971 34,20 C34,17.029 31.835,14.579 29,14.101 L29,2 L54,2 L54,6 L54,6 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

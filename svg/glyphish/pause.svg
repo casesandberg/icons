@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>1242-pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Glyphish-8-Icons" sketch:type="MSArtboardGroup" transform="translate(-116.000000, -1363.000000)" fill="#000000">
+            <g id="1242-pause" sketch:type="MSLayerGroup" transform="translate(116.036996, 1363.860499)">
+                <g id="_x31_242-pause_x40_2x.png" sketch:type="MSShapeGroup">
+                    <path d="M37,16 L37,16 L31,16 C30.448,16 30,16.447 30,17 L30,39 C30,39.553 30.448,40 31,40 L37,40 C37.552,40 38,39.553 38,39 L38,17 C38,16.447 37.552,16 37,16 L37,16 Z M25,16 L25,16 L19,16 C18.448,16 18,16.447 18,17 L18,39 C18,39.553 18.448,40 19,40 L25,40 C25.552,40 26,39.553 26,39 L26,17 C26,16.447 25.552,16 25,16 L25,16 Z M28,0 C12.536,0 0,12.536 0,28 C0,43.464 12.536,56 28,56 C43.464,56 56,43.464 56,28 C56,12.536 43.464,0 28,0 L28,0 Z M28,54 C13.641,54 2,42.359 2,28 C2,13.641 13.641,2 28,2 C42.359,2 54,13.641 54,28 C54,42.359 42.359,54 28,54 L28,54 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

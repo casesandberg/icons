@@ -6,7 +6,7 @@
 
     <ul class="search-icons">
         <li class="icon" ng-repeat="icon in icons | filter:searchText" ng-click="addToTray(icon)">
-            <img class="icon-image" ng-src="app/images/{{icon.href}}">
+            <img class="icon-image" ng-src="svg/{{icon.href}}">
             <!-- <span>{{icon.filename}}</span>
             <input type="text" class="name" value="{{icon.href | clean}}"> -->
         </li>
@@ -17,8 +17,8 @@
         <ul class="tray-selected-icons">
 
             <li class="icon" ng-repeat="icon in selectedIcons" ng-click="">
-                <a href="http://icons.dev/app/images/{{icon.href}}" download="{{icon.filename}}.svg">
-                    <img class="icon-image" ng-src="app/images/{{icon.href}}">
+                <a href="http://icons.dev/svg/{{icon.href}}" download="{{icon.filename}}.svg">
+                    <img class="icon-image" ng-src="svg/{{icon.href}}">
                 </a>
             </li>
 

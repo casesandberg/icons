@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="34px" viewBox="0 0 57 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>1179-align-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Glyphish-8-Icons" sketch:type="MSArtboardGroup" transform="translate(-788.000000, -703.000000)" fill="#000000">
+            <g id="1179-align-center" sketch:type="MSLayerGroup" transform="translate(788.036996, 703.860499)">
+                <g id="_x31_179-align-center_x40_2x.png" sketch:type="MSShapeGroup">
+                    <path d="M11,10 C10.447,10 10,10.447 10,11 C10,11.553 10.447,12 11,12 L45,12 C45.553,12 46,11.553 46,11 C46,10.447 45.553,10 45,10 L11,10 L11,10 Z M1,2 L55,2 C55.553,2 56,1.553 56,1 C56,0.447 55.553,0 55,0 L1,0 C0.447,0 0,0.447 0,1 C0,1.553 0.447,2 1,2 L1,2 Z M55,20 L1,20 C0.447,20 0,20.447 0,21 C0,21.553 0.447,22 1,22 L55,22 C55.553,22 56,21.553 56,21 C56,20.447 55.553,20 55,20 L55,20 Z M45,30 L11,30 C10.447,30 10,30.447 10,31 C10,31.553 10.447,32 11,32 L45,32 C45.553,32 46,31.553 46,31 C46,30.447 45.553,30 45,30 L45,30 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

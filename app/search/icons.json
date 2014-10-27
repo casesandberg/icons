@@ -1,2319 +1,2319 @@
 {
     "icons": {
         "0": {
-            "href": "glyphish/1000-guitar@2x.svg",
+            "href": "glyphish/guitar.svg",
             "filename": "guitar"
         },
         "1": {
-            "href": "glyphish/1001-neck-tie@2x.svg",
+            "href": "glyphish/neck-tie.svg",
             "filename": "neck tie"
         },
         "2": {
-            "href": "glyphish/1002-bow-tie@2x.svg",
+            "href": "glyphish/bow-tie.svg",
             "filename": "bow tie"
         },
         "3": {
-            "href": "glyphish/1003-game-controller@2x.svg",
+            "href": "glyphish/game-controller.svg",
             "filename": "game controller"
         },
         "4": {
-            "href": "glyphish/1004-voicemail@2x.svg",
+            "href": "glyphish/voicemail.svg",
             "filename": "voicemail"
         },
         "5": {
-            "href": "glyphish/1005-glasses@2x.svg",
+            "href": "glyphish/glasses.svg",
             "filename": "glasses"
         },
         "6": {
-            "href": "glyphish/1006-eight-ball@2x.svg",
+            "href": "glyphish/eight-ball.svg",
             "filename": "eight ball"
         },
         "7": {
-            "href": "glyphish/1007-price-tag@2x.svg",
+            "href": "glyphish/price-tag.svg",
             "filename": "price tag"
         },
         "8": {
-            "href": "glyphish/1008-desktop@2x.svg",
+            "href": "glyphish/desktop.svg",
             "filename": "desktop"
         },
         "9": {
-            "href": "glyphish/1009-laptop@2x.svg",
+            "href": "glyphish/laptop.svg",
             "filename": "laptop"
         },
         "10": {
-            "href": "glyphish/1010-tablet@2x.svg",
+            "href": "glyphish/tablet.svg",
             "filename": "tablet"
         },
         "11": {
-            "href": "glyphish/1011-notepad@2x.svg",
+            "href": "glyphish/notepad.svg",
             "filename": "notepad"
         },
         "12": {
-            "href": "glyphish/1012-sticky-note@2x.svg",
+            "href": "glyphish/sticky-note.svg",
             "filename": "sticky note"
         },
         "13": {
-            "href": "glyphish/1013-hammer@2x.svg",
+            "href": "glyphish/hammer.svg",
             "filename": "hammer"
         },
         "14": {
-            "href": "glyphish/1014-messenger-bag@2x.svg",
+            "href": "glyphish/messenger-bag.svg",
             "filename": "messenger bag"
         },
         "15": {
-            "href": "glyphish/1015-magic-lamp@2x.svg",
+            "href": "glyphish/magic-lamp.svg",
             "filename": "magic lamp"
         },
         "16": {
-            "href": "glyphish/1016-handgun@2x.svg",
+            "href": "glyphish/handgun.svg",
             "filename": "handgun"
         },
         "17": {
-            "href": "glyphish/1017-paint-roller@2x.svg",
+            "href": "glyphish/paint-roller.svg",
             "filename": "paint roller"
         },
         "18": {
-            "href": "glyphish/1018-box@2x.svg",
+            "href": "glyphish/box.svg",
             "filename": "box"
         },
         "19": {
-            "href": "glyphish/1019-music-note-2@2x.svg",
+            "href": "glyphish/music-note-2.svg",
             "filename": "music note 2"
         },
         "20": {
-            "href": "glyphish/1020-barcode@2x.svg",
+            "href": "glyphish/barcode.svg",
             "filename": "barcode"
         },
         "21": {
-            "href": "glyphish/1021-radiation@2x.svg",
+            "href": "glyphish/radiation.svg",
             "filename": "radiation"
         },
         "22": {
-            "href": "glyphish/1022-factory@2x.svg",
+            "href": "glyphish/factory.svg",
             "filename": "factory"
         },
         "23": {
-            "href": "glyphish/1023-airplay-speaker@2x.svg",
+            "href": "glyphish/airplay-speaker.svg",
             "filename": "airplay speaker"
         },
         "24": {
-            "href": "glyphish/1024-share@2x.svg",
+            "href": "glyphish/share.svg",
             "filename": "share"
         },
         "25": {
-            "href": "glyphish/1025-reply-all@2x.svg",
+            "href": "glyphish/reply-all.svg",
             "filename": "reply all"
         },
         "26": {
-            "href": "glyphish/1026-revert@2x.svg",
+            "href": "glyphish/revert.svg",
             "filename": "revert"
         },
         "27": {
-            "href": "glyphish/1027-magnet@2x.svg",
+            "href": "glyphish/magnet.svg",
             "filename": "magnet"
         },
         "28": {
-            "href": "glyphish/1028-whale@2x.svg",
+            "href": "glyphish/whale.svg",
             "filename": "whale"
         },
         "29": {
-            "href": "glyphish/1029-fish@2x.svg",
+            "href": "glyphish/fish.svg",
             "filename": "fish"
         },
         "30": {
-            "href": "glyphish/1030-globe@2x.svg",
+            "href": "glyphish/globe.svg",
             "filename": "globe"
         },
         "31": {
-            "href": "glyphish/1031-stamp@2x.svg",
+            "href": "glyphish/stamp.svg",
             "filename": "stamp"
         },
         "32": {
-            "href": "glyphish/1032-route@2x.svg",
+            "href": "glyphish/route.svg",
             "filename": "route"
         },
         "33": {
-            "href": "glyphish/1033-dance-steps@2x.svg",
+            "href": "glyphish/dance-steps.svg",
             "filename": "dance steps"
         },
         "34": {
-            "href": "glyphish/1034-sign@2x.svg",
+            "href": "glyphish/sign.svg",
             "filename": "sign"
         },
         "35": {
-            "href": "glyphish/1035-pie-chart@2x.svg",
+            "href": "glyphish/pie-chart.svg",
             "filename": "pie chart"
         },
         "36": {
-            "href": "glyphish/1036-sword@2x.svg",
+            "href": "glyphish/sword.svg",
             "filename": "sword"
         },
         "37": {
-            "href": "glyphish/1037-fish-hook@2x.svg",
+            "href": "glyphish/fish-hook.svg",
             "filename": "fish hook"
         },
         "38": {
-            "href": "glyphish/1038-barrier@2x.svg",
+            "href": "glyphish/barrier.svg",
             "filename": "barrier"
         },
         "39": {
-            "href": "glyphish/1039-files-box@2x.svg",
+            "href": "glyphish/files-box.svg",
             "filename": "files box"
         },
         "40": {
-            "href": "glyphish/1040-checkmark@2x.svg",
+            "href": "glyphish/checkmark.svg",
             "filename": "checkmark"
         },
         "41": {
-            "href": "glyphish/1041-count@2x.svg",
+            "href": "glyphish/count.svg",
             "filename": "count"
         },
         "42": {
-            "href": "glyphish/1042-album@2x.svg",
+            "href": "glyphish/album.svg",
             "filename": "album"
         },
         "43": {
-            "href": "glyphish/1043-album-disc@2x.svg",
+            "href": "glyphish/album-disc.svg",
             "filename": "album disc"
         },
         "44": {
-            "href": "glyphish/1044-drama-masks@2x.svg",
+            "href": "glyphish/drama-masks.svg",
             "filename": "drama masks"
         },
         "45": {
-            "href": "glyphish/1045-clapboard@2x.svg",
+            "href": "glyphish/clapboard.svg",
             "filename": "clapboard"
         },
         "46": {
-            "href": "glyphish/1046-crown@2x.svg",
+            "href": "glyphish/crown.svg",
             "filename": "crown"
         },
         "47": {
-            "href": "glyphish/1047-credit-cards@2x.svg",
+            "href": "glyphish/credit-cards.svg",
             "filename": "credit cards"
         },
         "48": {
-            "href": "glyphish/1048-bomb@2x.svg",
+            "href": "glyphish/bomb.svg",
             "filename": "bomb"
         },
         "49": {
-            "href": "glyphish/1049-at-sign@2x.svg",
+            "href": "glyphish/at-sign.svg",
             "filename": "at sign"
         },
         "50": {
-            "href": "glyphish/1050-retweet@2x.svg",
+            "href": "glyphish/retweet.svg",
             "filename": "retweet"
         },
         "51": {
-            "href": "glyphish/1051-id-badge@2x.svg",
+            "href": "glyphish/id-badge.svg",
             "filename": "id badge"
         },
         "52": {
-            "href": "glyphish/1052-database@2x.svg",
+            "href": "glyphish/database.svg",
             "filename": "database"
         },
         "53": {
-            "href": "glyphish/1053-pizza@2x.svg",
+            "href": "glyphish/pizza.svg",
             "filename": "pizza"
         },
         "54": {
-            "href": "glyphish/1054-speaker@2x.svg",
+            "href": "glyphish/speaker.svg",
             "filename": "speaker"
         },
         "55": {
-            "href": "glyphish/1055-ticket@2x.svg",
+            "href": "glyphish/ticket.svg",
             "filename": "ticket"
         },
         "56": {
-            "href": "glyphish/1056-org-chart@2x.svg",
+            "href": "glyphish/org-chart.svg",
             "filename": "org chart"
         },
         "57": {
-            "href": "glyphish/1057-ufo-2@2x.svg",
+            "href": "glyphish/ufo-2.svg",
             "filename": "ufo 2"
         },
         "58": {
-            "href": "glyphish/1058-fire-hydrant@2x.svg",
+            "href": "glyphish/fire-hydrant.svg",
             "filename": "fire hydrant"
         },
         "59": {
-            "href": "glyphish/1059-sliders@2x.svg",
+            "href": "glyphish/sliders.svg",
             "filename": "sliders"
         },
         "60": {
-            "href": "glyphish/1060-switches@2x.svg",
+            "href": "glyphish/switches.svg",
             "filename": "switches"
         },
         "61": {
-            "href": "glyphish/1061-golf-shot@2x.svg",
+            "href": "glyphish/golf-shot.svg",
             "filename": "golf shot"
         },
         "62": {
-            "href": "glyphish/1062-layers-2@2x.svg",
+            "href": "glyphish/layers-2.svg",
             "filename": "layers 2"
         },
         "63": {
-            "href": "glyphish/1063-layers-3@2x.svg",
+            "href": "glyphish/layers-3.svg",
             "filename": "layers 3"
         },
         "64": {
-            "href": "glyphish/1064-layers-4@2x.svg",
+            "href": "glyphish/layers-4.svg",
             "filename": "layers 4"
         },
         "65": {
-            "href": "glyphish/1065-rewind-time-1@2x.svg",
+            "href": "glyphish/rewind-time-1.svg",
             "filename": "rewind time 1"
         },
         "66": {
-            "href": "glyphish/1066-fried-egg@2x.svg",
+            "href": "glyphish/fried-egg.svg",
             "filename": "fried egg"
         },
         "67": {
-            "href": "glyphish/1067-enter-fullscreen@2x.svg",
+            "href": "glyphish/enter-fullscreen.svg",
             "filename": "enter fullscreen"
         },
         "68": {
-            "href": "glyphish/1068-exit-fullscreen@2x.svg",
+            "href": "glyphish/exit-fullscreen.svg",
             "filename": "exit fullscreen"
         },
         "69": {
-            "href": "glyphish/1069-basketball-shirt@2x.svg",
+            "href": "glyphish/basketball-shirt.svg",
             "filename": "basketball shirt"
         },
         "70": {
-            "href": "glyphish/1070-directors-chair@2x.svg",
+            "href": "glyphish/directors-chair.svg",
             "filename": "directors chair"
         },
         "71": {
-            "href": "glyphish/1071-target-dummy@2x.svg",
+            "href": "glyphish/target-dummy.svg",
             "filename": "target dummy"
         },
         "72": {
-            "href": "glyphish/1072-terminal@2x.svg",
+            "href": "glyphish/terminal.svg",
             "filename": "terminal"
         },
         "73": {
-            "href": "glyphish/1073-grid-1@2x.svg",
+            "href": "glyphish/grid-1.svg",
             "filename": "grid 1"
         },
         "74": {
-            "href": "glyphish/1074-grid-2@2x.svg",
+            "href": "glyphish/grid-2.svg",
             "filename": "grid 2"
         },
         "75": {
-            "href": "glyphish/1075-grid-3@2x.svg",
+            "href": "glyphish/grid-3.svg",
             "filename": "grid 3"
         },
         "76": {
-            "href": "glyphish/1076-grid-4@2x.svg",
+            "href": "glyphish/grid-4.svg",
             "filename": "grid 4"
         },
         "77": {
-            "href": "glyphish/1077-split-path@2x.svg",
+            "href": "glyphish/split-path.svg",
             "filename": "split path"
         },
         "78": {
-            "href": "glyphish/1078-join-path@2x.svg",
+            "href": "glyphish/join-path.svg",
             "filename": "join path"
         },
         "79": {
-            "href": "glyphish/1079-fork-path@2x.svg",
+            "href": "glyphish/fork-path.svg",
             "filename": "fork path"
         },
         "80": {
-            "href": "glyphish/1080-film-strip@2x.svg",
+            "href": "glyphish/film-strip.svg",
             "filename": "film strip"
         },
         "81": {
-            "href": "glyphish/1081-branch@2x.svg",
+            "href": "glyphish/branch.svg",
             "filename": "branch"
         },
         "82": {
-            "href": "glyphish/1082-merge@2x.svg",
+            "href": "glyphish/merge.svg",
             "filename": "merge"
         },
         "83": {
-            "href": "glyphish/1083-baseball-field@2x.svg",
+            "href": "glyphish/baseball-field.svg",
             "filename": "baseball field"
         },
         "84": {
-            "href": "glyphish/1084-baseball@2x.svg",
+            "href": "glyphish/baseball.svg",
             "filename": "baseball"
         },
         "85": {
-            "href": "glyphish/1085-football@2x.svg",
+            "href": "glyphish/football.svg",
             "filename": "football"
         },
         "86": {
-            "href": "glyphish/1086-basketball@2x.svg",
+            "href": "glyphish/basketball.svg",
             "filename": "basketball"
         },
         "87": {
-            "href": "glyphish/1087-soccer-ball@2x.svg",
+            "href": "glyphish/soccer-ball.svg",
             "filename": "soccer ball"
         },
         "88": {
-            "href": "glyphish/1088-tennis-ball@2x.svg",
+            "href": "glyphish/tennis-ball.svg",
             "filename": "tennis ball"
         },
         "89": {
-            "href": "glyphish/1089-bowling-ball@2x.svg",
+            "href": "glyphish/bowling-ball.svg",
             "filename": "bowling ball"
         },
         "90": {
-            "href": "glyphish/1090-ping-pong-paddle@2x.svg",
+            "href": "glyphish/ping-pong-paddle.svg",
             "filename": "ping pong paddle"
         },
         "91": {
-            "href": "glyphish/1091-weights@2x.svg",
+            "href": "glyphish/weights.svg",
             "filename": "weights"
         },
         "92": {
-            "href": "glyphish/1092-boxing-glove@2x.svg",
+            "href": "glyphish/boxing-glove.svg",
             "filename": "boxing glove"
         },
         "93": {
-            "href": "glyphish/1093-lightning-bolt-2@2x.svg",
+            "href": "glyphish/lightning-bolt-2.svg",
             "filename": "lightning bolt 2"
         },
         "94": {
-            "href": "glyphish/1094-sail-boat-2@2x.svg",
+            "href": "glyphish/sail-boat-2.svg",
             "filename": "sail boat 2"
         },
         "95": {
-            "href": "glyphish/1095-viking-ship@2x.svg",
+            "href": "glyphish/viking-ship.svg",
             "filename": "viking ship"
         },
         "96": {
-            "href": "glyphish/1096-direction-arrow@2x.svg",
+            "href": "glyphish/direction-arrow.svg",
             "filename": "direction arrow"
         },
         "97": {
-            "href": "glyphish/1097-timer-2@2x.svg",
+            "href": "glyphish/timer-2.svg",
             "filename": "timer 2"
         },
         "98": {
-            "href": "glyphish/1098-level@2x.svg",
+            "href": "glyphish/level.svg",
             "filename": "level"
         },
         "99": {
-            "href": "glyphish/1099-list-1@2x.svg",
+            "href": "glyphish/list-1.svg",
             "filename": "list 1"
         },
         "100": {
-            "href": "glyphish/1100-list-2@2x.svg",
+            "href": "glyphish/list-2.svg",
             "filename": "list 2"
         },
         "101": {
-            "href": "glyphish/1101-pointing-finger@2x.svg",
+            "href": "glyphish/pointing-finger.svg",
             "filename": "pointing finger"
         },
         "102": {
-            "href": "glyphish/1102-one-finger-tap@2x.svg",
+            "href": "glyphish/one-finger-tap.svg",
             "filename": "one finger tap"
         },
         "103": {
-            "href": "glyphish/1103-two-finger-tap@2x.svg",
+            "href": "glyphish/two-finger-tap.svg",
             "filename": "two finger tap"
         },
         "104": {
-            "href": "glyphish/1104-three-finger-tap@2x.svg",
+            "href": "glyphish/three-finger-tap.svg",
             "filename": "three finger tap"
         },
         "105": {
-            "href": "glyphish/1105-finger-drag@2x.svg",
+            "href": "glyphish/finger-drag.svg",
             "filename": "finger drag"
         },
         "106": {
-            "href": "glyphish/1106-horizontal-swipe@2x.svg",
+            "href": "glyphish/horizontal-swipe.svg",
             "filename": "horizontal swipe"
         },
         "107": {
-            "href": "glyphish/1107-vertical-swipe@2x.svg",
+            "href": "glyphish/vertical-swipe.svg",
             "filename": "vertical swipe"
         },
         "108": {
-            "href": "glyphish/1108-spread@2x.svg",
+            "href": "glyphish/spread.svg",
             "filename": "spread"
         },
         "109": {
-            "href": "glyphish/1109-pinch@2x.svg",
+            "href": "glyphish/pinch.svg",
             "filename": "pinch"
         },
         "110": {
-            "href": "glyphish/1110-rotate@2x.svg",
+            "href": "glyphish/rotate.svg",
             "filename": "rotate"
         },
         "111": {
-            "href": "glyphish/1111-flick-left@2x.svg",
+            "href": "glyphish/flick-left.svg",
             "filename": "flick left"
         },
         "112": {
-            "href": "glyphish/1112-flick-right@2x.svg",
+            "href": "glyphish/flick-right.svg",
             "filename": "flick right"
         },
         "113": {
-            "href": "glyphish/1113-grab-hand-1@2x.svg",
+            "href": "glyphish/grab-hand-1.svg",
             "filename": "grab hand 1"
         },
         "114": {
-            "href": "glyphish/1114-fist@2x.svg",
+            "href": "glyphish/fist.svg",
             "filename": "fist"
         },
         "115": {
-            "href": "glyphish/1115-peace-sign@2x.svg",
+            "href": "glyphish/peace-sign.svg",
             "filename": "peace sign"
         },
         "116": {
-            "href": "glyphish/1116-slayer-hand@2x.svg",
+            "href": "glyphish/slayer-hand.svg",
             "filename": "slayer hand"
         },
         "117": {
-            "href": "glyphish/1117-stop-hand-1@2x.svg",
+            "href": "glyphish/stop-hand-1.svg",
             "filename": "stop hand 1"
         },
         "118": {
-            "href": "glyphish/1118-two-fingers@2x.svg",
+            "href": "glyphish/two-fingers.svg",
             "filename": "two fingers"
         },
         "119": {
-            "href": "glyphish/1119-fingers-spread-left@2x.svg",
+            "href": "glyphish/fingers-spread-left.svg",
             "filename": "fingers spread left"
         },
         "120": {
-            "href": "glyphish/1120-fingers-spread-right@2x.svg",
+            "href": "glyphish/fingers-spread-right.svg",
             "filename": "fingers spread right"
         },
         "121": {
-            "href": "glyphish/1141-basketball-court@2x.svg",
+            "href": "glyphish/basketball-court.svg",
             "filename": "basketball court"
         },
         "122": {
-            "href": "glyphish/1142-basketball-net@2x.svg",
+            "href": "glyphish/basketball-net.svg",
             "filename": "basketball net"
         },
         "123": {
-            "href": "glyphish/1143-baseball-and-bat@2x.svg",
+            "href": "glyphish/baseball-and-bat.svg",
             "filename": "baseball and bat"
         },
         "124": {
-            "href": "glyphish/1144-baseball-helmet@2x.svg",
+            "href": "glyphish/baseball-helmet.svg",
             "filename": "baseball helmet"
         },
         "125": {
-            "href": "glyphish/1145-baseball-jersey@2x.svg",
+            "href": "glyphish/baseball-jersey.svg",
             "filename": "baseball jersey"
         },
         "126": {
-            "href": "glyphish/1146-baseball-glove@2x.svg",
+            "href": "glyphish/baseball-glove.svg",
             "filename": "baseball glove"
         },
         "127": {
-            "href": "glyphish/1147-football-helmet@2x.svg",
+            "href": "glyphish/football-helmet.svg",
             "filename": "football helmet"
         },
         "128": {
-            "href": "glyphish/1148-football-goalposts@2x.svg",
+            "href": "glyphish/football-goalposts.svg",
             "filename": "football goalposts"
         },
         "129": {
-            "href": "glyphish/1149-football-field@2x.svg",
+            "href": "glyphish/football-field.svg",
             "filename": "football field"
         },
         "130": {
-            "href": "glyphish/1150-football-jersey@2x.svg",
+            "href": "glyphish/football-jersey.svg",
             "filename": "football jersey"
         },
         "131": {
-            "href": "glyphish/1151-scoreboard@2x.svg",
+            "href": "glyphish/scoreboard.svg",
             "filename": "scoreboard"
         },
         "132": {
-            "href": "glyphish/1152-bowling-pin-and-ball@2x.svg",
+            "href": "glyphish/bowling-pin-and-ball.svg",
             "filename": "bowling pin and ball"
         },
         "133": {
-            "href": "glyphish/1153-bowling-pins@2x.svg",
+            "href": "glyphish/bowling-pins.svg",
             "filename": "bowling pins"
         },
         "134": {
-            "href": "glyphish/1154-tennis-observation-seat@2x.svg",
+            "href": "glyphish/tennis-observation-seat.svg",
             "filename": "tennis observation seat"
         },
         "135": {
-            "href": "glyphish/1155-tennis-racquet@2x.svg",
+            "href": "glyphish/tennis-racquet.svg",
             "filename": "tennis racquet"
         },
         "136": {
-            "href": "glyphish/1156-tennis-net@2x.svg",
+            "href": "glyphish/tennis-net.svg",
             "filename": "tennis net"
         },
         "137": {
-            "href": "glyphish/1157-tennis-court@2x.svg",
+            "href": "glyphish/tennis-court.svg",
             "filename": "tennis court"
         },
         "138": {
-            "href": "glyphish/1158-hockey-stick-and-puck@2x.svg",
+            "href": "glyphish/hockey-stick-and-puck.svg",
             "filename": "hockey stick and puck"
         },
         "139": {
-            "href": "glyphish/1159-badminton-birdie@2x.svg",
+            "href": "glyphish/badminton-birdie.svg",
             "filename": "badminton birdie"
         },
         "140": {
-            "href": "glyphish/1160-whistle@2x.svg",
+            "href": "glyphish/whistle.svg",
             "filename": "whistle"
         },
         "141": {
-            "href": "glyphish/1161-christian-cross@2x.svg",
+            "href": "glyphish/christian-cross.svg",
             "filename": "christian cross"
         },
         "142": {
-            "href": "glyphish/1162-judaic-star@2x.svg",
+            "href": "glyphish/judaic-star.svg",
             "filename": "judaic star"
         },
         "143": {
-            "href": "glyphish/1163-islamic-moon-and-star@2x.svg",
+            "href": "glyphish/islamic-moon-and-star.svg",
             "filename": "islamic moon and star"
         },
         "144": {
-            "href": "glyphish/1164-shinto-torii-arch@2x.svg",
+            "href": "glyphish/shinto-torii-arch.svg",
             "filename": "shinto torii arch"
         },
         "145": {
-            "href": "glyphish/1165-taoism-yin-yang@2x.svg",
+            "href": "glyphish/taoism-yin-yang.svg",
             "filename": "taoism yin yang"
         },
         "146": {
-            "href": "glyphish/1166-hindu-om-symbol@2x.svg",
+            "href": "glyphish/hindu-om-symbol.svg",
             "filename": "hindu om symbol"
         },
         "147": {
-            "href": "glyphish/1167-buddhist-wheel@2x.svg",
+            "href": "glyphish/buddhist-wheel.svg",
             "filename": "buddhist wheel"
         },
         "148": {
-            "href": "glyphish/1168-sikh-symbol@2x.svg",
+            "href": "glyphish/sikh-symbol.svg",
             "filename": "sikh symbol"
         },
         "149": {
-            "href": "glyphish/1169-bahá'í-star@2x.svg",
+            "href": "glyphish/bahá'í-star.svg",
             "filename": "bahá'í star"
         },
         "150": {
-            "href": "glyphish/1170-trinity-knot@2x.svg",
+            "href": "glyphish/trinity-knot.svg",
             "filename": "trinity knot"
         },
         "151": {
-            "href": "glyphish/1171-bold@2x.svg",
+            "href": "glyphish/bold.svg",
             "filename": "bold"
         },
         "152": {
-            "href": "glyphish/1172-italic@2x.svg",
+            "href": "glyphish/italic.svg",
             "filename": "italic"
         },
         "153": {
-            "href": "glyphish/1173-underline@2x.svg",
+            "href": "glyphish/underline.svg",
             "filename": "underline"
         },
         "154": {
-            "href": "glyphish/1174-choose-font@2x.svg",
+            "href": "glyphish/choose-font.svg",
             "filename": "choose font"
         },
         "155": {
-            "href": "glyphish/1175-numbered-list@2x.svg",
+            "href": "glyphish/numbered-list.svg",
             "filename": "numbered list"
         },
         "156": {
-            "href": "glyphish/1176-bulleted-list@2x.svg",
+            "href": "glyphish/bulleted-list.svg",
             "filename": "bulleted list"
         },
         "157": {
-            "href": "glyphish/1177-align-left@2x.svg",
+            "href": "glyphish/align-left.svg",
             "filename": "align left"
         },
         "158": {
-            "href": "glyphish/1178-align-right@2x.svg",
+            "href": "glyphish/align-right.svg",
             "filename": "align right"
         },
         "159": {
-            "href": "glyphish/1179-align-center@2x.svg",
+            "href": "glyphish/align-center.svg",
             "filename": "align center"
         },
         "160": {
-            "href": "glyphish/1180-align-justify@2x.svg",
+            "href": "glyphish/align-justify.svg",
             "filename": "align justify"
         },
         "161": {
-            "href": "glyphish/1181-dog@2x.svg",
+            "href": "glyphish/dog.svg",
             "filename": "dog"
         },
         "162": {
-            "href": "glyphish/1182-cat@2x.svg",
+            "href": "glyphish/cat.svg",
             "filename": "cat"
         },
         "163": {
-            "href": "glyphish/1183-pig@2x.svg",
+            "href": "glyphish/pig.svg",
             "filename": "pig"
         },
         "164": {
-            "href": "glyphish/1184-cow@2x.svg",
+            "href": "glyphish/cow.svg",
             "filename": "cow"
         },
         "165": {
-            "href": "glyphish/1185-horse@2x.svg",
+            "href": "glyphish/horse.svg",
             "filename": "horse"
         },
         "166": {
-            "href": "glyphish/1186-chicken@2x.svg",
+            "href": "glyphish/chicken.svg",
             "filename": "chicken"
         },
         "167": {
-            "href": "glyphish/1187-elephant@2x.svg",
+            "href": "glyphish/elephant.svg",
             "filename": "elephant"
         },
         "168": {
-            "href": "glyphish/1188-fish@2x.svg",
+            "href": "glyphish/fish.svg",
             "filename": "fish"
         },
         "169": {
-            "href": "glyphish/1189-snake@2x.svg",
+            "href": "glyphish/snake.svg",
             "filename": "snake"
         },
         "170": {
-            "href": "glyphish/1190-worm@2x.svg",
+            "href": "glyphish/worm.svg",
             "filename": "worm"
         },
         "171": {
-            "href": "glyphish/1191-file-type-image@2x.svg",
+            "href": "glyphish/file-type-image.svg",
             "filename": "file type image"
         },
         "172": {
-            "href": "glyphish/1192-file-type-music@2x.svg",
+            "href": "glyphish/file-type-music.svg",
             "filename": "file type music"
         },
         "173": {
-            "href": "glyphish/1193-file-type-audio@2x.svg",
+            "href": "glyphish/file-type-audio.svg",
             "filename": "file type audio"
         },
         "174": {
-            "href": "glyphish/1194-file-type-sound-recording@2x.svg",
+            "href": "glyphish/file-type-sound-recording.svg",
             "filename": "file type sound recording"
         },
         "175": {
-            "href": "glyphish/1195-file-type-html@2x.svg",
+            "href": "glyphish/file-type-html.svg",
             "filename": "file type html"
         },
         "176": {
-            "href": "glyphish/1196-file-type-code@2x.svg",
+            "href": "glyphish/file-type-code.svg",
             "filename": "file type code"
         },
         "177": {
-            "href": "glyphish/1197-file-type-zip@2x.svg",
+            "href": "glyphish/file-type-zip.svg",
             "filename": "file type zip"
         },
         "178": {
-            "href": "glyphish/1198-file-type-table@2x.svg",
+            "href": "glyphish/file-type-table.svg",
             "filename": "file type table"
         },
         "179": {
-            "href": "glyphish/1199-file-type-tabular-data@2x.svg",
+            "href": "glyphish/file-type-tabular-data.svg",
             "filename": "file type tabular data"
         },
         "180": {
-            "href": "glyphish/1200-file-type-settings@2x.svg",
+            "href": "glyphish/file-type-settings.svg",
             "filename": "file type settings"
         },
         "181": {
-            "href": "glyphish/1201-file-type-film@2x.svg",
+            "href": "glyphish/file-type-film.svg",
             "filename": "file type film"
         },
         "182": {
-            "href": "glyphish/1202-file-type-video@2x.svg",
+            "href": "glyphish/file-type-video.svg",
             "filename": "file type video"
         },
         "183": {
-            "href": "glyphish/1203-file-type-text-document@2x.svg",
+            "href": "glyphish/file-type-text-document.svg",
             "filename": "file type text document"
         },
         "184": {
-            "href": "glyphish/1204-file-type-text-file@2x.svg",
+            "href": "glyphish/file-type-text-file.svg",
             "filename": "file type text file"
         },
         "185": {
-            "href": "glyphish/1205-file-type-pie-chart@2x.svg",
+            "href": "glyphish/file-type-pie-chart.svg",
             "filename": "file type pie chart"
         },
         "186": {
-            "href": "glyphish/1206-file-type-bar-chart@2x.svg",
+            "href": "glyphish/file-type-bar-chart.svg",
             "filename": "file type bar chart"
         },
         "187": {
-            "href": "glyphish/1208-file-type-bookmark@2x.svg",
+            "href": "glyphish/file-type-bookmark.svg",
             "filename": "file type bookmark"
         },
         "188": {
-            "href": "glyphish/1208-file-type-pencil@2x.svg",
+            "href": "glyphish/file-type-pencil.svg",
             "filename": "file type pencil"
         },
         "189": {
-            "href": "glyphish/1209-file-type-vector@2x.svg",
+            "href": "glyphish/file-type-vector.svg",
             "filename": "file type vector"
         },
         "190": {
-            "href": "glyphish/1210-file-type-secure@2x.svg",
+            "href": "glyphish/file-type-secure.svg",
             "filename": "file type secure"
         },
         "191": {
-            "href": "glyphish/1211-document-plus@2x.svg",
+            "href": "glyphish/document-plus.svg",
             "filename": "document plus"
         },
         "192": {
-            "href": "glyphish/1212-document-minus@2x.svg",
+            "href": "glyphish/document-minus.svg",
             "filename": "document minus"
         },
         "193": {
-            "href": "glyphish/1213-document-checked@2x.svg",
+            "href": "glyphish/document-checked.svg",
             "filename": "document checked"
         },
         "194": {
-            "href": "glyphish/1214-document-delete@2x.svg",
+            "href": "glyphish/document-delete.svg",
             "filename": "document delete"
         },
         "195": {
-            "href": "glyphish/1215-document-error@2x.svg",
+            "href": "glyphish/document-error.svg",
             "filename": "document error"
         },
         "196": {
-            "href": "glyphish/1216-folder-plus@2x.svg",
+            "href": "glyphish/folder-plus.svg",
             "filename": "folder plus"
         },
         "197": {
-            "href": "glyphish/1217-folder-minus@2x.svg",
+            "href": "glyphish/folder-minus.svg",
             "filename": "folder minus"
         },
         "198": {
-            "href": "glyphish/1218-folder-checked@2x.svg",
+            "href": "glyphish/folder-checked.svg",
             "filename": "folder checked"
         },
         "199": {
-            "href": "glyphish/1219-folder-delete@2x.svg",
+            "href": "glyphish/folder-delete.svg",
             "filename": "folder delete"
         },
         "200": {
-            "href": "glyphish/1220-folder-error@2x.svg",
+            "href": "glyphish/folder-error.svg",
             "filename": "folder error"
         },
         "201": {
-            "href": "glyphish/1221-basket-plus@2x.svg",
+            "href": "glyphish/basket-plus.svg",
             "filename": "basket plus"
         },
         "202": {
-            "href": "glyphish/1222-basket-minus@2x.svg",
+            "href": "glyphish/basket-minus.svg",
             "filename": "basket minus"
         },
         "203": {
-            "href": "glyphish/1223-basket-checked@2x.svg",
+            "href": "glyphish/basket-checked.svg",
             "filename": "basket checked"
         },
         "204": {
-            "href": "glyphish/1224-basket-delete@2x.svg",
+            "href": "glyphish/basket-delete.svg",
             "filename": "basket delete"
         },
         "205": {
-            "href": "glyphish/1225-basket-delete@2x.svg",
+            "href": "glyphish/basket-delete-2.svg",
             "filename": "basket delete"
         },
         "206": {
-            "href": "glyphish/1226-chat-plus@2x.svg",
+            "href": "glyphish/chat-plus.svg",
             "filename": "chat plus"
         },
         "207": {
-            "href": "glyphish/1227-chat-minus@2x.svg",
+            "href": "glyphish/chat-minus.svg",
             "filename": "chat minus"
         },
         "208": {
-            "href": "glyphish/1228-chat-checked@2x.svg",
+            "href": "glyphish/chat-checked.svg",
             "filename": "chat checked"
         },
         "209": {
-            "href": "glyphish/1229-chat-delete@2x.svg",
+            "href": "glyphish/chat-delete.svg",
             "filename": "chat delete"
         },
         "210": {
-            "href": "glyphish/1230-chat-delete@2x.svg",
+            "href": "glyphish/chat-delete.svg",
             "filename": "chat delete"
         },
         "211": {
-            "href": "glyphish/1231-user-add@2x.svg",
+            "href": "glyphish/user-add.svg",
             "filename": "user add"
         },
         "212": {
-            "href": "glyphish/1232-user-minus@2x.svg",
+            "href": "glyphish/user-minus.svg",
             "filename": "user minus"
         },
         "213": {
-            "href": "glyphish/1233-user-checked@2x.svg",
+            "href": "glyphish/user-checked.svg",
             "filename": "user checked"
         },
         "214": {
-            "href": "glyphish/1234-user-delete@2x.svg",
+            "href": "glyphish/user-delete.svg",
             "filename": "user delete"
         },
         "215": {
-            "href": "glyphish/1235-user-error@2x.svg",
+            "href": "glyphish/user-error.svg",
             "filename": "user error"
         },
         "216": {
-            "href": "glyphish/1236-group-plus@2x.svg",
+            "href": "glyphish/group-plus.svg",
             "filename": "group plus"
         },
         "217": {
-            "href": "glyphish/1237-group-minus@2x.svg",
+            "href": "glyphish/group-minus.svg",
             "filename": "group minus"
         },
         "218": {
-            "href": "glyphish/1238-group-checked@2x.svg",
+            "href": "glyphish/group-checked.svg",
             "filename": "group checked"
         },
         "219": {
-            "href": "glyphish/1239-group-delete@2x.svg",
+            "href": "glyphish/group-delete.svg",
             "filename": "group delete"
         },
         "220": {
-            "href": "glyphish/1240-group-error@2x.svg",
+            "href": "glyphish/group-error.svg",
             "filename": "group error"
         },
         "221": {
-            "href": "glyphish/1241-play@2x.svg",
+            "href": "glyphish/play.svg",
             "filename": "play"
         },
         "222": {
-            "href": "glyphish/1242-pause@2x.svg",
+            "href": "glyphish/pause.svg",
             "filename": "pause"
         },
         "223": {
-            "href": "glyphish/1243-stop@2x.svg",
+            "href": "glyphish/stop.svg",
             "filename": "stop"
         },
         "224": {
-            "href": "glyphish/1244-record@2x.svg",
+            "href": "glyphish/record.svg",
             "filename": "record"
         },
         "225": {
-            "href": "glyphish/1245-rewind@2x.svg",
+            "href": "glyphish/rewind.svg",
             "filename": "rewind"
         },
         "226": {
-            "href": "glyphish/1246-fast-forward@2x.svg",
+            "href": "glyphish/fast-forward.svg",
             "filename": "fast forward"
         },
         "227": {
-            "href": "glyphish/1247-skip-back@2x.svg",
+            "href": "glyphish/skip-back.svg",
             "filename": "skip back"
         },
         "228": {
-            "href": "glyphish/1248-skip-ahead@2x.svg",
+            "href": "glyphish/skip-ahead.svg",
             "filename": "skip ahead"
         },
         "229": {
-            "href": "glyphish/1249-slowmo@2x.svg",
+            "href": "glyphish/slowmo.svg",
             "filename": "slowmo"
         },
         "230": {
-            "href": "glyphish/1250-eject@2x.svg",
+            "href": "glyphish/eject.svg",
             "filename": "eject"
         },
         "231": {
-            "href": "glyphish/1251-amazon@2x.svg",
+            "href": "glyphish/amazon.svg",
             "filename": "amazon"
         },
         "232": {
-            "href": "glyphish/1252-apple@2x.svg",
+            "href": "glyphish/apple.svg",
             "filename": "apple"
         },
         "233": {
-            "href": "glyphish/1253-audioscrobbler@2x.svg",
+            "href": "glyphish/audioscrobbler.svg",
             "filename": "audioscrobbler"
         },
         "234": {
-            "href": "glyphish/1254-basecamp@2x.svg",
+            "href": "glyphish/basecamp.svg",
             "filename": "basecamp"
         },
         "235": {
-            "href": "glyphish/1255-blogger@2x.svg",
+            "href": "glyphish/blogger.svg",
             "filename": "blogger"
         },
         "236": {
-            "href": "glyphish/1256-blogger@2x.svg",
+            "href": "glyphish/blogger.svg",
             "filename": "blogger"
         },
         "237": {
-            "href": "glyphish/1257-dribbble@2x.svg",
+            "href": "glyphish/dribbble.svg",
             "filename": "dribbble"
         },
         "238": {
-            "href": "glyphish/1258-dropbox@2x.svg",
+            "href": "glyphish/dropbox.svg",
             "filename": "dropbox"
         },
         "239": {
-            "href": "glyphish/1259-evernote@2x.svg",
+            "href": "glyphish/evernote.svg",
             "filename": "evernote"
         },
         "240": {
-            "href": "glyphish/1260-facebook@2x.svg",
+            "href": "glyphish/facebook.svg",
             "filename": "facebook"
         },
         "241": {
-            "href": "glyphish/1261-fancy@2x.svg",
+            "href": "glyphish/fancy.svg",
             "filename": "fancy"
         },
         "242": {
-            "href": "glyphish/1262-fancy@2x.svg",
+            "href": "glyphish/fancy.svg",
             "filename": "fancy"
         },
         "243": {
-            "href": "glyphish/1263-foursquare@2x.svg",
+            "href": "glyphish/foursquare.svg",
             "filename": "foursquare"
         },
         "244": {
-            "href": "glyphish/1264-github@2x.svg",
+            "href": "glyphish/github.svg",
             "filename": "github"
         },
         "245": {
-            "href": "glyphish/1265-google@2x.svg",
+            "href": "glyphish/google.svg",
             "filename": "google"
         },
         "246": {
-            "href": "glyphish/1266-googleplus@2x.svg",
+            "href": "glyphish/googleplus.svg",
             "filename": "googleplus"
         },
         "247": {
-            "href": "glyphish/1267-icloud@2x.svg",
+            "href": "glyphish/icloud.svg",
             "filename": "icloud"
         },
         "248": {
-            "href": "glyphish/1268-instagram@2x.svg",
+            "href": "glyphish/instagram.svg",
             "filename": "instagram"
         },
         "249": {
-            "href": "glyphish/1269-itunes@2x.svg",
+            "href": "glyphish/itunes.svg",
             "filename": "itunes"
         },
         "250": {
-            "href": "glyphish/1270-linkedin@2x.svg",
+            "href": "glyphish/linkedin.svg",
             "filename": "linkedin"
         },
         "251": {
-            "href": "glyphish/1271-paypal@2x.svg",
+            "href": "glyphish/paypal.svg",
             "filename": "paypal"
         },
         "252": {
-            "href": "glyphish/1272-pinterest@2x.svg",
+            "href": "glyphish/pinterest.svg",
             "filename": "pinterest"
         },
         "253": {
-            "href": "glyphish/1273-quora@2x.svg",
+            "href": "glyphish/quora.svg",
             "filename": "quora"
         },
         "254": {
-            "href": "glyphish/1274-rdio@2x.svg",
+            "href": "glyphish/rdio.svg",
             "filename": "rdio"
         },
         "255": {
-            "href": "glyphish/1275-reddit@2x.svg",
+            "href": "glyphish/reddit.svg",
             "filename": "reddit"
         },
         "256": {
-            "href": "glyphish/1276-share@2x.svg",
+            "href": "glyphish/share.svg",
             "filename": "share"
         },
         "257": {
-            "href": "glyphish/1277-skype@2x.svg",
+            "href": "glyphish/skype.svg",
             "filename": "skype"
         },
         "258": {
-            "href": "glyphish/1278-spotify@2x.svg",
+            "href": "glyphish/spotify.svg",
             "filename": "spotify"
         },
         "259": {
-            "href": "glyphish/1279-steam@2x.svg",
+            "href": "glyphish/steam.svg",
             "filename": "steam"
         },
         "260": {
-            "href": "glyphish/1280-stumbleupon@2x.svg",
+            "href": "glyphish/stumbleupon.svg",
             "filename": "stumbleupon"
         },
         "261": {
-            "href": "glyphish/1281-tumblr@2x.svg",
+            "href": "glyphish/tumblr.svg",
             "filename": "tumblr"
         },
         "262": {
-            "href": "glyphish/1282-twitter@2x.svg",
+            "href": "glyphish/twitter.svg",
             "filename": "twitter"
         },
         "263": {
-            "href": "glyphish/1283-vimeo@2x.svg",
+            "href": "glyphish/vimeo.svg",
             "filename": "vimeo"
         },
         "264": {
-            "href": "glyphish/1284-windows@2x.svg",
+            "href": "glyphish/windows.svg",
             "filename": "windows"
         },
         "265": {
-            "href": "glyphish/1285-wordpress@2x.svg",
+            "href": "glyphish/wordpress.svg",
             "filename": "wordpress"
         },
         "266": {
-            "href": "glyphish/1286-yahoo@2x.svg",
+            "href": "glyphish/yahoo.svg",
             "filename": "yahoo"
         },
         "267": {
-            "href": "glyphish/1287-youtube@2x.svg",
+            "href": "glyphish/youtube.svg",
             "filename": "youtube"
         },
         "268": {
-            "href": "glyphish/1288-500px@2x.svg",
+            "href": "glyphish/500px.svg",
             "filename": "500px"
         },
         "269": {
-            "href": "glyphish/1289-appstore@2x.svg",
+            "href": "glyphish/appstore.svg",
             "filename": "appstore"
         },
         "270": {
-            "href": "glyphish/1290-gmail@2x.svg",
+            "href": "glyphish/gmail.svg",
             "filename": "gmail"
         },
         "271": {
-            "href": "glyphish/1291-bing@2x.svg",
+            "href": "glyphish/bing.svg",
             "filename": "bing"
         },
         "272": {
-            "href": "glyphish/1292-forrst@2x.svg",
+            "href": "glyphish/forrst.svg",
             "filename": "forrst"
         },
         "273": {
-            "href": "glyphish/1293-behance@2x.svg",
+            "href": "glyphish/behance.svg",
             "filename": "behance"
         },
         "274": {
-            "href": "glyphish/1294-deviantart@2x.svg",
+            "href": "glyphish/deviantart.svg",
             "filename": "deviantart"
         },
         "275": {
-            "href": "glyphish/1295-rss@2x.svg",
+            "href": "glyphish/rss.svg",
             "filename": "rss"
         },
         "276": {
-            "href": "glyphish/1296-meetup@2x.svg",
+            "href": "glyphish/meetup.svg",
             "filename": "meetup"
         },
         "277": {
-            "href": "glyphish/1297-android@2x.svg",
+            "href": "glyphish/android.svg",
             "filename": "android"
         },
         "278": {
-            "href": "glyphish/1298-flipboard@2x.svg",
+            "href": "glyphish/flipboard.svg",
             "filename": "flipboard"
         },
         "279": {
-            "href": "glyphish/1299-sinawebo@2x.svg",
+            "href": "glyphish/sinawebo.svg",
             "filename": "sinawebo"
         },
         "280": {
-            "href": "glyphish/1300-renren@2x.svg",
+            "href": "glyphish/renren.svg",
             "filename": "renren"
         },
         "281": {
-            "href": "glyphish/701-location@2x.svg",
+            "href": "glyphish/location.svg",
             "filename": "location"
         },
         "282": {
-            "href": "glyphish/702-share@2x.svg",
+            "href": "glyphish/share.svg",
             "filename": "share"
         },
         "283": {
-            "href": "glyphish/703-download@2x.svg",
+            "href": "glyphish/download.svg",
             "filename": "download"
         },
         "284": {
-            "href": "glyphish/705-photos@2x.svg",
+            "href": "glyphish/photos.svg",
             "filename": "photos"
         },
         "285": {
-            "href": "glyphish/706-cloud@2x.svg",
+            "href": "glyphish/cloud.svg",
             "filename": "cloud"
         },
         "286": {
-            "href": "glyphish/707-albums@2x.svg",
+            "href": "glyphish/albums.svg",
             "filename": "albums"
         },
         "287": {
-            "href": "glyphish/708-search@2x.svg",
+            "href": "glyphish/search.svg",
             "filename": "search"
         },
         "288": {
-            "href": "glyphish/709-plus@2x.svg",
+            "href": "glyphish/plus.svg",
             "filename": "plus"
         },
         "289": {
-            "href": "glyphish/710-folder@2x.svg",
+            "href": "glyphish/folder.svg",
             "filename": "folder"
         },
         "290": {
-            "href": "glyphish/711-trash@2x.svg",
+            "href": "glyphish/trash.svg",
             "filename": "trash"
         },
         "291": {
-            "href": "glyphish/712-reply@2x.svg",
+            "href": "glyphish/reply.svg",
             "filename": "reply"
         },
         "292": {
-            "href": "glyphish/713-refresh-1@2x.svg",
+            "href": "glyphish/refresh-1.svg",
             "filename": "refresh 1"
         },
         "293": {
-            "href": "glyphish/714-camera@2x.svg",
+            "href": "glyphish/camera.svg",
             "filename": "camera"
         },
         "294": {
-            "href": "glyphish/715-globe@2x.svg",
+            "href": "glyphish/globe.svg",
             "filename": "globe"
         },
         "295": {
-            "href": "glyphish/716-stopwatch-1@2x.svg",
+            "href": "glyphish/stopwatch-1.svg",
             "filename": "stopwatch 1"
         },
         "296": {
-            "href": "glyphish/717-flag@2x.svg",
+            "href": "glyphish/flag.svg",
             "filename": "flag"
         },
         "297": {
-            "href": "glyphish/718-timer-1@2x.svg",
+            "href": "glyphish/timer-1.svg",
             "filename": "timer 1"
         },
         "298": {
-            "href": "glyphish/719-alarm-clock@2x.svg",
+            "href": "glyphish/alarm-clock.svg",
             "filename": "alarm clock"
         },
         "299": {
-            "href": "glyphish/720-keyhole@2x.svg",
+            "href": "glyphish/keyhole.svg",
             "filename": "keyhole"
         },
         "300": {
-            "href": "glyphish/721-bookmarks@2x.svg",
+            "href": "glyphish/bookmarks.svg",
             "filename": "bookmarks"
         },
         "301": {
-            "href": "glyphish/722-location-pin@2x.svg",
+            "href": "glyphish/location-pin.svg",
             "filename": "location pin"
         },
         "302": {
-            "href": "glyphish/723-location-arrow@2x.svg",
+            "href": "glyphish/location-arrow.svg",
             "filename": "location arrow"
         },
         "303": {
-            "href": "glyphish/724-info@2x.svg",
+            "href": "glyphish/info.svg",
             "filename": "info"
         },
         "304": {
-            "href": "glyphish/725-airplay@2x.svg",
+            "href": "glyphish/airplay.svg",
             "filename": "airplay"
         },
         "305": {
-            "href": "glyphish/726-star@2x.svg",
+            "href": "glyphish/star.svg",
             "filename": "star"
         },
         "306": {
-            "href": "glyphish/727-more@2x.svg",
+            "href": "glyphish/more.svg",
             "filename": "more"
         },
         "307": {
-            "href": "glyphish/728-clock@2x.svg",
+            "href": "glyphish/clock.svg",
             "filename": "clock"
         },
         "308": {
-            "href": "glyphish/729-top-list@2x.svg",
+            "href": "glyphish/top-list.svg",
             "filename": "top list"
         },
         "309": {
-            "href": "glyphish/730-envelope@2x.svg",
+            "href": "glyphish/envelope.svg",
             "filename": "envelope"
         },
         "310": {
-            "href": "glyphish/731-cloud-download@2x.svg",
+            "href": "glyphish/cloud-download.svg",
             "filename": "cloud download"
         },
         "311": {
-            "href": "glyphish/732-cloud-upload@2x.svg",
+            "href": "glyphish/cloud-upload.svg",
             "filename": "cloud upload"
         },
         "312": {
-            "href": "glyphish/733-video-camera@2x.svg",
+            "href": "glyphish/video-camera.svg",
             "filename": "video camera"
         },
         "313": {
-            "href": "glyphish/734-chat@2x.svg",
+            "href": "glyphish/chat.svg",
             "filename": "chat"
         },
         "314": {
-            "href": "glyphish/735-phone@2x.svg",
+            "href": "glyphish/phone.svg",
             "filename": "phone"
         },
         "315": {
-            "href": "glyphish/736-zoom-in@2x.svg",
+            "href": "glyphish/zoom-in.svg",
             "filename": "zoom in"
         },
         "316": {
-            "href": "glyphish/737-zoom-out@2x.svg",
+            "href": "glyphish/zoom-out.svg",
             "filename": "zoom out"
         },
         "317": {
-            "href": "glyphish/738-document-1@2x.svg",
+            "href": "glyphish/document-1.svg",
             "filename": "document 1"
         },
         "318": {
-            "href": "glyphish/739-question@2x.svg",
+            "href": "glyphish/question.svg",
             "filename": "question"
         },
         "319": {
-            "href": "glyphish/740-gear@2x.svg",
+            "href": "glyphish/gear.svg",
             "filename": "gear"
         },
         "320": {
-            "href": "glyphish/741-box@2x.svg",
+            "href": "glyphish/box.svg",
             "filename": "box"
         },
         "321": {
-            "href": "glyphish/742-wrench@2x.svg",
+            "href": "glyphish/wrench.svg",
             "filename": "wrench"
         },
         "322": {
-            "href": "glyphish/743-printer@2x.svg",
+            "href": "glyphish/printer.svg",
             "filename": "printer"
         },
         "323": {
-            "href": "glyphish/744-locked@2x.svg",
+            "href": "glyphish/locked.svg",
             "filename": "locked"
         },
         "324": {
-            "href": "glyphish/745-unlocked@2x.svg",
+            "href": "glyphish/unlocked.svg",
             "filename": "unlocked"
         },
         "325": {
-            "href": "glyphish/746-plus-circle@2x.svg",
+            "href": "glyphish/plus-circle.svg",
             "filename": "plus circle"
         },
         "326": {
-            "href": "glyphish/747-tag@2x.svg",
+            "href": "glyphish/tag.svg",
             "filename": "tag"
         },
         "327": {
-            "href": "glyphish/748-heart@2x.svg",
+            "href": "glyphish/heart.svg",
             "filename": "heart"
         },
         "328": {
-            "href": "glyphish/749-inbox@2x.svg",
+            "href": "glyphish/inbox.svg",
             "filename": "inbox"
         },
         "329": {
-            "href": "glyphish/750-home@2x.svg",
+            "href": "glyphish/home.svg",
             "filename": "home"
         },
         "330": {
-            "href": "glyphish/751-eye@2x.svg",
+            "href": "glyphish/eye.svg",
             "filename": "eye"
         },
         "331": {
-            "href": "glyphish/752-credit-card@2x.svg",
+            "href": "glyphish/credit-card.svg",
             "filename": "credit card"
         },
         "332": {
-            "href": "glyphish/753-signpost@2x.svg",
+            "href": "glyphish/signpost.svg",
             "filename": "signpost"
         },
         "333": {
-            "href": "glyphish/754-scale@2x.svg",
+            "href": "glyphish/scale.svg",
             "filename": "scale"
         },
         "334": {
-            "href": "glyphish/755-filing-cabinet@2x.svg",
+            "href": "glyphish/filing-cabinet.svg",
             "filename": "filing cabinet"
         },
         "335": {
-            "href": "glyphish/756-bell@2x.svg",
+            "href": "glyphish/bell.svg",
             "filename": "bell"
         },
         "336": {
-            "href": "glyphish/757-paper-airplane@2x.svg",
+            "href": "glyphish/paper-airplane.svg",
             "filename": "paper airplane"
         },
         "337": {
-            "href": "glyphish/758-megaphone@2x.svg",
+            "href": "glyphish/megaphone.svg",
             "filename": "megaphone"
         },
         "338": {
-            "href": "glyphish/759-refresh-2@2x.svg",
+            "href": "glyphish/refresh-2.svg",
             "filename": "refresh 2"
         },
         "339": {
-            "href": "glyphish/760-refresh-3@2x.svg",
+            "href": "glyphish/refresh-3.svg",
             "filename": "refresh 3"
         },
         "340": {
-            "href": "glyphish/761-gift@2x.svg",
+            "href": "glyphish/gift.svg",
             "filename": "gift"
         },
         "341": {
-            "href": "glyphish/762-shopping-bag@2x.svg",
+            "href": "glyphish/shopping-bag.svg",
             "filename": "shopping bag"
         },
         "342": {
-            "href": "glyphish/763-arrow-up@2x.svg",
+            "href": "glyphish/arrow-up.svg",
             "filename": "arrow up"
         },
         "343": {
-            "href": "glyphish/764-arrow-down@2x.svg",
+            "href": "glyphish/arrow-down.svg",
             "filename": "arrow down"
         },
         "344": {
-            "href": "glyphish/765-arrow-left@2x.svg",
+            "href": "glyphish/arrow-left.svg",
             "filename": "arrow left"
         },
         "345": {
-            "href": "glyphish/766-arrow-right@2x.svg",
+            "href": "glyphish/arrow-right.svg",
             "filename": "arrow right"
         },
         "346": {
-            "href": "glyphish/767-photo-1@2x.svg",
+            "href": "glyphish/photo-1.svg",
             "filename": "photo 1"
         },
         "347": {
-            "href": "glyphish/768-female@2x.svg",
+            "href": "glyphish/female.svg",
             "filename": "female"
         },
         "348": {
-            "href": "glyphish/769-male@2x.svg",
+            "href": "glyphish/male.svg",
             "filename": "male"
         },
         "349": {
-            "href": "glyphish/770-paper-clip@2x.svg",
+            "href": "glyphish/paper-clip.svg",
             "filename": "paper clip"
         },
         "350": {
-            "href": "glyphish/771-sound-muted@2x.svg",
+            "href": "glyphish/sound-muted.svg",
             "filename": "sound muted"
         },
         "351": {
-            "href": "glyphish/772-sound-1@2x.svg",
+            "href": "glyphish/sound-1.svg",
             "filename": "sound 1"
         },
         "352": {
-            "href": "glyphish/773-sound-2@2x.svg",
+            "href": "glyphish/sound-2.svg",
             "filename": "sound 2"
         },
         "353": {
-            "href": "glyphish/774-sound-3@2x.svg",
+            "href": "glyphish/sound-3.svg",
             "filename": "sound 3"
         },
         "354": {
-            "href": "glyphish/775-scissors@2x.svg",
+            "href": "glyphish/scissors.svg",
             "filename": "scissors"
         },
         "355": {
-            "href": "glyphish/776-recycle@2x.svg",
+            "href": "glyphish/recycle.svg",
             "filename": "recycle"
         },
         "356": {
-            "href": "glyphish/777-thumbs-up@2x.svg",
+            "href": "glyphish/thumbs-up.svg",
             "filename": "thumbs up"
         },
         "357": {
-            "href": "glyphish/778-thumbs-down@2x.svg",
+            "href": "glyphish/thumbs-down.svg",
             "filename": "thumbs down"
         },
         "358": {
-            "href": "glyphish/779-users@2x.svg",
+            "href": "glyphish/users.svg",
             "filename": "users"
         },
         "359": {
-            "href": "glyphish/780-building@2x.svg",
+            "href": "glyphish/building.svg",
             "filename": "building"
         },
         "360": {
-            "href": "glyphish/781-ships-wheel@2x.svg",
+            "href": "glyphish/ships-wheel.svg",
             "filename": "ships wheel"
         },
         "361": {
-            "href": "glyphish/782-compass@2x.svg",
+            "href": "glyphish/compass.svg",
             "filename": "compass"
         },
         "362": {
-            "href": "glyphish/783-combination-lock@2x.svg",
+            "href": "glyphish/combination-lock.svg",
             "filename": "combination lock"
         },
         "363": {
-            "href": "glyphish/784-target@2x.svg",
+            "href": "glyphish/target.svg",
             "filename": "target"
         },
         "364": {
-            "href": "glyphish/785-floppy-disk@2x.svg",
+            "href": "glyphish/floppy-disk.svg",
             "filename": "floppy disk"
         },
         "365": {
-            "href": "glyphish/786-browser@2x.svg",
+            "href": "glyphish/browser.svg",
             "filename": "browser"
         },
         "366": {
-            "href": "glyphish/787-browser-windows@2x.svg",
+            "href": "glyphish/browser-windows.svg",
             "filename": "browser windows"
         },
         "367": {
-            "href": "glyphish/788-video-film-strip@2x.svg",
+            "href": "glyphish/video-film-strip.svg",
             "filename": "video film strip"
         },
         "368": {
-            "href": "glyphish/789-map-location@2x.svg",
+            "href": "glyphish/map-location.svg",
             "filename": "map location"
         },
         "369": {
-            "href": "glyphish/790-golf@2x.svg",
+            "href": "glyphish/golf.svg",
             "filename": "golf"
         },
         "370": {
-            "href": "glyphish/791-warning@2x.svg",
+            "href": "glyphish/warning.svg",
             "filename": "warning"
         },
         "371": {
-            "href": "glyphish/792-tv@2x.svg",
+            "href": "glyphish/tv.svg",
             "filename": "tv"
         },
         "372": {
-            "href": "glyphish/793-service-bell@2x.svg",
+            "href": "glyphish/service-bell.svg",
             "filename": "service bell"
         },
         "373": {
-            "href": "glyphish/794-chart@2x.svg",
+            "href": "glyphish/chart.svg",
             "filename": "chart"
         },
         "374": {
-            "href": "glyphish/795-gauge@2x.svg",
+            "href": "glyphish/gauge.svg",
             "filename": "gauge"
         },
         "375": {
-            "href": "glyphish/796-clock-2@2x.svg",
+            "href": "glyphish/clock-2.svg",
             "filename": "clock 2"
         },
         "376": {
-            "href": "glyphish/797-archive@2x.svg",
+            "href": "glyphish/archive.svg",
             "filename": "archive"
         },
         "377": {
-            "href": "glyphish/798-filter@2x.svg",
+            "href": "glyphish/filter.svg",
             "filename": "filter"
         },
         "378": {
-            "href": "glyphish/799-beverage@2x.svg",
+            "href": "glyphish/beverage.svg",
             "filename": "beverage"
         },
         "379": {
-            "href": "glyphish/800-umbrella@2x.svg",
+            "href": "glyphish/umbrella.svg",
             "filename": "umbrella"
         },
         "380": {
-            "href": "glyphish/801-bird-house@2x.svg",
+            "href": "glyphish/bird-house.svg",
             "filename": "bird house"
         },
         "381": {
-            "href": "glyphish/802-dog-house@2x.svg",
+            "href": "glyphish/dog-house.svg",
             "filename": "dog house"
         },
         "382": {
-            "href": "glyphish/803-large-house@2x.svg",
+            "href": "glyphish/large-house.svg",
             "filename": "large house"
         },
         "383": {
-            "href": "glyphish/804-mouse-cursor@2x.svg",
+            "href": "glyphish/mouse-cursor.svg",
             "filename": "mouse cursor"
         },
         "384": {
-            "href": "glyphish/805-mailbox@2x.svg",
+            "href": "glyphish/mailbox.svg",
             "filename": "mailbox"
         },
         "385": {
-            "href": "glyphish/806-parcel@2x.svg",
+            "href": "glyphish/parcel.svg",
             "filename": "parcel"
         },
         "386": {
-            "href": "glyphish/807-package@2x.svg",
+            "href": "glyphish/package.svg",
             "filename": "package"
         },
         "387": {
-            "href": "glyphish/808-documents@2x.svg",
+            "href": "glyphish/documents.svg",
             "filename": "documents"
         },
         "388": {
-            "href": "glyphish/809-clipboard@2x.svg",
+            "href": "glyphish/clipboard.svg",
             "filename": "clipboard"
         },
         "389": {
-            "href": "glyphish/810-document-2@2x.svg",
+            "href": "glyphish/document-2.svg",
             "filename": "document 2"
         },
         "390": {
-            "href": "glyphish/811-download-box@2x.svg",
+            "href": "glyphish/download-box.svg",
             "filename": "download box"
         },
         "391": {
-            "href": "glyphish/812-hiking@2x.svg",
+            "href": "glyphish/hiking.svg",
             "filename": "hiking"
         },
         "392": {
-            "href": "glyphish/813-train@2x.svg",
+            "href": "glyphish/train.svg",
             "filename": "train"
         },
         "393": {
-            "href": "glyphish/814-bus@2x.svg",
+            "href": "glyphish/bus.svg",
             "filename": "bus"
         },
         "394": {
-            "href": "glyphish/815-car@2x.svg",
+            "href": "glyphish/car.svg",
             "filename": "car"
         },
         "395": {
-            "href": "glyphish/816-satellite@2x.svg",
+            "href": "glyphish/satellite.svg",
             "filename": "satellite"
         },
         "396": {
-            "href": "glyphish/817-costume@2x.svg",
+            "href": "glyphish/costume.svg",
             "filename": "costume"
         },
         "397": {
-            "href": "glyphish/818-flower-pot@2x.svg",
+            "href": "glyphish/flower-pot.svg",
             "filename": "flower pot"
         },
         "398": {
-            "href": "glyphish/819-washing-machine@2x.svg",
+            "href": "glyphish/washing-machine.svg",
             "filename": "washing machine"
         },
         "399": {
-            "href": "glyphish/820-bathtub@2x.svg",
+            "href": "glyphish/bathtub.svg",
             "filename": "bathtub"
         },
         "400": {
-            "href": "glyphish/821-stamp@2x.svg",
+            "href": "glyphish/stamp.svg",
             "filename": "stamp"
         },
         "401": {
-            "href": "glyphish/822-photo-2@2x.svg",
+            "href": "glyphish/photo-2.svg",
             "filename": "photo 2"
         },
         "402": {
-            "href": "glyphish/823-birthday-cake@2x.svg",
+            "href": "glyphish/birthday-cake.svg",
             "filename": "birthday cake"
         },
         "403": {
-            "href": "glyphish/824-headphone@2x.svg",
+            "href": "glyphish/headphone.svg",
             "filename": "headphone"
         },
         "404": {
-            "href": "glyphish/825-microphone@2x.svg",
+            "href": "glyphish/microphone.svg",
             "filename": "microphone"
         },
         "405": {
-            "href": "glyphish/826-money-1@2x.svg",
+            "href": "glyphish/money-1.svg",
             "filename": "money 1"
         },
         "406": {
-            "href": "glyphish/827-money-2@2x.svg",
+            "href": "glyphish/money-2.svg",
             "filename": "money 2"
         },
         "407": {
-            "href": "glyphish/828-shield@2x.svg",
+            "href": "glyphish/shield.svg",
             "filename": "shield"
         },
         "408": {
-            "href": "glyphish/829-safety-pin@2x.svg",
+            "href": "glyphish/safety-pin.svg",
             "filename": "safety pin"
         },
         "409": {
-            "href": "glyphish/830-pencil@2x.svg",
+            "href": "glyphish/pencil.svg",
             "filename": "pencil"
         },
         "410": {
-            "href": "glyphish/831-stack-2@2x.svg",
+            "href": "glyphish/stack-2.svg",
             "filename": "stack 2"
         },
         "411": {
-            "href": "glyphish/832-stack-1@2x.svg",
+            "href": "glyphish/stack-1.svg",
             "filename": "stack 1"
         },
         "412": {
-            "href": "glyphish/833-diamond@2x.svg",
+            "href": "glyphish/diamond.svg",
             "filename": "diamond"
         },
         "413": {
-            "href": "glyphish/834-bolt@2x.svg",
+            "href": "glyphish/bolt.svg",
             "filename": "bolt"
         },
         "414": {
-            "href": "glyphish/835-screw@2x.svg",
+            "href": "glyphish/screw.svg",
             "filename": "screw"
         },
         "415": {
-            "href": "glyphish/836-anchor@2x.svg",
+            "href": "glyphish/anchor.svg",
             "filename": "anchor"
         },
         "416": {
-            "href": "glyphish/837-palette@2x.svg",
+            "href": "glyphish/palette.svg",
             "filename": "palette"
         },
         "417": {
-            "href": "glyphish/838-dice@2x.svg",
+            "href": "glyphish/dice.svg",
             "filename": "dice"
         },
         "418": {
-            "href": "glyphish/839-mobile-phone@2x.svg",
+            "href": "glyphish/mobile-phone.svg",
             "filename": "mobile phone"
         },
         "419": {
-            "href": "glyphish/840-stopwatch-2@2x.svg",
+            "href": "glyphish/stopwatch-2.svg",
             "filename": "stopwatch 2"
         },
         "420": {
-            "href": "glyphish/841-music-playlist@2x.svg",
+            "href": "glyphish/music-playlist.svg",
             "filename": "music playlist"
         },
         "421": {
-            "href": "glyphish/842-chat-bubbles@2x.svg",
+            "href": "glyphish/chat-bubbles.svg",
             "filename": "chat bubbles"
         },
         "422": {
-            "href": "glyphish/843-link@2x.svg",
+            "href": "glyphish/link.svg",
             "filename": "link"
         },
         "423": {
-            "href": "glyphish/844-trumpet@2x.svg",
+            "href": "glyphish/trumpet.svg",
             "filename": "trumpet"
         },
         "424": {
-            "href": "glyphish/845-location-target@2x.svg",
+            "href": "glyphish/location-target.svg",
             "filename": "location target"
         },
         "425": {
-            "href": "glyphish/846-sun-1@2x.svg",
+            "href": "glyphish/sun-1.svg",
             "filename": "sun 1"
         },
         "426": {
-            "href": "glyphish/847-moon@2x.svg",
+            "href": "glyphish/moon.svg",
             "filename": "moon"
         },
         "427": {
-            "href": "glyphish/848-piano@2x.svg",
+            "href": "glyphish/piano.svg",
             "filename": "piano"
         },
         "428": {
-            "href": "glyphish/849-radar@2x.svg",
+            "href": "glyphish/radar.svg",
             "filename": "radar"
         },
         "429": {
-            "href": "glyphish/850-calculator@2x.svg",
+            "href": "glyphish/calculator.svg",
             "filename": "calculator"
         },
         "430": {
-            "href": "glyphish/851-calendar@2x.svg",
+            "href": "glyphish/calendar.svg",
             "filename": "calendar"
         },
         "431": {
-            "href": "glyphish/852-map@2x.svg",
+            "href": "glyphish/map.svg",
             "filename": "map"
         },
         "432": {
-            "href": "glyphish/853-fence@2x.svg",
+            "href": "glyphish/fence.svg",
             "filename": "fence"
         },
         "433": {
-            "href": "glyphish/854-list@2x.svg",
+            "href": "glyphish/list.svg",
             "filename": "list"
         },
         "434": {
-            "href": "glyphish/855-door@2x.svg",
+            "href": "glyphish/door.svg",
             "filename": "door"
         },
         "435": {
-            "href": "glyphish/856-lightning-bolt@2x.svg",
+            "href": "glyphish/lightning-bolt.svg",
             "filename": "lightning bolt"
         },
         "436": {
-            "href": "glyphish/857-rocket@2x.svg",
+            "href": "glyphish/rocket.svg",
             "filename": "rocket"
         },
         "437": {
-            "href": "glyphish/858-line-chart@2x.svg",
+            "href": "glyphish/line-chart.svg",
             "filename": "line chart"
         },
         "438": {
-            "href": "glyphish/859-bar-chart@2x.svg",
+            "href": "glyphish/bar-chart.svg",
             "filename": "bar chart"
         },
         "439": {
-            "href": "glyphish/860-glasses@2x.svg",
+            "href": "glyphish/glasses.svg",
             "filename": "glasses"
         },
         "440": {
-            "href": "glyphish/861-sun-2@2x.svg",
+            "href": "glyphish/sun-2.svg",
             "filename": "sun 2"
         },
         "441": {
-            "href": "glyphish/862-sun-cloud@2x.svg",
+            "href": "glyphish/sun-cloud.svg",
             "filename": "sun cloud"
         },
         "442": {
-            "href": "glyphish/863-cloud-2@2x.svg",
+            "href": "glyphish/cloud-2.svg",
             "filename": "cloud 2"
         },
         "443": {
-            "href": "glyphish/864-rain-cloud@2x.svg",
+            "href": "glyphish/rain-cloud.svg",
             "filename": "rain cloud"
         },
         "444": {
-            "href": "glyphish/865-storm-cloud@2x.svg",
+            "href": "glyphish/storm-cloud.svg",
             "filename": "storm cloud"
         },
         "445": {
-            "href": "glyphish/866-snow-cloud@2x.svg",
+            "href": "glyphish/snow-cloud.svg",
             "filename": "snow cloud"
         },
         "446": {
-            "href": "glyphish/867-swords@2x.svg",
+            "href": "glyphish/swords.svg",
             "filename": "swords"
         },
         "447": {
-            "href": "glyphish/868-atom@2x.svg",
+            "href": "glyphish/atom.svg",
             "filename": "atom"
         },
         "448": {
-            "href": "glyphish/869-pin@2x.svg",
+            "href": "glyphish/pin.svg",
             "filename": "pin"
         },
         "449": {
-            "href": "glyphish/870-smile@2x.svg",
+            "href": "glyphish/smile.svg",
             "filename": "smile"
         },
         "450": {
-            "href": "glyphish/871-handtruck@2x.svg",
+            "href": "glyphish/handtruck.svg",
             "filename": "handtruck"
         },
         "451": {
-            "href": "glyphish/872-podium@2x.svg",
+            "href": "glyphish/podium.svg",
             "filename": "podium"
         },
         "452": {
-            "href": "glyphish/873-magic-wand@2x.svg",
+            "href": "glyphish/magic-wand.svg",
             "filename": "magic wand"
         },
         "453": {
-            "href": "glyphish/874-newspaper@2x.svg",
+            "href": "glyphish/newspaper.svg",
             "filename": "newspaper"
         },
         "454": {
-            "href": "glyphish/875-skull@2x.svg",
+            "href": "glyphish/skull.svg",
             "filename": "skull"
         },
         "455": {
-            "href": "glyphish/876-store@2x.svg",
+            "href": "glyphish/store.svg",
             "filename": "store"
         },
         "456": {
-            "href": "glyphish/877-slingshot@2x.svg",
+            "href": "glyphish/slingshot.svg",
             "filename": "slingshot"
         },
         "457": {
-            "href": "glyphish/878-binoculars@2x.svg",
+            "href": "glyphish/binoculars.svg",
             "filename": "binoculars"
         },
         "458": {
-            "href": "glyphish/879-mountains@2x.svg",
+            "href": "glyphish/mountains.svg",
             "filename": "mountains"
         },
         "459": {
-            "href": "glyphish/880-bank@2x.svg",
+            "href": "glyphish/bank.svg",
             "filename": "bank"
         },
         "460": {
-            "href": "glyphish/881-globe@2x.svg",
+            "href": "glyphish/globe.svg",
             "filename": "globe"
         },
         "461": {
-            "href": "glyphish/882-mug@2x.svg",
+            "href": "glyphish/mug.svg",
             "filename": "mug"
         },
         "462": {
-            "href": "glyphish/883-beaker@2x.svg",
+            "href": "glyphish/beaker.svg",
             "filename": "beaker"
         },
         "463": {
-            "href": "glyphish/884-ruler@2x.svg",
+            "href": "glyphish/ruler.svg",
             "filename": "ruler"
         },
         "464": {
-            "href": "glyphish/885-trailer@2x.svg",
+            "href": "glyphish/trailer.svg",
             "filename": "trailer"
         },
         "465": {
-            "href": "glyphish/886-ice-cream-cone@2x.svg",
+            "href": "glyphish/ice-cream-cone.svg",
             "filename": "ice cream cone"
         },
         "466": {
-            "href": "glyphish/887-notepad@2x.svg",
+            "href": "glyphish/notepad.svg",
             "filename": "notepad"
         },
         "467": {
-            "href": "glyphish/888-checkmark@2x.svg",
+            "href": "glyphish/checkmark.svg",
             "filename": "checkmark"
         },
         "468": {
-            "href": "glyphish/889-sort-descending@2x.svg",
+            "href": "glyphish/sort-descending.svg",
             "filename": "sort descending"
         },
         "469": {
-            "href": "glyphish/890-sort-ascending@2x.svg",
+            "href": "glyphish/sort-ascending.svg",
             "filename": "sort ascending"
         },
         "470": {
-            "href": "glyphish/891-shuffle@2x.svg",
+            "href": "glyphish/shuffle.svg",
             "filename": "shuffle"
         },
         "471": {
-            "href": "glyphish/892-bandaid@2x.svg",
+            "href": "glyphish/bandaid.svg",
             "filename": "bandaid"
         },
         "472": {
-            "href": "glyphish/893-airplane@2x.svg",
+            "href": "glyphish/airplane.svg",
             "filename": "airplane"
         },
         "473": {
-            "href": "glyphish/894-t-shirt@2x.svg",
+            "href": "glyphish/t-shirt.svg",
             "filename": "t shirt"
         },
         "474": {
-            "href": "glyphish/895-user-group@2x.svg",
+            "href": "glyphish/user-group.svg",
             "filename": "user group"
         },
         "475": {
-            "href": "glyphish/896-road-sign@2x.svg",
+            "href": "glyphish/road-sign.svg",
             "filename": "road sign"
         },
         "476": {
-            "href": "glyphish/897-graduation-cap@2x.svg",
+            "href": "glyphish/graduation-cap.svg",
             "filename": "graduation cap"
         },
         "477": {
-            "href": "glyphish/898-music-note@2x.svg",
+            "href": "glyphish/music-note.svg",
             "filename": "music note"
         },
         "478": {
-            "href": "glyphish/899-key@2x.svg",
+            "href": "glyphish/key.svg",
             "filename": "key"
         },
         "479": {
-            "href": "glyphish/900-telescope@2x.svg",
+            "href": "glyphish/telescope.svg",
             "filename": "telescope"
         },
         "480": {
-            "href": "glyphish/901-repeat@2x.svg",
+            "href": "glyphish/repeat.svg",
             "filename": "repeat"
         },
         "481": {
-            "href": "glyphish/902-repeat-infinite@2x.svg",
+            "href": "glyphish/repeat-infinite.svg",
             "filename": "repeat infinite"
         },
         "482": {
-            "href": "glyphish/903-squiggle@2x.svg",
+            "href": "glyphish/squiggle.svg",
             "filename": "squiggle"
         },
         "483": {
-            "href": "glyphish/904-shuffle@2x.svg",
+            "href": "glyphish/shuffle.svg",
             "filename": "shuffle"
         },
         "484": {
-            "href": "glyphish/905-chat-2@2x.svg",
+            "href": "glyphish/chat-2.svg",
             "filename": "chat 2"
         },
         "485": {
-            "href": "glyphish/906-chat-3@2x.svg",
+            "href": "glyphish/chat-3.svg",
             "filename": "chat 3"
         },
         "486": {
-            "href": "glyphish/907-plus-rounded-square@2x.svg",
+            "href": "glyphish/plus-rounded-square.svg",
             "filename": "plus rounded square"
         },
         "487": {
-            "href": "glyphish/908-target@2x.svg",
+            "href": "glyphish/target.svg",
             "filename": "target"
         },
         "488": {
-            "href": "glyphish/909-tags@2x.svg",
+            "href": "glyphish/tags.svg",
             "filename": "tags"
         },
         "489": {
-            "href": "glyphish/910-graph@2x.svg",
+            "href": "glyphish/graph.svg",
             "filename": "graph"
         },
         "490": {
-            "href": "glyphish/911-bottle@2x.svg",
+            "href": "glyphish/bottle.svg",
             "filename": "bottle"
         },
         "491": {
-            "href": "glyphish/912-gears@2x.svg",
+            "href": "glyphish/gears.svg",
             "filename": "gears"
         },
         "492": {
-            "href": "glyphish/913-skull@2x.svg",
+            "href": "glyphish/skull.svg",
             "filename": "skull"
         },
         "493": {
-            "href": "glyphish/914-skull-and-crossbones@2x.svg",
+            "href": "glyphish/skull-and-crossbones.svg",
             "filename": "skull and crossbones"
         },
         "494": {
-            "href": "glyphish/915-bird@2x.svg",
+            "href": "glyphish/bird.svg",
             "filename": "bird"
         },
         "495": {
-            "href": "glyphish/916-planet@2x.svg",
+            "href": "glyphish/planet.svg",
             "filename": "planet"
         },
         "496": {
-            "href": "glyphish/917-speedometer@2x.svg",
+            "href": "glyphish/speedometer.svg",
             "filename": "speedometer"
         },
         "497": {
-            "href": "glyphish/918-ipod-classic@2x.svg",
+            "href": "glyphish/ipod-classic.svg",
             "filename": "ipod classic"
         },
         "498": {
-            "href": "glyphish/919-ipod-touch@2x.svg",
+            "href": "glyphish/ipod-touch.svg",
             "filename": "ipod touch"
         },
         "499": {
-            "href": "glyphish/920-handbag@2x.svg",
+            "href": "glyphish/handbag.svg",
             "filename": "handbag"
         },
         "500": {
-            "href": "glyphish/921-toolbox@2x.svg",
+            "href": "glyphish/toolbox.svg",
             "filename": "toolbox"
         },
         "501": {
-            "href": "glyphish/922-suitcase@2x.svg",
+            "href": "glyphish/suitcase.svg",
             "filename": "suitcase"
         },
         "502": {
-            "href": "glyphish/923-spray-can@2x.svg",
+            "href": "glyphish/spray-can.svg",
             "filename": "spray can"
         },
         "503": {
-            "href": "glyphish/924-inbox-download@2x.svg",
+            "href": "glyphish/inbox-download.svg",
             "filename": "inbox download"
         },
         "504": {
-            "href": "glyphish/925-picture@2x.svg",
+            "href": "glyphish/picture.svg",
             "filename": "picture"
         },
         "505": {
-            "href": "glyphish/926-photos@2x.svg",
+            "href": "glyphish/photos.svg",
             "filename": "photos"
         },
         "506": {
-            "href": "glyphish/927-film-roll@2x.svg",
+            "href": "glyphish/film-roll.svg",
             "filename": "film roll"
         },
         "507": {
-            "href": "glyphish/928-inbox-files@2x.svg",
+            "href": "glyphish/inbox-files.svg",
             "filename": "inbox files"
         },
         "508": {
-            "href": "glyphish/929-film-1@2x.svg",
+            "href": "glyphish/film-1.svg",
             "filename": "film 1"
         },
         "509": {
-            "href": "glyphish/930-film-2@2x.svg",
+            "href": "glyphish/film-2.svg",
             "filename": "film 2"
         },
         "510": {
-            "href": "glyphish/931-gas-pump@2x.svg",
+            "href": "glyphish/gas-pump.svg",
             "filename": "gas pump"
         },
         "511": {
-            "href": "glyphish/932-utensils@2x.svg",
+            "href": "glyphish/utensils.svg",
             "filename": "utensils"
         },
         "512": {
-            "href": "glyphish/933-battery@2x.svg",
+            "href": "glyphish/battery.svg",
             "filename": "battery"
         },
         "513": {
-            "href": "glyphish/934-measuring-cup@2x.svg",
+            "href": "glyphish/measuring-cup.svg",
             "filename": "measuring cup"
         },
         "514": {
-            "href": "glyphish/935-power-socket@2x.svg",
+            "href": "glyphish/power-socket.svg",
             "filename": "power socket"
         },
         "515": {
-            "href": "glyphish/936-tree@2x.svg",
+            "href": "glyphish/tree.svg",
             "filename": "tree"
         },
         "516": {
-            "href": "glyphish/937-wifi-signal@2x.svg",
+            "href": "glyphish/wifi-signal.svg",
             "filename": "wifi signal"
         },
         "517": {
-            "href": "glyphish/938-connections@2x.svg",
+            "href": "glyphish/connections.svg",
             "filename": "connections"
         },
         "518": {
-            "href": "glyphish/939-download-rectangle@2x.svg",
+            "href": "glyphish/download-rectangle.svg",
             "filename": "download rectangle"
         },
         "519": {
-            "href": "glyphish/940-pin@2x.svg",
+            "href": "glyphish/pin.svg",
             "filename": "pin"
         },
         "520": {
-            "href": "glyphish/941-brightness@2x.svg",
+            "href": "glyphish/brightness.svg",
             "filename": "brightness"
         },
         "521": {
-            "href": "glyphish/942-contrast@2x.svg",
+            "href": "glyphish/contrast.svg",
             "filename": "contrast"
         },
         "522": {
-            "href": "glyphish/943-running-man@2x.svg",
+            "href": "glyphish/running-man.svg",
             "filename": "running man"
         },
         "523": {
-            "href": "glyphish/944-walking-man@2x.svg",
+            "href": "glyphish/walking-man.svg",
             "filename": "walking man"
         },
         "524": {
-            "href": "glyphish/945-radar@2x.svg",
+            "href": "glyphish/radar.svg",
             "filename": "radar"
         },
         "525": {
-            "href": "glyphish/946-microphone@2x.svg",
+            "href": "glyphish/microphone.svg",
             "filename": "microphone"
         },
         "526": {
-            "href": "glyphish/947-target-reticle@2x.svg",
+            "href": "glyphish/target-reticle.svg",
             "filename": "target reticle"
         },
         "527": {
-            "href": "glyphish/948-music-note@2x.svg",
+            "href": "glyphish/music-note.svg",
             "filename": "music note"
         },
         "528": {
-            "href": "glyphish/949-paint-brush@2x.svg",
+            "href": "glyphish/paint-brush.svg",
             "filename": "paint brush"
         },
         "529": {
-            "href": "glyphish/950-ekg@2x.svg",
+            "href": "glyphish/ekg.svg",
             "filename": "ekg"
         },
         "530": {
-            "href": "glyphish/951-baby@2x.svg",
+            "href": "glyphish/baby.svg",
             "filename": "baby"
         },
         "531": {
-            "href": "glyphish/952-shopping-cart@2x.svg",
+            "href": "glyphish/shopping-cart.svg",
             "filename": "shopping cart"
         },
         "532": {
-            "href": "glyphish/953-paw-print@2x.svg",
+            "href": "glyphish/paw-print.svg",
             "filename": "paw print"
         },
         "533": {
-            "href": "glyphish/954-light-bulb@2x.svg",
+            "href": "glyphish/light-bulb.svg",
             "filename": "light bulb"
         },
         "534": {
-            "href": "glyphish/955-trophy@2x.svg",
+            "href": "glyphish/trophy.svg",
             "filename": "trophy"
         },
         "535": {
-            "href": "glyphish/956-wine-glass@2x.svg",
+            "href": "glyphish/wine-glass.svg",
             "filename": "wine glass"
         },
         "536": {
-            "href": "glyphish/957-beer-mug@2x.svg",
+            "href": "glyphish/beer-mug.svg",
             "filename": "beer mug"
         },
         "537": {
-            "href": "glyphish/958-life-preserver@2x.svg",
+            "href": "glyphish/life-preserver.svg",
             "filename": "life preserver"
         },
         "538": {
-            "href": "glyphish/959-thermometer@2x.svg",
+            "href": "glyphish/thermometer.svg",
             "filename": "thermometer"
         },
         "539": {
-            "href": "glyphish/960-pill@2x.svg",
+            "href": "glyphish/pill.svg",
             "filename": "pill"
         },
         "540": {
-            "href": "glyphish/961-book-32@2x.svg",
+            "href": "glyphish/book-32.svg",
             "filename": "book 32"
         },
         "541": {
-            "href": "glyphish/962-puzzle-piece@2x.svg",
+            "href": "glyphish/puzzle-piece.svg",
             "filename": "puzzle piece"
         },
         "542": {
-            "href": "glyphish/963-coffee-cup@2x.svg",
+            "href": "glyphish/coffee-cup.svg",
             "filename": "coffee cup"
         },
         "543": {
-            "href": "glyphish/964-game-plan@2x.svg",
+            "href": "glyphish/game-plan.svg",
             "filename": "game plan"
         },
         "544": {
-            "href": "glyphish/965-lightning-bolt@2x.svg",
+            "href": "glyphish/lightning-bolt.svg",
             "filename": "lightning bolt"
         },
         "545": {
-            "href": "glyphish/966-contact-cards@2x.svg",
+            "href": "glyphish/contact-cards.svg",
             "filename": "contact cards"
         },
         "546": {
-            "href": "glyphish/967-piano@2x.svg",
+            "href": "glyphish/piano.svg",
             "filename": "piano"
         },
         "547": {
-            "href": "glyphish/968-sliders@2x.svg",
+            "href": "glyphish/sliders.svg",
             "filename": "sliders"
         },
         "548": {
-            "href": "glyphish/969-television@2x.svg",
+            "href": "glyphish/television.svg",
             "filename": "television"
         },
         "549": {
-            "href": "glyphish/970-medal@2x.svg",
+            "href": "glyphish/medal.svg",
             "filename": "medal"
         },
         "550": {
-            "href": "glyphish/971-chicken-leg@2x.svg",
+            "href": "glyphish/chicken-leg.svg",
             "filename": "chicken leg"
         },
         "551": {
-            "href": "glyphish/972-bug@2x.svg",
+            "href": "glyphish/bug.svg",
             "filename": "bug"
         },
         "552": {
-            "href": "glyphish/973-user@2x.svg",
+            "href": "glyphish/user.svg",
             "filename": "user"
         },
         "553": {
-            "href": "glyphish/974-users@2x.svg",
+            "href": "glyphish/users.svg",
             "filename": "users"
         },
         "554": {
-            "href": "glyphish/975-balloon@2x.svg",
+            "href": "glyphish/balloon.svg",
             "filename": "balloon"
         },
         "555": {
-            "href": "glyphish/976-bow-and-arrow@2x.svg",
+            "href": "glyphish/bow-and-arrow.svg",
             "filename": "bow and arrow"
         },
         "556": {
-            "href": "glyphish/977-checkbox@2x.svg",
+            "href": "glyphish/checkbox.svg",
             "filename": "checkbox"
         },
         "557": {
-            "href": "glyphish/978-coat-hanger@2x.svg",
+            "href": "glyphish/coat-hanger.svg",
             "filename": "coat hanger"
         },
         "558": {
-            "href": "glyphish/979-piggy-bank@2x.svg",
+            "href": "glyphish/piggy-bank.svg",
             "filename": "piggy bank"
         },
         "559": {
-            "href": "glyphish/980-spraybottle@2x.svg",
+            "href": "glyphish/spraybottle.svg",
             "filename": "spraybottle"
         },
         "560": {
-            "href": "glyphish/981-contact-card@2x.svg",
+            "href": "glyphish/contact-card.svg",
             "filename": "contact card"
         },
         "561": {
-            "href": "glyphish/982-food@2x.svg",
+            "href": "glyphish/food.svg",
             "filename": "food"
         },
         "562": {
-            "href": "glyphish/983-sock@2x.svg",
+            "href": "glyphish/sock.svg",
             "filename": "sock"
         },
         "563": {
-            "href": "glyphish/984-bone@2x.svg",
+            "href": "glyphish/bone.svg",
             "filename": "bone"
         },
         "564": {
-            "href": "glyphish/985-castle@2x.svg",
+            "href": "glyphish/castle.svg",
             "filename": "castle"
         },
         "565": {
-            "href": "glyphish/986-ghost@2x.svg",
+            "href": "glyphish/ghost.svg",
             "filename": "ghost"
         },
         "566": {
-            "href": "glyphish/987-ufo@2x.svg",
+            "href": "glyphish/ufo.svg",
             "filename": "ufo"
         },
         "567": {
-            "href": "glyphish/988-helmet@2x.svg",
+            "href": "glyphish/helmet.svg",
             "filename": "helmet"
         },
         "568": {
-            "href": "glyphish/989-hockey-mask@2x.svg",
+            "href": "glyphish/hockey-mask.svg",
             "filename": "hockey mask"
         },
         "569": {
-            "href": "glyphish/990-presentation@2x.svg",
+            "href": "glyphish/presentation.svg",
             "filename": "presentation"
         },
         "570": {
-            "href": "glyphish/991-test-tube@2x.svg",
+            "href": "glyphish/test-tube.svg",
             "filename": "test tube"
         },
         "571": {
-            "href": "glyphish/992-lamp@2x.svg",
+            "href": "glyphish/lamp.svg",
             "filename": "lamp"
         },
         "572": {
-            "href": "glyphish/993-wine-bottle@2x.svg",
+            "href": "glyphish/wine-bottle.svg",
             "filename": "wine bottle"
         },
         "573": {
-            "href": "glyphish/994-rum-jug@2x.svg",
+            "href": "glyphish/rum-jug.svg",
             "filename": "rum jug"
         },
         "574": {
-            "href": "glyphish/995-martini-glass@2x.svg",
+            "href": "glyphish/martini-glass.svg",
             "filename": "martini glass"
         },
         "575": {
-            "href": "glyphish/996-gavel@2x.svg",
+            "href": "glyphish/gavel.svg",
             "filename": "gavel"
         },
         "576": {
-            "href": "glyphish/997-popsicle@2x.svg",
+            "href": "glyphish/popsicle.svg",
             "filename": "popsicle"
         },
         "577": {
-            "href": "glyphish/998-sail-boat@2x.svg",
+            "href": "glyphish/sail-boat.svg",
             "filename": "sail boat"
         },
         "578": {
-            "href": "glyphish/999-contact-card-2@2x.svg",
+            "href": "glyphish/contact-card-2.svg",
             "filename": "contact card 2"
         },
         "579": {
@@ -2331,6 +2331,22 @@
         "582": {
             "href": "plug.svg",
             "filename": "plug"
+        },
+        "583": {
+            "href": "radio.svg",
+            "filename": "radio"
+        },
+        "584": {
+            "href": "input.svg",
+            "filename": "input"
+        },
+        "585": {
+            "href": "title.svg",
+            "filename": "title"
+        },
+        "586": {
+            "href": "pebble-settings.svg",
+            "filename": "pebble-settings"
         }
     }
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="46px" viewBox="0 0 58 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>1158-hockey-stick-and-puck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Glyphish-8-Icons" sketch:type="MSArtboardGroup" transform="translate(-692.000000, -505.000000)" fill="#000000">
+            <g id="1158-hockey-stick-and-puck" sketch:type="MSLayerGroup" transform="translate(692.036996, 505.860499)">
+                <g id="_x31_158-hockey-stick-and-puck_x40_2x.png" sketch:type="MSShapeGroup">
+                    <path d="M14,24 C19.522,24 24,21.762 24,19 L24,13 C24,10.238 19.522,8 14,8 C8.478,8 4,10.238 4,13 L4,19 C4,21.762 8.478,24 14,24 L14,24 Z M14,10 C18.418,10 22,11.344 22,13 C22,14.657 18.418,16 14,16 C9.582,16 6,14.657 6,13 C6,11.344 9.582,10 14,10 L14,10 Z M6,16.009 L6,15.991 C7.824,17.209 10.724,18 14,18 C17.276,18 20.176,17.209 22,15.991 L22,16.009 L22,19 C22,20.657 18.418,22 14,22 C9.582,22 6,20.657 6,19 L6,16.009 L6,16.009 Z M53,0 C52.171,0 51.421,0.336 50.878,0.88 L13.938,37.819 L3.625,36.062 L3.625,36.067 C3.423,36.024 3.215,36 3,36 C1.343,36 0,37.344 0,39 L0,41 C0,42.657 1.343,44 3,44 L15,44 C15.828,44 16.578,43.664 17.121,43.121 L55.121,5.121 C55.664,4.578 56,3.828 56,3 C56,1.343 54.657,0 53,0 L53,0 Z M53.707,3.707 L15.707,41.707 C15.526,41.889 15.276,42 15,42 L3,42 C2.447,42 2,41.553 2,41 L2,39 C2,38.448 2.447,38 3,38 C3.068,38 3.128,38.026 3.192,38.039 L3.196,38.019 L14.097,39.836 L14.098,39.831 C14.169,39.847 14.236,39.874 14.312,39.874 C14.517,39.874 14.696,39.798 14.855,39.692 L14.88,39.704 L14.97,39.614 C14.999,39.588 15.026,39.561 15.052,39.533 L52.292,2.293 C52.474,2.112 52.724,2 53,2 C53.553,2 54,2.447 54,3 C54,3.276 53.888,3.526 53.707,3.707 L53.707,3.707 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
