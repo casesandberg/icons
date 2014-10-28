@@ -6,7 +6,10 @@ function scanDirectory(dir){
     var tempArray = [];
 
     fs.readdirSync(dir).forEach(function(file, i){
-        tempArray = tempArray.concat(printObj(dir + '/' + file, file))
+        var result = printObj(dir + '/' + file, file);
+        if(result != undefined){
+            tempArray = tempArray.concat(printObj(dir + '/' + file, file))
+        }
     });
 
     return tempArray
@@ -19,11 +22,14 @@ function printObj(path, file){
     if(stat && stat.isDirectory()){
         return scanDirectory(path)
     } else if(file != '.DS_Store'){
-        tempObj = {};
-        tempObj.href = path;
-        tempObj.filename = path.replace('.svg', '').replace('svg/', '');
 
-        return [tempObj]
+        if(path.indexOf('-toolbar') == -1){
+            tempObj = {};
+            tempObj.href = path;
+            tempObj.filename = path.replace('.svg', '').replace('svg/', '');
+
+            return [tempObj]
+        }
     }
 }
 

@@ -10,47 +10,47 @@
 }
 
 .a11y(){
-	height: 1px;
-	width: 1px;
-	position: absolute;
-	overflow: hidden;
-	clip: rect(1px 1px 1px 1px);
-	clip: rect(1px,1px,1px,1px);
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px,1px,1px,1px);
 }
 
 .border-radius (@radius: 4px) {
-	-webkit-border-radius: @radius;
-	-moz-border-radius: @radius;
-	border-radius: @radius;
+    -webkit-border-radius: @radius;
+    -moz-border-radius: @radius;
+    border-radius: @radius;
 
-	-moz-background-clip: padding;
-	-webkit-background-clip: padding-box;
-	background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
 }
 
 .speed-up(){
-	transform: translate3d(0,0,0);
-	-moz-transform: translate3d(0,0,0);
-	-webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+    -moz-transform: translate3d(0,0,0);
+    -webkit-transform: translate3d(0,0,0);
 }
 
 .flicker(){
-	-webkit-backface-visibility: hidden;
-	-webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
 }
 
 .transition(@arguments: all 200ms 0 linear) {
-	-webkit-transition+: @arguments;
-	-moz-transition+: @arguments;
-	-o-transition+: @arguments;
-	transition+: @arguments;
+    -webkit-transition+: @arguments;
+    -moz-transition+: @arguments;
+    -o-transition+: @arguments;
+    transition+: @arguments;
 }
 
 .rotate(@deg: 8){
-	transform+: rotate(~"@{deg}deg");
-	-ms-transform+: rotate(~"@{deg}deg");
-	-webkit-transform+: rotate(~"@{deg}deg");
-	-webkit-backface-visibility: hidden;
+    transform+: rotate(~"@{deg}deg");
+    -ms-transform+: rotate(~"@{deg}deg");
+    -webkit-transform+: rotate(~"@{deg}deg");
+    -webkit-backface-visibility: hidden;
 }
 
 .scale(@ratio) {
@@ -69,23 +69,23 @@
 }
 
 .font-size(@sizeValue) {
-	@remValue: @sizeValue / 10;
-	@pxValue: (@sizeValue);
-	font-size: ~"@{pxValue}px";
-	font-size: ~"@{remValue}rem";
+    @remValue: @sizeValue / 10;
+    @pxValue: (@sizeValue);
+    font-size: ~"@{pxValue}px";
+    font-size: ~"@{remValue}rem";
 }
 .font(@size: 15, @weight: 400, @lineheight: auto){
-	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	.font-size(@size);
-	font-weight: @weight;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    .font-size(@size);
+    font-weight: @weight;
     line-height: @lineheight;
-	-webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
 }
 .box-shadow(@var){
-	-webkit-box-shadow: @var;
-	-moz-box-shadow: @var;
-	-o-box-shadow: @var;
-	box-shadow: @var;
+    -webkit-box-shadow: @var;
+    -moz-box-shadow: @var;
+    -o-box-shadow: @var;
+    box-shadow: @var;
 }
 .opacity(@opacity) {
     @opacityPercentage: @opacity * 100;
@@ -101,10 +101,10 @@
 }
 
 .yfont(@size, @weight){
-	.font(@size, @weight);
-	// font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-family: 'BenchNine', sans-serif;
-	// font-family: 'Oswald', sans-serif;
+    .font(@size, @weight);
+    // font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'BenchNine', sans-serif;
+    // font-family: 'Oswald', sans-serif;
 }
 
 .fixed(@top, @right, @bottom, @left){

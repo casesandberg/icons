@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Icon Search</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+
+    <link href="reset.css" rel="stylesheet" />
+	<link rel="stylesheet/less" href="search.less" />
+</head>
+<body>
+
+    <div class="search">
+        <ul class="search-icons">
+
+        </ul>
+    </div>
+
+    <script id="icon-template" type="text/x-handlebars-template">
+        <li class="icon">
+            <img class="icon-image" src="../{{href}}">
+            <span class="icon-label">{{filename}}</span>
+        </li>
+    </script>
+
+
+    <script src="../bower_components/less/dist/less-1.7.5.js"></script>
+    <script>less = { env: 'development' };</script>
+
+	<script src="../bower_components/jquery/dist/jquery.js"></script>
+	<script src="../bower_components/handlebars/handlebars.js"></script>
+	<script src="search.js"></script>
+
+</body>
+</html>

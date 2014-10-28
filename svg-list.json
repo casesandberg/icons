@@ -1,661 +1,328 @@
 {
   "icons": [
-    null,
     {
       "href": "svg/command-symbol.svg",
       "filename": "command-symbol"
-    },
-    {
-      "href": "svg/glyphish/airplane-toolbar.svg",
-      "filename": "glyphish/airplane-toolbar"
     },
     {
       "href": "svg/glyphish/airplane.svg",
       "filename": "glyphish/airplane"
     },
     {
-      "href": "svg/glyphish/airplay-speaker-toolbar.svg",
-      "filename": "glyphish/airplay-speaker-toolbar"
-    },
-    {
       "href": "svg/glyphish/airplay-speaker.svg",
       "filename": "glyphish/airplay-speaker"
-    },
-    {
-      "href": "svg/glyphish/airplay-toolbar.svg",
-      "filename": "glyphish/airplay-toolbar"
     },
     {
       "href": "svg/glyphish/airplay.svg",
       "filename": "glyphish/airplay"
     },
     {
-      "href": "svg/glyphish/alarm-clock-toolbar.svg",
-      "filename": "glyphish/alarm-clock-toolbar"
-    },
-    {
       "href": "svg/glyphish/alarm-clock.svg",
       "filename": "glyphish/alarm-clock"
-    },
-    {
-      "href": "svg/glyphish/album-disc-toolbar.svg",
-      "filename": "glyphish/album-disc-toolbar"
     },
     {
       "href": "svg/glyphish/album-disc.svg",
       "filename": "glyphish/album-disc"
     },
     {
-      "href": "svg/glyphish/album-toolbar.svg",
-      "filename": "glyphish/album-toolbar"
-    },
-    {
       "href": "svg/glyphish/album.svg",
       "filename": "glyphish/album"
-    },
-    {
-      "href": "svg/glyphish/albums-toolbar.svg",
-      "filename": "glyphish/albums-toolbar"
     },
     {
       "href": "svg/glyphish/albums.svg",
       "filename": "glyphish/albums"
     },
     {
-      "href": "svg/glyphish/align-center-toolbar.svg",
-      "filename": "glyphish/align-center-toolbar"
-    },
-    {
       "href": "svg/glyphish/align-center.svg",
       "filename": "glyphish/align-center"
-    },
-    {
-      "href": "svg/glyphish/align-justify-toolbar.svg",
-      "filename": "glyphish/align-justify-toolbar"
     },
     {
       "href": "svg/glyphish/align-justify.svg",
       "filename": "glyphish/align-justify"
     },
     {
-      "href": "svg/glyphish/align-left-toolbar.svg",
-      "filename": "glyphish/align-left-toolbar"
-    },
-    {
       "href": "svg/glyphish/align-left.svg",
       "filename": "glyphish/align-left"
-    },
-    {
-      "href": "svg/glyphish/align-right-toolbar.svg",
-      "filename": "glyphish/align-right-toolbar"
     },
     {
       "href": "svg/glyphish/align-right.svg",
       "filename": "glyphish/align-right"
     },
     {
-      "href": "svg/glyphish/amazon-toolbar.svg",
-      "filename": "glyphish/amazon-toolbar"
-    },
-    {
       "href": "svg/glyphish/amazon.svg",
       "filename": "glyphish/amazon"
-    },
-    {
-      "href": "svg/glyphish/anchor-toolbar.svg",
-      "filename": "glyphish/anchor-toolbar"
     },
     {
       "href": "svg/glyphish/anchor.svg",
       "filename": "glyphish/anchor"
     },
     {
-      "href": "svg/glyphish/android-toolbar.svg",
-      "filename": "glyphish/android-toolbar"
-    },
-    {
       "href": "svg/glyphish/android.svg",
       "filename": "glyphish/android"
-    },
-    {
-      "href": "svg/glyphish/apple-toolbar.svg",
-      "filename": "glyphish/apple-toolbar"
     },
     {
       "href": "svg/glyphish/apple.svg",
       "filename": "glyphish/apple"
     },
     {
-      "href": "svg/glyphish/appstore-toolbar.svg",
-      "filename": "glyphish/appstore-toolbar"
-    },
-    {
       "href": "svg/glyphish/appstore.svg",
       "filename": "glyphish/appstore"
-    },
-    {
-      "href": "svg/glyphish/archive-toolbar.svg",
-      "filename": "glyphish/archive-toolbar"
     },
     {
       "href": "svg/glyphish/archive.svg",
       "filename": "glyphish/archive"
     },
     {
-      "href": "svg/glyphish/arrow-down-toolbar.svg",
-      "filename": "glyphish/arrow-down-toolbar"
-    },
-    {
       "href": "svg/glyphish/arrow-down.svg",
       "filename": "glyphish/arrow-down"
-    },
-    {
-      "href": "svg/glyphish/arrow-left-toolbar.svg",
-      "filename": "glyphish/arrow-left-toolbar"
     },
     {
       "href": "svg/glyphish/arrow-left.svg",
       "filename": "glyphish/arrow-left"
     },
     {
-      "href": "svg/glyphish/arrow-right-toolbar.svg",
-      "filename": "glyphish/arrow-right-toolbar"
-    },
-    {
       "href": "svg/glyphish/arrow-right.svg",
       "filename": "glyphish/arrow-right"
-    },
-    {
-      "href": "svg/glyphish/arrow-up-toolbar.svg",
-      "filename": "glyphish/arrow-up-toolbar"
     },
     {
       "href": "svg/glyphish/arrow-up.svg",
       "filename": "glyphish/arrow-up"
     },
     {
-      "href": "svg/glyphish/at-sign-toolbar.svg",
-      "filename": "glyphish/at-sign-toolbar"
-    },
-    {
       "href": "svg/glyphish/at-sign.svg",
       "filename": "glyphish/at-sign"
-    },
-    {
-      "href": "svg/glyphish/atom-toolbar.svg",
-      "filename": "glyphish/atom-toolbar"
     },
     {
       "href": "svg/glyphish/atom.svg",
       "filename": "glyphish/atom"
     },
     {
-      "href": "svg/glyphish/audioscrobbler-toolbar.svg",
-      "filename": "glyphish/audioscrobbler-toolbar"
-    },
-    {
       "href": "svg/glyphish/audioscrobbler.svg",
       "filename": "glyphish/audioscrobbler"
-    },
-    {
-      "href": "svg/glyphish/baby-toolbar.svg",
-      "filename": "glyphish/baby-toolbar"
     },
     {
       "href": "svg/glyphish/baby.svg",
       "filename": "glyphish/baby"
     },
     {
-      "href": "svg/glyphish/badminton-birdie-toolbar.svg",
-      "filename": "glyphish/badminton-birdie-toolbar"
-    },
-    {
       "href": "svg/glyphish/badminton-birdie.svg",
       "filename": "glyphish/badminton-birdie"
-    },
-    {
-      "href": "svg/glyphish/bahai-star-toolbar.svg",
-      "filename": "glyphish/bahai-star-toolbar"
     },
     {
       "href": "svg/glyphish/bahai-star.svg",
       "filename": "glyphish/bahai-star"
     },
     {
-      "href": "svg/glyphish/balloon-toolbar.svg",
-      "filename": "glyphish/balloon-toolbar"
-    },
-    {
       "href": "svg/glyphish/balloon.svg",
       "filename": "glyphish/balloon"
-    },
-    {
-      "href": "svg/glyphish/bandaid-toolbar.svg",
-      "filename": "glyphish/bandaid-toolbar"
     },
     {
       "href": "svg/glyphish/bandaid.svg",
       "filename": "glyphish/bandaid"
     },
     {
-      "href": "svg/glyphish/bank-toolbar.svg",
-      "filename": "glyphish/bank-toolbar"
-    },
-    {
       "href": "svg/glyphish/bank.svg",
       "filename": "glyphish/bank"
-    },
-    {
-      "href": "svg/glyphish/bar-chart-toolbar.svg",
-      "filename": "glyphish/bar-chart-toolbar"
     },
     {
       "href": "svg/glyphish/bar-chart.svg",
       "filename": "glyphish/bar-chart"
     },
     {
-      "href": "svg/glyphish/barcode-toolbar.svg",
-      "filename": "glyphish/barcode-toolbar"
-    },
-    {
       "href": "svg/glyphish/barcode.svg",
       "filename": "glyphish/barcode"
-    },
-    {
-      "href": "svg/glyphish/barrier-toolbar.svg",
-      "filename": "glyphish/barrier-toolbar"
     },
     {
       "href": "svg/glyphish/barrier.svg",
       "filename": "glyphish/barrier"
     },
     {
-      "href": "svg/glyphish/baseball-and-bat-toolbar.svg",
-      "filename": "glyphish/baseball-and-bat-toolbar"
-    },
-    {
       "href": "svg/glyphish/baseball-and-bat.svg",
       "filename": "glyphish/baseball-and-bat"
-    },
-    {
-      "href": "svg/glyphish/baseball-field-toolbar.svg",
-      "filename": "glyphish/baseball-field-toolbar"
     },
     {
       "href": "svg/glyphish/baseball-field.svg",
       "filename": "glyphish/baseball-field"
     },
     {
-      "href": "svg/glyphish/baseball-glove-toolbar.svg",
-      "filename": "glyphish/baseball-glove-toolbar"
-    },
-    {
       "href": "svg/glyphish/baseball-glove.svg",
       "filename": "glyphish/baseball-glove"
-    },
-    {
-      "href": "svg/glyphish/baseball-helmet-toolbar.svg",
-      "filename": "glyphish/baseball-helmet-toolbar"
     },
     {
       "href": "svg/glyphish/baseball-helmet.svg",
       "filename": "glyphish/baseball-helmet"
     },
     {
-      "href": "svg/glyphish/baseball-jersey-toolbar.svg",
-      "filename": "glyphish/baseball-jersey-toolbar"
-    },
-    {
       "href": "svg/glyphish/baseball-jersey.svg",
       "filename": "glyphish/baseball-jersey"
-    },
-    {
-      "href": "svg/glyphish/baseball-toolbar.svg",
-      "filename": "glyphish/baseball-toolbar"
     },
     {
       "href": "svg/glyphish/baseball.svg",
       "filename": "glyphish/baseball"
     },
     {
-      "href": "svg/glyphish/basecamp-toolbar.svg",
-      "filename": "glyphish/basecamp-toolbar"
-    },
-    {
       "href": "svg/glyphish/basecamp.svg",
       "filename": "glyphish/basecamp"
-    },
-    {
-      "href": "svg/glyphish/basket-checked-toolbar.svg",
-      "filename": "glyphish/basket-checked-toolbar"
     },
     {
       "href": "svg/glyphish/basket-checked.svg",
       "filename": "glyphish/basket-checked"
     },
     {
-      "href": "svg/glyphish/basket-delete-2-toolbar.svg",
-      "filename": "glyphish/basket-delete-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/basket-delete-2.svg",
       "filename": "glyphish/basket-delete-2"
-    },
-    {
-      "href": "svg/glyphish/basket-delete-toolbar.svg",
-      "filename": "glyphish/basket-delete-toolbar"
     },
     {
       "href": "svg/glyphish/basket-delete.svg",
       "filename": "glyphish/basket-delete"
     },
     {
-      "href": "svg/glyphish/basket-minus-toolbar.svg",
-      "filename": "glyphish/basket-minus-toolbar"
-    },
-    {
       "href": "svg/glyphish/basket-minus.svg",
       "filename": "glyphish/basket-minus"
-    },
-    {
-      "href": "svg/glyphish/basket-plus-toolbar.svg",
-      "filename": "glyphish/basket-plus-toolbar"
     },
     {
       "href": "svg/glyphish/basket-plus.svg",
       "filename": "glyphish/basket-plus"
     },
     {
-      "href": "svg/glyphish/basketball-court-toolbar.svg",
-      "filename": "glyphish/basketball-court-toolbar"
-    },
-    {
       "href": "svg/glyphish/basketball-court.svg",
       "filename": "glyphish/basketball-court"
-    },
-    {
-      "href": "svg/glyphish/basketball-net-toolbar.svg",
-      "filename": "glyphish/basketball-net-toolbar"
     },
     {
       "href": "svg/glyphish/basketball-net.svg",
       "filename": "glyphish/basketball-net"
     },
     {
-      "href": "svg/glyphish/basketball-shirt-toolbar.svg",
-      "filename": "glyphish/basketball-shirt-toolbar"
-    },
-    {
       "href": "svg/glyphish/basketball-shirt.svg",
       "filename": "glyphish/basketball-shirt"
-    },
-    {
-      "href": "svg/glyphish/basketball-toolbar.svg",
-      "filename": "glyphish/basketball-toolbar"
     },
     {
       "href": "svg/glyphish/basketball.svg",
       "filename": "glyphish/basketball"
     },
     {
-      "href": "svg/glyphish/bathtub-toolbar.svg",
-      "filename": "glyphish/bathtub-toolbar"
-    },
-    {
       "href": "svg/glyphish/bathtub.svg",
       "filename": "glyphish/bathtub"
-    },
-    {
-      "href": "svg/glyphish/battery-toolbar.svg",
-      "filename": "glyphish/battery-toolbar"
     },
     {
       "href": "svg/glyphish/battery.svg",
       "filename": "glyphish/battery"
     },
     {
-      "href": "svg/glyphish/beaker-toolbar.svg",
-      "filename": "glyphish/beaker-toolbar"
-    },
-    {
       "href": "svg/glyphish/beaker.svg",
       "filename": "glyphish/beaker"
-    },
-    {
-      "href": "svg/glyphish/beer-mug-toolbar.svg",
-      "filename": "glyphish/beer-mug-toolbar"
     },
     {
       "href": "svg/glyphish/beer-mug.svg",
       "filename": "glyphish/beer-mug"
     },
     {
-      "href": "svg/glyphish/behance-toolbar.svg",
-      "filename": "glyphish/behance-toolbar"
-    },
-    {
       "href": "svg/glyphish/behance.svg",
       "filename": "glyphish/behance"
-    },
-    {
-      "href": "svg/glyphish/bell-toolbar.svg",
-      "filename": "glyphish/bell-toolbar"
     },
     {
       "href": "svg/glyphish/bell.svg",
       "filename": "glyphish/bell"
     },
     {
-      "href": "svg/glyphish/beverage-toolbar.svg",
-      "filename": "glyphish/beverage-toolbar"
-    },
-    {
       "href": "svg/glyphish/beverage.svg",
       "filename": "glyphish/beverage"
-    },
-    {
-      "href": "svg/glyphish/bing-toolbar.svg",
-      "filename": "glyphish/bing-toolbar"
     },
     {
       "href": "svg/glyphish/bing.svg",
       "filename": "glyphish/bing"
     },
     {
-      "href": "svg/glyphish/binoculars-toolbar.svg",
-      "filename": "glyphish/binoculars-toolbar"
-    },
-    {
       "href": "svg/glyphish/binoculars.svg",
       "filename": "glyphish/binoculars"
-    },
-    {
-      "href": "svg/glyphish/bird-house-toolbar.svg",
-      "filename": "glyphish/bird-house-toolbar"
     },
     {
       "href": "svg/glyphish/bird-house.svg",
       "filename": "glyphish/bird-house"
     },
     {
-      "href": "svg/glyphish/bird-toolbar.svg",
-      "filename": "glyphish/bird-toolbar"
-    },
-    {
       "href": "svg/glyphish/bird.svg",
       "filename": "glyphish/bird"
-    },
-    {
-      "href": "svg/glyphish/birthday-cake-toolbar.svg",
-      "filename": "glyphish/birthday-cake-toolbar"
     },
     {
       "href": "svg/glyphish/birthday-cake.svg",
       "filename": "glyphish/birthday-cake"
     },
     {
-      "href": "svg/glyphish/blogger-2-toolbar.svg",
-      "filename": "glyphish/blogger-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/blogger-2.svg",
       "filename": "glyphish/blogger-2"
-    },
-    {
-      "href": "svg/glyphish/blogger-toolbar.svg",
-      "filename": "glyphish/blogger-toolbar"
     },
     {
       "href": "svg/glyphish/blogger.svg",
       "filename": "glyphish/blogger"
     },
     {
-      "href": "svg/glyphish/bold-toolbar.svg",
-      "filename": "glyphish/bold-toolbar"
-    },
-    {
       "href": "svg/glyphish/bold.svg",
       "filename": "glyphish/bold"
-    },
-    {
-      "href": "svg/glyphish/bolt-toolbar.svg",
-      "filename": "glyphish/bolt-toolbar"
     },
     {
       "href": "svg/glyphish/bolt.svg",
       "filename": "glyphish/bolt"
     },
     {
-      "href": "svg/glyphish/bomb-toolbar.svg",
-      "filename": "glyphish/bomb-toolbar"
-    },
-    {
       "href": "svg/glyphish/bomb.svg",
       "filename": "glyphish/bomb"
-    },
-    {
-      "href": "svg/glyphish/bone-toolbar.svg",
-      "filename": "glyphish/bone-toolbar"
     },
     {
       "href": "svg/glyphish/bone.svg",
       "filename": "glyphish/bone"
     },
     {
-      "href": "svg/glyphish/book--toolbar.svg",
-      "filename": "glyphish/book--toolbar"
-    },
-    {
       "href": "svg/glyphish/book-.svg",
       "filename": "glyphish/book-"
-    },
-    {
-      "href": "svg/glyphish/bookmarks-toolbar.svg",
-      "filename": "glyphish/bookmarks-toolbar"
     },
     {
       "href": "svg/glyphish/bookmarks.svg",
       "filename": "glyphish/bookmarks"
     },
     {
-      "href": "svg/glyphish/bottle-toolbar.svg",
-      "filename": "glyphish/bottle-toolbar"
-    },
-    {
       "href": "svg/glyphish/bottle.svg",
       "filename": "glyphish/bottle"
-    },
-    {
-      "href": "svg/glyphish/bow-and-arrow-toolbar.svg",
-      "filename": "glyphish/bow-and-arrow-toolbar"
     },
     {
       "href": "svg/glyphish/bow-and-arrow.svg",
       "filename": "glyphish/bow-and-arrow"
     },
     {
-      "href": "svg/glyphish/bow-tie-toolbar.svg",
-      "filename": "glyphish/bow-tie-toolbar"
-    },
-    {
       "href": "svg/glyphish/bow-tie.svg",
       "filename": "glyphish/bow-tie"
-    },
-    {
-      "href": "svg/glyphish/bowling-ball-toolbar.svg",
-      "filename": "glyphish/bowling-ball-toolbar"
     },
     {
       "href": "svg/glyphish/bowling-ball.svg",
       "filename": "glyphish/bowling-ball"
     },
     {
-      "href": "svg/glyphish/bowling-pin-and-ball-toolbar.svg",
-      "filename": "glyphish/bowling-pin-and-ball-toolbar"
-    },
-    {
       "href": "svg/glyphish/bowling-pin-and-ball.svg",
       "filename": "glyphish/bowling-pin-and-ball"
-    },
-    {
-      "href": "svg/glyphish/bowling-pins-toolbar.svg",
-      "filename": "glyphish/bowling-pins-toolbar"
     },
     {
       "href": "svg/glyphish/bowling-pins.svg",
       "filename": "glyphish/bowling-pins"
     },
     {
-      "href": "svg/glyphish/bowtie-toolbar.svg",
-      "filename": "glyphish/bowtie-toolbar"
-    },
-    {
-      "href": "svg/glyphish/box-2-toolbar.svg",
-      "filename": "glyphish/box-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/box-2.svg",
       "filename": "glyphish/box-2"
-    },
-    {
-      "href": "svg/glyphish/box-toolbar.svg",
-      "filename": "glyphish/box-toolbar"
     },
     {
       "href": "svg/glyphish/box.svg",
       "filename": "glyphish/box"
     },
     {
-      "href": "svg/glyphish/boxing-glove-toolbar.svg",
-      "filename": "glyphish/boxing-glove-toolbar"
-    },
-    {
       "href": "svg/glyphish/boxing-glove.svg",
       "filename": "glyphish/boxing-glove"
-    },
-    {
-      "href": "svg/glyphish/branch-toolbar.svg",
-      "filename": "glyphish/branch-toolbar"
     },
     {
       "href": "svg/glyphish/branch.svg",
       "filename": "glyphish/branch"
     },
     {
-      "href": "svg/glyphish/brightness-toolbar.svg",
-      "filename": "glyphish/brightness-toolbar"
-    },
-    {
       "href": "svg/glyphish/brightness.svg",
       "filename": "glyphish/brightness"
-    },
-    {
-      "href": "svg/glyphish/browser-toolbar.svg",
-      "filename": "glyphish/browser-toolbar"
-    },
-    {
-      "href": "svg/glyphish/browser-windows-toolbar.svg",
-      "filename": "glyphish/browser-windows-toolbar"
     },
     {
       "href": "svg/glyphish/browser-windows.svg",
@@ -666,128 +333,64 @@
       "filename": "glyphish/browser"
     },
     {
-      "href": "svg/glyphish/buddhist-wheel-toolbar.svg",
-      "filename": "glyphish/buddhist-wheel-toolbar"
-    },
-    {
       "href": "svg/glyphish/buddhist-wheel.svg",
       "filename": "glyphish/buddhist-wheel"
-    },
-    {
-      "href": "svg/glyphish/bug-toolbar.svg",
-      "filename": "glyphish/bug-toolbar"
     },
     {
       "href": "svg/glyphish/bug.svg",
       "filename": "glyphish/bug"
     },
     {
-      "href": "svg/glyphish/building-toolbar.svg",
-      "filename": "glyphish/building-toolbar"
-    },
-    {
       "href": "svg/glyphish/building.svg",
       "filename": "glyphish/building"
-    },
-    {
-      "href": "svg/glyphish/bulleted-list-toolbar.svg",
-      "filename": "glyphish/bulleted-list-toolbar"
     },
     {
       "href": "svg/glyphish/bulleted-list.svg",
       "filename": "glyphish/bulleted-list"
     },
     {
-      "href": "svg/glyphish/bus-toolbar.svg",
-      "filename": "glyphish/bus-toolbar"
-    },
-    {
       "href": "svg/glyphish/bus.svg",
       "filename": "glyphish/bus"
-    },
-    {
-      "href": "svg/glyphish/calculator-toolbar.svg",
-      "filename": "glyphish/calculator-toolbar"
     },
     {
       "href": "svg/glyphish/calculator.svg",
       "filename": "glyphish/calculator"
     },
     {
-      "href": "svg/glyphish/calendar-toolbar.svg",
-      "filename": "glyphish/calendar-toolbar"
-    },
-    {
       "href": "svg/glyphish/calendar.svg",
       "filename": "glyphish/calendar"
-    },
-    {
-      "href": "svg/glyphish/camera-toolbar.svg",
-      "filename": "glyphish/camera-toolbar"
     },
     {
       "href": "svg/glyphish/camera.svg",
       "filename": "glyphish/camera"
     },
     {
-      "href": "svg/glyphish/car-toolbar.svg",
-      "filename": "glyphish/car-toolbar"
-    },
-    {
       "href": "svg/glyphish/car.svg",
       "filename": "glyphish/car"
-    },
-    {
-      "href": "svg/glyphish/castle-toolbar.svg",
-      "filename": "glyphish/castle-toolbar"
     },
     {
       "href": "svg/glyphish/castle.svg",
       "filename": "glyphish/castle"
     },
     {
-      "href": "svg/glyphish/cat-toolbar.svg",
-      "filename": "glyphish/cat-toolbar"
-    },
-    {
       "href": "svg/glyphish/cat.svg",
       "filename": "glyphish/cat"
-    },
-    {
-      "href": "svg/glyphish/chart-toolbar.svg",
-      "filename": "glyphish/chart-toolbar"
     },
     {
       "href": "svg/glyphish/chart.svg",
       "filename": "glyphish/chart"
     },
     {
-      "href": "svg/glyphish/chat-2-toolbar.svg",
-      "filename": "glyphish/chat-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/chat-2.svg",
       "filename": "glyphish/chat-2"
-    },
-    {
-      "href": "svg/glyphish/chat-3-toolbar.svg",
-      "filename": "glyphish/chat-3-toolbar"
     },
     {
       "href": "svg/glyphish/chat-3.svg",
       "filename": "glyphish/chat-3"
     },
     {
-      "href": "svg/glyphish/chat-bubbles-toolbar.svg",
-      "filename": "glyphish/chat-bubbles-toolbar"
-    },
-    {
       "href": "svg/glyphish/chat-bubbles.svg",
       "filename": "glyphish/chat-bubbles"
-    },
-    {
-      "href": "svg/glyphish/chat-checked-toolbar.svg",
-      "filename": "glyphish/chat-checked-toolbar"
     },
     {
       "href": "svg/glyphish/chat-checked.svg",
@@ -798,152 +401,72 @@
       "filename": "glyphish/chat-delete 2"
     },
     {
-      "href": "svg/glyphish/chat-delete-toolbar 2.svg",
-      "filename": "glyphish/chat-delete-toolbar 2"
-    },
-    {
-      "href": "svg/glyphish/chat-delete-toolbar.svg",
-      "filename": "glyphish/chat-delete-toolbar"
-    },
-    {
       "href": "svg/glyphish/chat-delete.svg",
       "filename": "glyphish/chat-delete"
-    },
-    {
-      "href": "svg/glyphish/chat-minus-toolbar.svg",
-      "filename": "glyphish/chat-minus-toolbar"
     },
     {
       "href": "svg/glyphish/chat-minus.svg",
       "filename": "glyphish/chat-minus"
     },
     {
-      "href": "svg/glyphish/chat-plus-toolbar.svg",
-      "filename": "glyphish/chat-plus-toolbar"
-    },
-    {
       "href": "svg/glyphish/chat-plus.svg",
       "filename": "glyphish/chat-plus"
-    },
-    {
-      "href": "svg/glyphish/chat-toolbar.svg",
-      "filename": "glyphish/chat-toolbar"
     },
     {
       "href": "svg/glyphish/chat.svg",
       "filename": "glyphish/chat"
     },
     {
-      "href": "svg/glyphish/checkbox-toolbar.svg",
-      "filename": "glyphish/checkbox-toolbar"
-    },
-    {
       "href": "svg/glyphish/checkbox.svg",
       "filename": "glyphish/checkbox"
-    },
-    {
-      "href": "svg/glyphish/checkmark-2-toolbar.svg",
-      "filename": "glyphish/checkmark-2-toolbar"
     },
     {
       "href": "svg/glyphish/checkmark-2.svg",
       "filename": "glyphish/checkmark-2"
     },
     {
-      "href": "svg/glyphish/checkmark-toolbar.svg",
-      "filename": "glyphish/checkmark-toolbar"
-    },
-    {
       "href": "svg/glyphish/checkmark.svg",
       "filename": "glyphish/checkmark"
-    },
-    {
-      "href": "svg/glyphish/chicken-leg-toolbar.svg",
-      "filename": "glyphish/chicken-leg-toolbar"
     },
     {
       "href": "svg/glyphish/chicken-leg.svg",
       "filename": "glyphish/chicken-leg"
     },
     {
-      "href": "svg/glyphish/chicken-toolbar.svg",
-      "filename": "glyphish/chicken-toolbar"
-    },
-    {
       "href": "svg/glyphish/chicken.svg",
       "filename": "glyphish/chicken"
-    },
-    {
-      "href": "svg/glyphish/choose-font-toolbar.svg",
-      "filename": "glyphish/choose-font-toolbar"
     },
     {
       "href": "svg/glyphish/choose-font.svg",
       "filename": "glyphish/choose-font"
     },
     {
-      "href": "svg/glyphish/christian-cross-toolbar.svg",
-      "filename": "glyphish/christian-cross-toolbar"
-    },
-    {
       "href": "svg/glyphish/christian-cross.svg",
       "filename": "glyphish/christian-cross"
-    },
-    {
-      "href": "svg/glyphish/clapboard-toolbar.svg",
-      "filename": "glyphish/clapboard-toolbar"
     },
     {
       "href": "svg/glyphish/clapboard.svg",
       "filename": "glyphish/clapboard"
     },
     {
-      "href": "svg/glyphish/clipboard-toolbar.svg",
-      "filename": "glyphish/clipboard-toolbar"
-    },
-    {
       "href": "svg/glyphish/clipboard.svg",
       "filename": "glyphish/clipboard"
-    },
-    {
-      "href": "svg/glyphish/clock-2-toolbar.svg",
-      "filename": "glyphish/clock-2-toolbar"
     },
     {
       "href": "svg/glyphish/clock-2.svg",
       "filename": "glyphish/clock-2"
     },
     {
-      "href": "svg/glyphish/clock-toolbar.svg",
-      "filename": "glyphish/clock-toolbar"
-    },
-    {
       "href": "svg/glyphish/clock.svg",
       "filename": "glyphish/clock"
-    },
-    {
-      "href": "svg/glyphish/cloud-2-toolbar.svg",
-      "filename": "glyphish/cloud-2-toolbar"
     },
     {
       "href": "svg/glyphish/cloud-2.svg",
       "filename": "glyphish/cloud-2"
     },
     {
-      "href": "svg/glyphish/cloud-download-toolbar.svg",
-      "filename": "glyphish/cloud-download-toolbar"
-    },
-    {
       "href": "svg/glyphish/cloud-download.svg",
       "filename": "glyphish/cloud-download"
-    },
-    {
-      "href": "svg/glyphish/cloud-toolbar.svg",
-      "filename": "glyphish/cloud-toolbar"
-    },
-    {
-      "href": "svg/glyphish/cloud-upload-toolbar.svg",
-      "filename": "glyphish/cloud-upload-toolbar"
     },
     {
       "href": "svg/glyphish/cloud-upload.svg",
@@ -954,3772 +477,1848 @@
       "filename": "glyphish/cloud"
     },
     {
-      "href": "svg/glyphish/coat-hanger-toolbar.svg",
-      "filename": "glyphish/coat-hanger-toolbar"
-    },
-    {
       "href": "svg/glyphish/coat-hanger.svg",
       "filename": "glyphish/coat-hanger"
-    },
-    {
-      "href": "svg/glyphish/coffee-cup-toolbar.svg",
-      "filename": "glyphish/coffee-cup-toolbar"
     },
     {
       "href": "svg/glyphish/coffee-cup.svg",
       "filename": "glyphish/coffee-cup"
     },
     {
-      "href": "svg/glyphish/combination-lock-toolbar.svg",
-      "filename": "glyphish/combination-lock-toolbar"
-    },
-    {
       "href": "svg/glyphish/combination-lock.svg",
       "filename": "glyphish/combination-lock"
-    },
-    {
-      "href": "svg/glyphish/compass-toolbar.svg",
-      "filename": "glyphish/compass-toolbar"
     },
     {
       "href": "svg/glyphish/compass.svg",
       "filename": "glyphish/compass"
     },
     {
-      "href": "svg/glyphish/compose-toolbar.svg",
-      "filename": "glyphish/compose-toolbar"
-    },
-    {
       "href": "svg/glyphish/compose.svg",
       "filename": "glyphish/compose"
-    },
-    {
-      "href": "svg/glyphish/connections-toolbar.svg",
-      "filename": "glyphish/connections-toolbar"
     },
     {
       "href": "svg/glyphish/connections.svg",
       "filename": "glyphish/connections"
     },
     {
-      "href": "svg/glyphish/contact-card-2-toolbar.svg",
-      "filename": "glyphish/contact-card-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/contact-card-2.svg",
       "filename": "glyphish/contact-card-2"
-    },
-    {
-      "href": "svg/glyphish/contact-card-toolbar.svg",
-      "filename": "glyphish/contact-card-toolbar"
     },
     {
       "href": "svg/glyphish/contact-card.svg",
       "filename": "glyphish/contact-card"
     },
     {
-      "href": "svg/glyphish/contact-cards-toolbar.svg",
-      "filename": "glyphish/contact-cards-toolbar"
-    },
-    {
       "href": "svg/glyphish/contact-cards.svg",
       "filename": "glyphish/contact-cards"
-    },
-    {
-      "href": "svg/glyphish/contrast-toolbar.svg",
-      "filename": "glyphish/contrast-toolbar"
     },
     {
       "href": "svg/glyphish/contrast.svg",
       "filename": "glyphish/contrast"
     },
     {
-      "href": "svg/glyphish/costume-toolbar.svg",
-      "filename": "glyphish/costume-toolbar"
-    },
-    {
       "href": "svg/glyphish/costume.svg",
       "filename": "glyphish/costume"
-    },
-    {
-      "href": "svg/glyphish/count-toolbar.svg",
-      "filename": "glyphish/count-toolbar"
     },
     {
       "href": "svg/glyphish/count.svg",
       "filename": "glyphish/count"
     },
     {
-      "href": "svg/glyphish/cow-toolbar.svg",
-      "filename": "glyphish/cow-toolbar"
-    },
-    {
       "href": "svg/glyphish/cow.svg",
       "filename": "glyphish/cow"
-    },
-    {
-      "href": "svg/glyphish/credit-card-toolbar.svg",
-      "filename": "glyphish/credit-card-toolbar"
     },
     {
       "href": "svg/glyphish/credit-card.svg",
       "filename": "glyphish/credit-card"
     },
     {
-      "href": "svg/glyphish/credit-cards-toolbar.svg",
-      "filename": "glyphish/credit-cards-toolbar"
-    },
-    {
       "href": "svg/glyphish/credit-cards.svg",
       "filename": "glyphish/credit-cards"
-    },
-    {
-      "href": "svg/glyphish/crown-toolbar.svg",
-      "filename": "glyphish/crown-toolbar"
     },
     {
       "href": "svg/glyphish/crown.svg",
       "filename": "glyphish/crown"
     },
     {
-      "href": "svg/glyphish/dance-steps-toolbar.svg",
-      "filename": "glyphish/dance-steps-toolbar"
-    },
-    {
       "href": "svg/glyphish/dance-steps.svg",
       "filename": "glyphish/dance-steps"
-    },
-    {
-      "href": "svg/glyphish/database-toolbar.svg",
-      "filename": "glyphish/database-toolbar"
     },
     {
       "href": "svg/glyphish/database.svg",
       "filename": "glyphish/database"
     },
     {
-      "href": "svg/glyphish/desktop-toolbar.svg",
-      "filename": "glyphish/desktop-toolbar"
-    },
-    {
       "href": "svg/glyphish/desktop.svg",
       "filename": "glyphish/desktop"
-    },
-    {
-      "href": "svg/glyphish/deviantart-toolbar.svg",
-      "filename": "glyphish/deviantart-toolbar"
     },
     {
       "href": "svg/glyphish/deviantart.svg",
       "filename": "glyphish/deviantart"
     },
     {
-      "href": "svg/glyphish/diamond-toolbar.svg",
-      "filename": "glyphish/diamond-toolbar"
-    },
-    {
       "href": "svg/glyphish/diamond.svg",
       "filename": "glyphish/diamond"
-    },
-    {
-      "href": "svg/glyphish/dice-toolbar.svg",
-      "filename": "glyphish/dice-toolbar"
     },
     {
       "href": "svg/glyphish/dice.svg",
       "filename": "glyphish/dice"
     },
     {
-      "href": "svg/glyphish/direction-arrow-toolbar.svg",
-      "filename": "glyphish/direction-arrow-toolbar"
-    },
-    {
       "href": "svg/glyphish/direction-arrow.svg",
       "filename": "glyphish/direction-arrow"
-    },
-    {
-      "href": "svg/glyphish/directors-chair-toolbar.svg",
-      "filename": "glyphish/directors-chair-toolbar"
     },
     {
       "href": "svg/glyphish/directors-chair.svg",
       "filename": "glyphish/directors-chair"
     },
     {
-      "href": "svg/glyphish/document-2-toolbar.svg",
-      "filename": "glyphish/document-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/document-2.svg",
       "filename": "glyphish/document-2"
-    },
-    {
-      "href": "svg/glyphish/document-checked-toolbar.svg",
-      "filename": "glyphish/document-checked-toolbar"
     },
     {
       "href": "svg/glyphish/document-checked.svg",
       "filename": "glyphish/document-checked"
     },
     {
-      "href": "svg/glyphish/document-delete-toolbar.svg",
-      "filename": "glyphish/document-delete-toolbar"
-    },
-    {
       "href": "svg/glyphish/document-delete.svg",
       "filename": "glyphish/document-delete"
-    },
-    {
-      "href": "svg/glyphish/document-error-toolbar.svg",
-      "filename": "glyphish/document-error-toolbar"
     },
     {
       "href": "svg/glyphish/document-error.svg",
       "filename": "glyphish/document-error"
     },
     {
-      "href": "svg/glyphish/document-minus-toolbar.svg",
-      "filename": "glyphish/document-minus-toolbar"
-    },
-    {
       "href": "svg/glyphish/document-minus.svg",
       "filename": "glyphish/document-minus"
-    },
-    {
-      "href": "svg/glyphish/document-plus-toolbar.svg",
-      "filename": "glyphish/document-plus-toolbar"
     },
     {
       "href": "svg/glyphish/document-plus.svg",
       "filename": "glyphish/document-plus"
     },
     {
-      "href": "svg/glyphish/document-toolbar.svg",
-      "filename": "glyphish/document-toolbar"
-    },
-    {
       "href": "svg/glyphish/document.svg",
       "filename": "glyphish/document"
-    },
-    {
-      "href": "svg/glyphish/documents-toolbar.svg",
-      "filename": "glyphish/documents-toolbar"
     },
     {
       "href": "svg/glyphish/documents.svg",
       "filename": "glyphish/documents"
     },
     {
-      "href": "svg/glyphish/dog-house-toolbar.svg",
-      "filename": "glyphish/dog-house-toolbar"
-    },
-    {
       "href": "svg/glyphish/dog-house.svg",
       "filename": "glyphish/dog-house"
-    },
-    {
-      "href": "svg/glyphish/dog-toolbar.svg",
-      "filename": "glyphish/dog-toolbar"
     },
     {
       "href": "svg/glyphish/dog.svg",
       "filename": "glyphish/dog"
     },
     {
-      "href": "svg/glyphish/door-toolbar.svg",
-      "filename": "glyphish/door-toolbar"
-    },
-    {
       "href": "svg/glyphish/door.svg",
       "filename": "glyphish/door"
-    },
-    {
-      "href": "svg/glyphish/download-box-toolbar.svg",
-      "filename": "glyphish/download-box-toolbar"
     },
     {
       "href": "svg/glyphish/download-box.svg",
       "filename": "glyphish/download-box"
     },
     {
-      "href": "svg/glyphish/download-rectangle-toolbar.svg",
-      "filename": "glyphish/download-rectangle-toolbar"
-    },
-    {
       "href": "svg/glyphish/download-rectangle.svg",
       "filename": "glyphish/download-rectangle"
-    },
-    {
-      "href": "svg/glyphish/download-toolbar.svg",
-      "filename": "glyphish/download-toolbar"
     },
     {
       "href": "svg/glyphish/download.svg",
       "filename": "glyphish/download"
     },
     {
-      "href": "svg/glyphish/drama-masks-toolbar.svg",
-      "filename": "glyphish/drama-masks-toolbar"
-    },
-    {
       "href": "svg/glyphish/drama-masks.svg",
       "filename": "glyphish/drama-masks"
-    },
-    {
-      "href": "svg/glyphish/dress-shirt-toolbar.svg",
-      "filename": "glyphish/dress-shirt-toolbar"
-    },
-    {
-      "href": "svg/glyphish/dress-toolbar.svg",
-      "filename": "glyphish/dress-toolbar"
-    },
-    {
-      "href": "svg/glyphish/dribbble-toolbar.svg",
-      "filename": "glyphish/dribbble-toolbar"
     },
     {
       "href": "svg/glyphish/dribbble.svg",
       "filename": "glyphish/dribbble"
     },
     {
-      "href": "svg/glyphish/dropbox-toolbar.svg",
-      "filename": "glyphish/dropbox-toolbar"
-    },
-    {
       "href": "svg/glyphish/dropbox.svg",
       "filename": "glyphish/dropbox"
-    },
-    {
-      "href": "svg/glyphish/eight-ball-toolbar.svg",
-      "filename": "glyphish/eight-ball-toolbar"
     },
     {
       "href": "svg/glyphish/eight-ball.svg",
       "filename": "glyphish/eight-ball"
     },
     {
-      "href": "svg/glyphish/eject-toolbar.svg",
-      "filename": "glyphish/eject-toolbar"
-    },
-    {
       "href": "svg/glyphish/eject.svg",
       "filename": "glyphish/eject"
-    },
-    {
-      "href": "svg/glyphish/ekg-toolbar.svg",
-      "filename": "glyphish/ekg-toolbar"
     },
     {
       "href": "svg/glyphish/ekg.svg",
       "filename": "glyphish/ekg"
     },
     {
-      "href": "svg/glyphish/elephant-toolbar.svg",
-      "filename": "glyphish/elephant-toolbar"
-    },
-    {
       "href": "svg/glyphish/elephant.svg",
       "filename": "glyphish/elephant"
-    },
-    {
-      "href": "svg/glyphish/enter-fullscreen-toolbar.svg",
-      "filename": "glyphish/enter-fullscreen-toolbar"
     },
     {
       "href": "svg/glyphish/enter-fullscreen.svg",
       "filename": "glyphish/enter-fullscreen"
     },
     {
-      "href": "svg/glyphish/envelope-toolbar.svg",
-      "filename": "glyphish/envelope-toolbar"
-    },
-    {
       "href": "svg/glyphish/envelope.svg",
       "filename": "glyphish/envelope"
-    },
-    {
-      "href": "svg/glyphish/evernote-toolbar.svg",
-      "filename": "glyphish/evernote-toolbar"
     },
     {
       "href": "svg/glyphish/evernote.svg",
       "filename": "glyphish/evernote"
     },
     {
-      "href": "svg/glyphish/exit-fullscreen-toolbar.svg",
-      "filename": "glyphish/exit-fullscreen-toolbar"
-    },
-    {
       "href": "svg/glyphish/exit-fullscreen.svg",
       "filename": "glyphish/exit-fullscreen"
-    },
-    {
-      "href": "svg/glyphish/eye-toolbar.svg",
-      "filename": "glyphish/eye-toolbar"
     },
     {
       "href": "svg/glyphish/eye.svg",
       "filename": "glyphish/eye"
     },
     {
-      "href": "svg/glyphish/facebook-toolbar.svg",
-      "filename": "glyphish/facebook-toolbar"
-    },
-    {
       "href": "svg/glyphish/facebook.svg",
       "filename": "glyphish/facebook"
-    },
-    {
-      "href": "svg/glyphish/factory-toolbar.svg",
-      "filename": "glyphish/factory-toolbar"
     },
     {
       "href": "svg/glyphish/factory.svg",
       "filename": "glyphish/factory"
     },
     {
-      "href": "svg/glyphish/fancy-2-toolbar.svg",
-      "filename": "glyphish/fancy-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/fancy-2.svg",
       "filename": "glyphish/fancy-2"
-    },
-    {
-      "href": "svg/glyphish/fancy-toolbar.svg",
-      "filename": "glyphish/fancy-toolbar"
     },
     {
       "href": "svg/glyphish/fancy.svg",
       "filename": "glyphish/fancy"
     },
     {
-      "href": "svg/glyphish/fast-forward-toolbar.svg",
-      "filename": "glyphish/fast-forward-toolbar"
-    },
-    {
       "href": "svg/glyphish/fast-forward.svg",
       "filename": "glyphish/fast-forward"
-    },
-    {
-      "href": "svg/glyphish/female-toolbar.svg",
-      "filename": "glyphish/female-toolbar"
     },
     {
       "href": "svg/glyphish/female.svg",
       "filename": "glyphish/female"
     },
     {
-      "href": "svg/glyphish/fence-toolbar.svg",
-      "filename": "glyphish/fence-toolbar"
-    },
-    {
       "href": "svg/glyphish/fence.svg",
       "filename": "glyphish/fence"
-    },
-    {
-      "href": "svg/glyphish/file-type-audio-toolbar.svg",
-      "filename": "glyphish/file-type-audio-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-audio.svg",
       "filename": "glyphish/file-type-audio"
     },
     {
-      "href": "svg/glyphish/file-type-bar-chart-toolbar.svg",
-      "filename": "glyphish/file-type-bar-chart-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-bar-chart.svg",
       "filename": "glyphish/file-type-bar-chart"
-    },
-    {
-      "href": "svg/glyphish/file-type-bookmark-toolbar.svg",
-      "filename": "glyphish/file-type-bookmark-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-bookmark.svg",
       "filename": "glyphish/file-type-bookmark"
     },
     {
-      "href": "svg/glyphish/file-type-code-toolbar.svg",
-      "filename": "glyphish/file-type-code-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-code.svg",
       "filename": "glyphish/file-type-code"
-    },
-    {
-      "href": "svg/glyphish/file-type-film-toolbar.svg",
-      "filename": "glyphish/file-type-film-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-film.svg",
       "filename": "glyphish/file-type-film"
     },
     {
-      "href": "svg/glyphish/file-type-html-toolbar.svg",
-      "filename": "glyphish/file-type-html-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-html.svg",
       "filename": "glyphish/file-type-html"
-    },
-    {
-      "href": "svg/glyphish/file-type-image-toolbar.svg",
-      "filename": "glyphish/file-type-image-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-image.svg",
       "filename": "glyphish/file-type-image"
     },
     {
-      "href": "svg/glyphish/file-type-music-toolbar.svg",
-      "filename": "glyphish/file-type-music-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-music.svg",
       "filename": "glyphish/file-type-music"
-    },
-    {
-      "href": "svg/glyphish/file-type-pencil-toolbar.svg",
-      "filename": "glyphish/file-type-pencil-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-pencil.svg",
       "filename": "glyphish/file-type-pencil"
     },
     {
-      "href": "svg/glyphish/file-type-pie-chart-toolbar.svg",
-      "filename": "glyphish/file-type-pie-chart-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-pie-chart.svg",
       "filename": "glyphish/file-type-pie-chart"
-    },
-    {
-      "href": "svg/glyphish/file-type-secure-toolbar.svg",
-      "filename": "glyphish/file-type-secure-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-secure.svg",
       "filename": "glyphish/file-type-secure"
     },
     {
-      "href": "svg/glyphish/file-type-settings-toolbar.svg",
-      "filename": "glyphish/file-type-settings-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-settings.svg",
       "filename": "glyphish/file-type-settings"
-    },
-    {
-      "href": "svg/glyphish/file-type-sound-recording-toolbar.svg",
-      "filename": "glyphish/file-type-sound-recording-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-sound-recording.svg",
       "filename": "glyphish/file-type-sound-recording"
     },
     {
-      "href": "svg/glyphish/file-type-table-toolbar.svg",
-      "filename": "glyphish/file-type-table-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-table.svg",
       "filename": "glyphish/file-type-table"
-    },
-    {
-      "href": "svg/glyphish/file-type-tabular-data-toolbar.svg",
-      "filename": "glyphish/file-type-tabular-data-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-tabular-data.svg",
       "filename": "glyphish/file-type-tabular-data"
     },
     {
-      "href": "svg/glyphish/file-type-text-document-toolbar.svg",
-      "filename": "glyphish/file-type-text-document-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-text-document.svg",
       "filename": "glyphish/file-type-text-document"
-    },
-    {
-      "href": "svg/glyphish/file-type-text-file-toolbar.svg",
-      "filename": "glyphish/file-type-text-file-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-text-file.svg",
       "filename": "glyphish/file-type-text-file"
     },
     {
-      "href": "svg/glyphish/file-type-vector-toolbar.svg",
-      "filename": "glyphish/file-type-vector-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-vector.svg",
       "filename": "glyphish/file-type-vector"
-    },
-    {
-      "href": "svg/glyphish/file-type-video-toolbar.svg",
-      "filename": "glyphish/file-type-video-toolbar"
     },
     {
       "href": "svg/glyphish/file-type-video.svg",
       "filename": "glyphish/file-type-video"
     },
     {
-      "href": "svg/glyphish/file-type-zip-toolbar.svg",
-      "filename": "glyphish/file-type-zip-toolbar"
-    },
-    {
       "href": "svg/glyphish/file-type-zip.svg",
       "filename": "glyphish/file-type-zip"
-    },
-    {
-      "href": "svg/glyphish/files-box-toolbar.svg",
-      "filename": "glyphish/files-box-toolbar"
     },
     {
       "href": "svg/glyphish/files-box.svg",
       "filename": "glyphish/files-box"
     },
     {
-      "href": "svg/glyphish/filing-cabinet-toolbar.svg",
-      "filename": "glyphish/filing-cabinet-toolbar"
-    },
-    {
       "href": "svg/glyphish/filing-cabinet.svg",
       "filename": "glyphish/filing-cabinet"
-    },
-    {
-      "href": "svg/glyphish/film-2-toolbar.svg",
-      "filename": "glyphish/film-2-toolbar"
     },
     {
       "href": "svg/glyphish/film-2.svg",
       "filename": "glyphish/film-2"
     },
     {
-      "href": "svg/glyphish/film-roll-toolbar.svg",
-      "filename": "glyphish/film-roll-toolbar"
-    },
-    {
       "href": "svg/glyphish/film-roll.svg",
       "filename": "glyphish/film-roll"
-    },
-    {
-      "href": "svg/glyphish/film-strip-toolbar.svg",
-      "filename": "glyphish/film-strip-toolbar"
     },
     {
       "href": "svg/glyphish/film-strip.svg",
       "filename": "glyphish/film-strip"
     },
     {
-      "href": "svg/glyphish/film-toolbar.svg",
-      "filename": "glyphish/film-toolbar"
-    },
-    {
       "href": "svg/glyphish/film.svg",
       "filename": "glyphish/film"
-    },
-    {
-      "href": "svg/glyphish/filter-toolbar.svg",
-      "filename": "glyphish/filter-toolbar"
     },
     {
       "href": "svg/glyphish/filter.svg",
       "filename": "glyphish/filter"
     },
     {
-      "href": "svg/glyphish/finger-drag-toolbar.svg",
-      "filename": "glyphish/finger-drag-toolbar"
-    },
-    {
       "href": "svg/glyphish/finger-drag.svg",
       "filename": "glyphish/finger-drag"
-    },
-    {
-      "href": "svg/glyphish/fingers-spread-left-toolbar.svg",
-      "filename": "glyphish/fingers-spread-left-toolbar"
     },
     {
       "href": "svg/glyphish/fingers-spread-left.svg",
       "filename": "glyphish/fingers-spread-left"
     },
     {
-      "href": "svg/glyphish/fingers-spread-right-toolbar.svg",
-      "filename": "glyphish/fingers-spread-right-toolbar"
-    },
-    {
       "href": "svg/glyphish/fingers-spread-right.svg",
       "filename": "glyphish/fingers-spread-right"
-    },
-    {
-      "href": "svg/glyphish/fire-hydrant-toolbar.svg",
-      "filename": "glyphish/fire-hydrant-toolbar"
     },
     {
       "href": "svg/glyphish/fire-hydrant.svg",
       "filename": "glyphish/fire-hydrant"
     },
     {
-      "href": "svg/glyphish/fish-2-toolbar.svg",
-      "filename": "glyphish/fish-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/fish-2.svg",
       "filename": "glyphish/fish-2"
-    },
-    {
-      "href": "svg/glyphish/fish-hook-toolbar.svg",
-      "filename": "glyphish/fish-hook-toolbar"
     },
     {
       "href": "svg/glyphish/fish-hook.svg",
       "filename": "glyphish/fish-hook"
     },
     {
-      "href": "svg/glyphish/fish-toolbar.svg",
-      "filename": "glyphish/fish-toolbar"
-    },
-    {
       "href": "svg/glyphish/fish.svg",
       "filename": "glyphish/fish"
-    },
-    {
-      "href": "svg/glyphish/fist-toolbar.svg",
-      "filename": "glyphish/fist-toolbar"
     },
     {
       "href": "svg/glyphish/fist.svg",
       "filename": "glyphish/fist"
     },
     {
-      "href": "svg/glyphish/flag-toolbar.svg",
-      "filename": "glyphish/flag-toolbar"
-    },
-    {
       "href": "svg/glyphish/flag.svg",
       "filename": "glyphish/flag"
-    },
-    {
-      "href": "svg/glyphish/flick-left-toolbar.svg",
-      "filename": "glyphish/flick-left-toolbar"
     },
     {
       "href": "svg/glyphish/flick-left.svg",
       "filename": "glyphish/flick-left"
     },
     {
-      "href": "svg/glyphish/flick-right-toolbar.svg",
-      "filename": "glyphish/flick-right-toolbar"
-    },
-    {
       "href": "svg/glyphish/flick-right.svg",
       "filename": "glyphish/flick-right"
-    },
-    {
-      "href": "svg/glyphish/flipboard-toolbar.svg",
-      "filename": "glyphish/flipboard-toolbar"
     },
     {
       "href": "svg/glyphish/flipboard.svg",
       "filename": "glyphish/flipboard"
     },
     {
-      "href": "svg/glyphish/floppy-disk-toolbar.svg",
-      "filename": "glyphish/floppy-disk-toolbar"
-    },
-    {
       "href": "svg/glyphish/floppy-disk.svg",
       "filename": "glyphish/floppy-disk"
-    },
-    {
-      "href": "svg/glyphish/flower-pot-toolbar.svg",
-      "filename": "glyphish/flower-pot-toolbar"
     },
     {
       "href": "svg/glyphish/flower-pot.svg",
       "filename": "glyphish/flower-pot"
     },
     {
-      "href": "svg/glyphish/folder-checked-toolbar.svg",
-      "filename": "glyphish/folder-checked-toolbar"
-    },
-    {
       "href": "svg/glyphish/folder-checked.svg",
       "filename": "glyphish/folder-checked"
-    },
-    {
-      "href": "svg/glyphish/folder-delete-toolbar.svg",
-      "filename": "glyphish/folder-delete-toolbar"
     },
     {
       "href": "svg/glyphish/folder-delete.svg",
       "filename": "glyphish/folder-delete"
     },
     {
-      "href": "svg/glyphish/folder-error-toolbar.svg",
-      "filename": "glyphish/folder-error-toolbar"
-    },
-    {
       "href": "svg/glyphish/folder-error.svg",
       "filename": "glyphish/folder-error"
-    },
-    {
-      "href": "svg/glyphish/folder-minus-toolbar.svg",
-      "filename": "glyphish/folder-minus-toolbar"
     },
     {
       "href": "svg/glyphish/folder-minus.svg",
       "filename": "glyphish/folder-minus"
     },
     {
-      "href": "svg/glyphish/folder-plus-toolbar.svg",
-      "filename": "glyphish/folder-plus-toolbar"
-    },
-    {
       "href": "svg/glyphish/folder-plus.svg",
       "filename": "glyphish/folder-plus"
-    },
-    {
-      "href": "svg/glyphish/folder-toolbar.svg",
-      "filename": "glyphish/folder-toolbar"
     },
     {
       "href": "svg/glyphish/folder.svg",
       "filename": "glyphish/folder"
     },
     {
-      "href": "svg/glyphish/food-toolbar.svg",
-      "filename": "glyphish/food-toolbar"
-    },
-    {
       "href": "svg/glyphish/food.svg",
       "filename": "glyphish/food"
-    },
-    {
-      "href": "svg/glyphish/football-field-toolbar.svg",
-      "filename": "glyphish/football-field-toolbar"
     },
     {
       "href": "svg/glyphish/football-field.svg",
       "filename": "glyphish/football-field"
     },
     {
-      "href": "svg/glyphish/football-goalposts-toolbar.svg",
-      "filename": "glyphish/football-goalposts-toolbar"
-    },
-    {
       "href": "svg/glyphish/football-goalposts.svg",
       "filename": "glyphish/football-goalposts"
-    },
-    {
-      "href": "svg/glyphish/football-helmet-toolbar.svg",
-      "filename": "glyphish/football-helmet-toolbar"
     },
     {
       "href": "svg/glyphish/football-helmet.svg",
       "filename": "glyphish/football-helmet"
     },
     {
-      "href": "svg/glyphish/football-jersey-toolbar.svg",
-      "filename": "glyphish/football-jersey-toolbar"
-    },
-    {
       "href": "svg/glyphish/football-jersey.svg",
       "filename": "glyphish/football-jersey"
-    },
-    {
-      "href": "svg/glyphish/football-toolbar.svg",
-      "filename": "glyphish/football-toolbar"
     },
     {
       "href": "svg/glyphish/football.svg",
       "filename": "glyphish/football"
     },
     {
-      "href": "svg/glyphish/fork-path-toolbar.svg",
-      "filename": "glyphish/fork-path-toolbar"
-    },
-    {
       "href": "svg/glyphish/fork-path.svg",
       "filename": "glyphish/fork-path"
-    },
-    {
-      "href": "svg/glyphish/forrst-toolbar.svg",
-      "filename": "glyphish/forrst-toolbar"
     },
     {
       "href": "svg/glyphish/forrst.svg",
       "filename": "glyphish/forrst"
     },
     {
-      "href": "svg/glyphish/foursquare-toolbar.svg",
-      "filename": "glyphish/foursquare-toolbar"
-    },
-    {
       "href": "svg/glyphish/foursquare.svg",
       "filename": "glyphish/foursquare"
-    },
-    {
-      "href": "svg/glyphish/fried-egg-toolbar.svg",
-      "filename": "glyphish/fried-egg-toolbar"
     },
     {
       "href": "svg/glyphish/fried-egg.svg",
       "filename": "glyphish/fried-egg"
     },
     {
-      "href": "svg/glyphish/game-controller-toolbar.svg",
-      "filename": "glyphish/game-controller-toolbar"
-    },
-    {
       "href": "svg/glyphish/game-controller.svg",
       "filename": "glyphish/game-controller"
-    },
-    {
-      "href": "svg/glyphish/game-plan-toolbar.svg",
-      "filename": "glyphish/game-plan-toolbar"
     },
     {
       "href": "svg/glyphish/game-plan.svg",
       "filename": "glyphish/game-plan"
     },
     {
-      "href": "svg/glyphish/gas-pump-toolbar.svg",
-      "filename": "glyphish/gas-pump-toolbar"
-    },
-    {
       "href": "svg/glyphish/gas-pump.svg",
       "filename": "glyphish/gas-pump"
-    },
-    {
-      "href": "svg/glyphish/gauge-toolbar.svg",
-      "filename": "glyphish/gauge-toolbar"
     },
     {
       "href": "svg/glyphish/gauge.svg",
       "filename": "glyphish/gauge"
     },
     {
-      "href": "svg/glyphish/gavel-toolbar.svg",
-      "filename": "glyphish/gavel-toolbar"
-    },
-    {
       "href": "svg/glyphish/gavel.svg",
       "filename": "glyphish/gavel"
-    },
-    {
-      "href": "svg/glyphish/gear-toolbar.svg",
-      "filename": "glyphish/gear-toolbar"
     },
     {
       "href": "svg/glyphish/gear.svg",
       "filename": "glyphish/gear"
     },
     {
-      "href": "svg/glyphish/gears-toolbar.svg",
-      "filename": "glyphish/gears-toolbar"
-    },
-    {
       "href": "svg/glyphish/gears.svg",
       "filename": "glyphish/gears"
-    },
-    {
-      "href": "svg/glyphish/ghost-toolbar.svg",
-      "filename": "glyphish/ghost-toolbar"
     },
     {
       "href": "svg/glyphish/ghost.svg",
       "filename": "glyphish/ghost"
     },
     {
-      "href": "svg/glyphish/gift-toolbar.svg",
-      "filename": "glyphish/gift-toolbar"
-    },
-    {
       "href": "svg/glyphish/gift.svg",
       "filename": "glyphish/gift"
-    },
-    {
-      "href": "svg/glyphish/github-toolbar.svg",
-      "filename": "glyphish/github-toolbar"
     },
     {
       "href": "svg/glyphish/github.svg",
       "filename": "glyphish/github"
     },
     {
-      "href": "svg/glyphish/glasses-2-toolbar.svg",
-      "filename": "glyphish/glasses-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/glasses-2.svg",
       "filename": "glyphish/glasses-2"
-    },
-    {
-      "href": "svg/glyphish/glasses-toolbar.svg",
-      "filename": "glyphish/glasses-toolbar"
     },
     {
       "href": "svg/glyphish/glasses.svg",
       "filename": "glyphish/glasses"
     },
     {
-      "href": "svg/glyphish/globe-2-toolbar.svg",
-      "filename": "glyphish/globe-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/globe-2.svg",
       "filename": "glyphish/globe-2"
-    },
-    {
-      "href": "svg/glyphish/globe-3-toolbar.svg",
-      "filename": "glyphish/globe-3-toolbar"
     },
     {
       "href": "svg/glyphish/globe-3.svg",
       "filename": "glyphish/globe-3"
     },
     {
-      "href": "svg/glyphish/globe-toolbar.svg",
-      "filename": "glyphish/globe-toolbar"
-    },
-    {
       "href": "svg/glyphish/globe.svg",
       "filename": "glyphish/globe"
-    },
-    {
-      "href": "svg/glyphish/gloves-toolbar.svg",
-      "filename": "glyphish/gloves-toolbar"
-    },
-    {
-      "href": "svg/glyphish/gmail-toolbar.svg",
-      "filename": "glyphish/gmail-toolbar"
     },
     {
       "href": "svg/glyphish/gmail.svg",
       "filename": "glyphish/gmail"
     },
     {
-      "href": "svg/glyphish/golf-shot-toolbar.svg",
-      "filename": "glyphish/golf-shot-toolbar"
-    },
-    {
       "href": "svg/glyphish/golf-shot.svg",
       "filename": "glyphish/golf-shot"
-    },
-    {
-      "href": "svg/glyphish/golf-toolbar.svg",
-      "filename": "glyphish/golf-toolbar"
     },
     {
       "href": "svg/glyphish/golf.svg",
       "filename": "glyphish/golf"
     },
     {
-      "href": "svg/glyphish/google-toolbar.svg",
-      "filename": "glyphish/google-toolbar"
-    },
-    {
       "href": "svg/glyphish/google.svg",
       "filename": "glyphish/google"
-    },
-    {
-      "href": "svg/glyphish/googleplus-toolbar.svg",
-      "filename": "glyphish/googleplus-toolbar"
     },
     {
       "href": "svg/glyphish/googleplus.svg",
       "filename": "glyphish/googleplus"
     },
     {
-      "href": "svg/glyphish/grab-hand-toolbar.svg",
-      "filename": "glyphish/grab-hand-toolbar"
-    },
-    {
       "href": "svg/glyphish/grab-hand.svg",
       "filename": "glyphish/grab-hand"
-    },
-    {
-      "href": "svg/glyphish/graduation-cap-toolbar.svg",
-      "filename": "glyphish/graduation-cap-toolbar"
     },
     {
       "href": "svg/glyphish/graduation-cap.svg",
       "filename": "glyphish/graduation-cap"
     },
     {
-      "href": "svg/glyphish/graph-toolbar.svg",
-      "filename": "glyphish/graph-toolbar"
-    },
-    {
       "href": "svg/glyphish/graph.svg",
       "filename": "glyphish/graph"
-    },
-    {
-      "href": "svg/glyphish/grid-2-toolbar.svg",
-      "filename": "glyphish/grid-2-toolbar"
     },
     {
       "href": "svg/glyphish/grid-2.svg",
       "filename": "glyphish/grid-2"
     },
     {
-      "href": "svg/glyphish/grid-3-toolbar.svg",
-      "filename": "glyphish/grid-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/grid-3.svg",
       "filename": "glyphish/grid-3"
-    },
-    {
-      "href": "svg/glyphish/grid-4-toolbar.svg",
-      "filename": "glyphish/grid-4-toolbar"
     },
     {
       "href": "svg/glyphish/grid-4.svg",
       "filename": "glyphish/grid-4"
     },
     {
-      "href": "svg/glyphish/grid-toolbar.svg",
-      "filename": "glyphish/grid-toolbar"
-    },
-    {
       "href": "svg/glyphish/grid.svg",
       "filename": "glyphish/grid"
-    },
-    {
-      "href": "svg/glyphish/group-checked-toolbar.svg",
-      "filename": "glyphish/group-checked-toolbar"
     },
     {
       "href": "svg/glyphish/group-checked.svg",
       "filename": "glyphish/group-checked"
     },
     {
-      "href": "svg/glyphish/group-delete-toolbar.svg",
-      "filename": "glyphish/group-delete-toolbar"
-    },
-    {
       "href": "svg/glyphish/group-delete.svg",
       "filename": "glyphish/group-delete"
-    },
-    {
-      "href": "svg/glyphish/group-error-toolbar.svg",
-      "filename": "glyphish/group-error-toolbar"
     },
     {
       "href": "svg/glyphish/group-error.svg",
       "filename": "glyphish/group-error"
     },
     {
-      "href": "svg/glyphish/group-minus-toolbar.svg",
-      "filename": "glyphish/group-minus-toolbar"
-    },
-    {
       "href": "svg/glyphish/group-minus.svg",
       "filename": "glyphish/group-minus"
-    },
-    {
-      "href": "svg/glyphish/group-plus-toolbar.svg",
-      "filename": "glyphish/group-plus-toolbar"
     },
     {
       "href": "svg/glyphish/group-plus.svg",
       "filename": "glyphish/group-plus"
     },
     {
-      "href": "svg/glyphish/guitar-toolbar.svg",
-      "filename": "glyphish/guitar-toolbar"
-    },
-    {
       "href": "svg/glyphish/guitar.svg",
       "filename": "glyphish/guitar"
-    },
-    {
-      "href": "svg/glyphish/hammer-toolbar.svg",
-      "filename": "glyphish/hammer-toolbar"
     },
     {
       "href": "svg/glyphish/hammer.svg",
       "filename": "glyphish/hammer"
     },
     {
-      "href": "svg/glyphish/handbag-toolbar.svg",
-      "filename": "glyphish/handbag-toolbar"
-    },
-    {
       "href": "svg/glyphish/handbag.svg",
       "filename": "glyphish/handbag"
-    },
-    {
-      "href": "svg/glyphish/handgun-toolbar.svg",
-      "filename": "glyphish/handgun-toolbar"
     },
     {
       "href": "svg/glyphish/handgun.svg",
       "filename": "glyphish/handgun"
     },
     {
-      "href": "svg/glyphish/handtruck-toolbar.svg",
-      "filename": "glyphish/handtruck-toolbar"
-    },
-    {
       "href": "svg/glyphish/handtruck.svg",
       "filename": "glyphish/handtruck"
-    },
-    {
-      "href": "svg/glyphish/headphone-toolbar.svg",
-      "filename": "glyphish/headphone-toolbar"
     },
     {
       "href": "svg/glyphish/headphone.svg",
       "filename": "glyphish/headphone"
     },
     {
-      "href": "svg/glyphish/heart-toolbar.svg",
-      "filename": "glyphish/heart-toolbar"
-    },
-    {
       "href": "svg/glyphish/heart.svg",
       "filename": "glyphish/heart"
-    },
-    {
-      "href": "svg/glyphish/helmet-toolbar.svg",
-      "filename": "glyphish/helmet-toolbar"
     },
     {
       "href": "svg/glyphish/helmet.svg",
       "filename": "glyphish/helmet"
     },
     {
-      "href": "svg/glyphish/hiking-toolbar.svg",
-      "filename": "glyphish/hiking-toolbar"
-    },
-    {
       "href": "svg/glyphish/hiking.svg",
       "filename": "glyphish/hiking"
-    },
-    {
-      "href": "svg/glyphish/hindu-om-symbol-toolbar.svg",
-      "filename": "glyphish/hindu-om-symbol-toolbar"
     },
     {
       "href": "svg/glyphish/hindu-om-symbol.svg",
       "filename": "glyphish/hindu-om-symbol"
     },
     {
-      "href": "svg/glyphish/hockey-mask-toolbar.svg",
-      "filename": "glyphish/hockey-mask-toolbar"
-    },
-    {
       "href": "svg/glyphish/hockey-mask.svg",
       "filename": "glyphish/hockey-mask"
-    },
-    {
-      "href": "svg/glyphish/hockey-stick-and-puck-toolbar.svg",
-      "filename": "glyphish/hockey-stick-and-puck-toolbar"
     },
     {
       "href": "svg/glyphish/hockey-stick-and-puck.svg",
       "filename": "glyphish/hockey-stick-and-puck"
     },
     {
-      "href": "svg/glyphish/home-toolbar.svg",
-      "filename": "glyphish/home-toolbar"
-    },
-    {
       "href": "svg/glyphish/home.svg",
       "filename": "glyphish/home"
-    },
-    {
-      "href": "svg/glyphish/horizontal-swipe-toolbar.svg",
-      "filename": "glyphish/horizontal-swipe-toolbar"
     },
     {
       "href": "svg/glyphish/horizontal-swipe.svg",
       "filename": "glyphish/horizontal-swipe"
     },
     {
-      "href": "svg/glyphish/horse-toolbar.svg",
-      "filename": "glyphish/horse-toolbar"
-    },
-    {
       "href": "svg/glyphish/horse.svg",
       "filename": "glyphish/horse"
-    },
-    {
-      "href": "svg/glyphish/ice-cream-cone-toolbar.svg",
-      "filename": "glyphish/ice-cream-cone-toolbar"
     },
     {
       "href": "svg/glyphish/ice-cream-cone.svg",
       "filename": "glyphish/ice-cream-cone"
     },
     {
-      "href": "svg/glyphish/icloud-toolbar.svg",
-      "filename": "glyphish/icloud-toolbar"
-    },
-    {
       "href": "svg/glyphish/icloud.svg",
       "filename": "glyphish/icloud"
-    },
-    {
-      "href": "svg/glyphish/id-badge-toolbar.svg",
-      "filename": "glyphish/id-badge-toolbar"
     },
     {
       "href": "svg/glyphish/id-badge.svg",
       "filename": "glyphish/id-badge"
     },
     {
-      "href": "svg/glyphish/inbox-download-toolbar.svg",
-      "filename": "glyphish/inbox-download-toolbar"
-    },
-    {
       "href": "svg/glyphish/inbox-download.svg",
       "filename": "glyphish/inbox-download"
-    },
-    {
-      "href": "svg/glyphish/inbox-files-toolbar.svg",
-      "filename": "glyphish/inbox-files-toolbar"
     },
     {
       "href": "svg/glyphish/inbox-files.svg",
       "filename": "glyphish/inbox-files"
     },
     {
-      "href": "svg/glyphish/inbox-toolbar.svg",
-      "filename": "glyphish/inbox-toolbar"
-    },
-    {
       "href": "svg/glyphish/inbox.svg",
       "filename": "glyphish/inbox"
-    },
-    {
-      "href": "svg/glyphish/info-toolbar.svg",
-      "filename": "glyphish/info-toolbar"
     },
     {
       "href": "svg/glyphish/info.svg",
       "filename": "glyphish/info"
     },
     {
-      "href": "svg/glyphish/instagram-toolbar.svg",
-      "filename": "glyphish/instagram-toolbar"
-    },
-    {
       "href": "svg/glyphish/instagram.svg",
       "filename": "glyphish/instagram"
-    },
-    {
-      "href": "svg/glyphish/ipod-classic-toolbar.svg",
-      "filename": "glyphish/ipod-classic-toolbar"
     },
     {
       "href": "svg/glyphish/ipod-classic.svg",
       "filename": "glyphish/ipod-classic"
     },
     {
-      "href": "svg/glyphish/ipod-touch-toolbar.svg",
-      "filename": "glyphish/ipod-touch-toolbar"
-    },
-    {
       "href": "svg/glyphish/ipod-touch.svg",
       "filename": "glyphish/ipod-touch"
-    },
-    {
-      "href": "svg/glyphish/islamic-moon-and-star-toolbar.svg",
-      "filename": "glyphish/islamic-moon-and-star-toolbar"
     },
     {
       "href": "svg/glyphish/islamic-moon-and-star.svg",
       "filename": "glyphish/islamic-moon-and-star"
     },
     {
-      "href": "svg/glyphish/italic-toolbar.svg",
-      "filename": "glyphish/italic-toolbar"
-    },
-    {
       "href": "svg/glyphish/italic.svg",
       "filename": "glyphish/italic"
-    },
-    {
-      "href": "svg/glyphish/itunes-toolbar.svg",
-      "filename": "glyphish/itunes-toolbar"
     },
     {
       "href": "svg/glyphish/itunes.svg",
       "filename": "glyphish/itunes"
     },
     {
-      "href": "svg/glyphish/jacket-toolbar.svg",
-      "filename": "glyphish/jacket-toolbar"
-    },
-    {
-      "href": "svg/glyphish/join-path-toolbar.svg",
-      "filename": "glyphish/join-path-toolbar"
-    },
-    {
       "href": "svg/glyphish/join-path.svg",
       "filename": "glyphish/join-path"
-    },
-    {
-      "href": "svg/glyphish/judaic-star-toolbar.svg",
-      "filename": "glyphish/judaic-star-toolbar"
     },
     {
       "href": "svg/glyphish/judaic-star.svg",
       "filename": "glyphish/judaic-star"
     },
     {
-      "href": "svg/glyphish/key-toolbar.svg",
-      "filename": "glyphish/key-toolbar"
-    },
-    {
       "href": "svg/glyphish/key.svg",
       "filename": "glyphish/key"
-    },
-    {
-      "href": "svg/glyphish/keyhole-toolbar.svg",
-      "filename": "glyphish/keyhole-toolbar"
     },
     {
       "href": "svg/glyphish/keyhole.svg",
       "filename": "glyphish/keyhole"
     },
     {
-      "href": "svg/glyphish/lamp-toolbar.svg",
-      "filename": "glyphish/lamp-toolbar"
-    },
-    {
       "href": "svg/glyphish/lamp.svg",
       "filename": "glyphish/lamp"
-    },
-    {
-      "href": "svg/glyphish/laptop-toolbar.svg",
-      "filename": "glyphish/laptop-toolbar"
     },
     {
       "href": "svg/glyphish/laptop.svg",
       "filename": "glyphish/laptop"
     },
     {
-      "href": "svg/glyphish/large-house-toolbar.svg",
-      "filename": "glyphish/large-house-toolbar"
-    },
-    {
       "href": "svg/glyphish/large-house.svg",
       "filename": "glyphish/large-house"
-    },
-    {
-      "href": "svg/glyphish/layers-2-toolbar.svg",
-      "filename": "glyphish/layers-2-toolbar"
     },
     {
       "href": "svg/glyphish/layers-2.svg",
       "filename": "glyphish/layers-2"
     },
     {
-      "href": "svg/glyphish/layers-3-toolbar.svg",
-      "filename": "glyphish/layers-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/layers-3.svg",
       "filename": "glyphish/layers-3"
-    },
-    {
-      "href": "svg/glyphish/layers-toolbar.svg",
-      "filename": "glyphish/layers-toolbar"
     },
     {
       "href": "svg/glyphish/layers.svg",
       "filename": "glyphish/layers"
     },
     {
-      "href": "svg/glyphish/level-toolbar.svg",
-      "filename": "glyphish/level-toolbar"
-    },
-    {
       "href": "svg/glyphish/level.svg",
       "filename": "glyphish/level"
-    },
-    {
-      "href": "svg/glyphish/life-preserver-toolbar.svg",
-      "filename": "glyphish/life-preserver-toolbar"
     },
     {
       "href": "svg/glyphish/life-preserver.svg",
       "filename": "glyphish/life-preserver"
     },
     {
-      "href": "svg/glyphish/light-bulb-toolbar.svg",
-      "filename": "glyphish/light-bulb-toolbar"
-    },
-    {
       "href": "svg/glyphish/light-bulb.svg",
       "filename": "glyphish/light-bulb"
-    },
-    {
-      "href": "svg/glyphish/lightning-bolt-2-toolbar.svg",
-      "filename": "glyphish/lightning-bolt-2-toolbar"
     },
     {
       "href": "svg/glyphish/lightning-bolt-2.svg",
       "filename": "glyphish/lightning-bolt-2"
     },
     {
-      "href": "svg/glyphish/lightning-bolt-3-toolbar.svg",
-      "filename": "glyphish/lightning-bolt-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/lightning-bolt-3.svg",
       "filename": "glyphish/lightning-bolt-3"
-    },
-    {
-      "href": "svg/glyphish/lightning-bolt-toolbar.svg",
-      "filename": "glyphish/lightning-bolt-toolbar"
     },
     {
       "href": "svg/glyphish/lightning-bolt.svg",
       "filename": "glyphish/lightning-bolt"
     },
     {
-      "href": "svg/glyphish/line-chart-toolbar.svg",
-      "filename": "glyphish/line-chart-toolbar"
-    },
-    {
       "href": "svg/glyphish/line-chart.svg",
       "filename": "glyphish/line-chart"
-    },
-    {
-      "href": "svg/glyphish/link-toolbar.svg",
-      "filename": "glyphish/link-toolbar"
     },
     {
       "href": "svg/glyphish/link.svg",
       "filename": "glyphish/link"
     },
     {
-      "href": "svg/glyphish/linkedin-toolbar.svg",
-      "filename": "glyphish/linkedin-toolbar"
-    },
-    {
       "href": "svg/glyphish/linkedin.svg",
       "filename": "glyphish/linkedin"
-    },
-    {
-      "href": "svg/glyphish/list-2-toolbar.svg",
-      "filename": "glyphish/list-2-toolbar"
     },
     {
       "href": "svg/glyphish/list-2.svg",
       "filename": "glyphish/list-2"
     },
     {
-      "href": "svg/glyphish/list-3-toolbar.svg",
-      "filename": "glyphish/list-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/list-3.svg",
       "filename": "glyphish/list-3"
-    },
-    {
-      "href": "svg/glyphish/list-toolbar.svg",
-      "filename": "glyphish/list-toolbar"
     },
     {
       "href": "svg/glyphish/list.svg",
       "filename": "glyphish/list"
     },
     {
-      "href": "svg/glyphish/location-arrow-toolbar.svg",
-      "filename": "glyphish/location-arrow-toolbar"
-    },
-    {
       "href": "svg/glyphish/location-arrow.svg",
       "filename": "glyphish/location-arrow"
-    },
-    {
-      "href": "svg/glyphish/location-pin-toolbar.svg",
-      "filename": "glyphish/location-pin-toolbar"
     },
     {
       "href": "svg/glyphish/location-pin.svg",
       "filename": "glyphish/location-pin"
     },
     {
-      "href": "svg/glyphish/location-target-toolbar.svg",
-      "filename": "glyphish/location-target-toolbar"
-    },
-    {
       "href": "svg/glyphish/location-target.svg",
       "filename": "glyphish/location-target"
-    },
-    {
-      "href": "svg/glyphish/location-toolbar.svg",
-      "filename": "glyphish/location-toolbar"
     },
     {
       "href": "svg/glyphish/location.svg",
       "filename": "glyphish/location"
     },
     {
-      "href": "svg/glyphish/locked-toolbar.svg",
-      "filename": "glyphish/locked-toolbar"
-    },
-    {
       "href": "svg/glyphish/locked.svg",
       "filename": "glyphish/locked"
-    },
-    {
-      "href": "svg/glyphish/magic-lamp-toolbar.svg",
-      "filename": "glyphish/magic-lamp-toolbar"
     },
     {
       "href": "svg/glyphish/magic-lamp.svg",
       "filename": "glyphish/magic-lamp"
     },
     {
-      "href": "svg/glyphish/magic-wand-toolbar.svg",
-      "filename": "glyphish/magic-wand-toolbar"
-    },
-    {
       "href": "svg/glyphish/magic-wand.svg",
       "filename": "glyphish/magic-wand"
-    },
-    {
-      "href": "svg/glyphish/magnet-toolbar.svg",
-      "filename": "glyphish/magnet-toolbar"
     },
     {
       "href": "svg/glyphish/magnet.svg",
       "filename": "glyphish/magnet"
     },
     {
-      "href": "svg/glyphish/mailbox-toolbar.svg",
-      "filename": "glyphish/mailbox-toolbar"
-    },
-    {
       "href": "svg/glyphish/mailbox.svg",
       "filename": "glyphish/mailbox"
-    },
-    {
-      "href": "svg/glyphish/male-toolbar.svg",
-      "filename": "glyphish/male-toolbar"
     },
     {
       "href": "svg/glyphish/male.svg",
       "filename": "glyphish/male"
     },
     {
-      "href": "svg/glyphish/map-location-toolbar.svg",
-      "filename": "glyphish/map-location-toolbar"
-    },
-    {
       "href": "svg/glyphish/map-location.svg",
       "filename": "glyphish/map-location"
-    },
-    {
-      "href": "svg/glyphish/map-toolbar.svg",
-      "filename": "glyphish/map-toolbar"
     },
     {
       "href": "svg/glyphish/map.svg",
       "filename": "glyphish/map"
     },
     {
-      "href": "svg/glyphish/martini-glass-toolbar.svg",
-      "filename": "glyphish/martini-glass-toolbar"
-    },
-    {
       "href": "svg/glyphish/martini-glass.svg",
       "filename": "glyphish/martini-glass"
-    },
-    {
-      "href": "svg/glyphish/measuring-cup-toolbar.svg",
-      "filename": "glyphish/measuring-cup-toolbar"
     },
     {
       "href": "svg/glyphish/measuring-cup.svg",
       "filename": "glyphish/measuring-cup"
     },
     {
-      "href": "svg/glyphish/medal-toolbar.svg",
-      "filename": "glyphish/medal-toolbar"
-    },
-    {
       "href": "svg/glyphish/medal.svg",
       "filename": "glyphish/medal"
-    },
-    {
-      "href": "svg/glyphish/meetup-toolbar.svg",
-      "filename": "glyphish/meetup-toolbar"
     },
     {
       "href": "svg/glyphish/meetup.svg",
       "filename": "glyphish/meetup"
     },
     {
-      "href": "svg/glyphish/megaphone-toolbar.svg",
-      "filename": "glyphish/megaphone-toolbar"
-    },
-    {
       "href": "svg/glyphish/megaphone.svg",
       "filename": "glyphish/megaphone"
-    },
-    {
-      "href": "svg/glyphish/merge-toolbar.svg",
-      "filename": "glyphish/merge-toolbar"
     },
     {
       "href": "svg/glyphish/merge.svg",
       "filename": "glyphish/merge"
     },
     {
-      "href": "svg/glyphish/messenger-bag-toolbar.svg",
-      "filename": "glyphish/messenger-bag-toolbar"
-    },
-    {
       "href": "svg/glyphish/messenger-bag.svg",
       "filename": "glyphish/messenger-bag"
-    },
-    {
-      "href": "svg/glyphish/microphone-2-toolbar.svg",
-      "filename": "glyphish/microphone-2-toolbar"
     },
     {
       "href": "svg/glyphish/microphone-2.svg",
       "filename": "glyphish/microphone-2"
     },
     {
-      "href": "svg/glyphish/microphone-toolbar.svg",
-      "filename": "glyphish/microphone-toolbar"
-    },
-    {
       "href": "svg/glyphish/microphone.svg",
       "filename": "glyphish/microphone"
-    },
-    {
-      "href": "svg/glyphish/mobile-phone-toolbar.svg",
-      "filename": "glyphish/mobile-phone-toolbar"
     },
     {
       "href": "svg/glyphish/mobile-phone.svg",
       "filename": "glyphish/mobile-phone"
     },
     {
-      "href": "svg/glyphish/money-2-toolbar.svg",
-      "filename": "glyphish/money-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/money-2.svg",
       "filename": "glyphish/money-2"
-    },
-    {
-      "href": "svg/glyphish/money-toolbar.svg",
-      "filename": "glyphish/money-toolbar"
     },
     {
       "href": "svg/glyphish/money.svg",
       "filename": "glyphish/money"
     },
     {
-      "href": "svg/glyphish/moon-toolbar.svg",
-      "filename": "glyphish/moon-toolbar"
-    },
-    {
       "href": "svg/glyphish/moon.svg",
       "filename": "glyphish/moon"
-    },
-    {
-      "href": "svg/glyphish/more-toolbar.svg",
-      "filename": "glyphish/more-toolbar"
     },
     {
       "href": "svg/glyphish/more.svg",
       "filename": "glyphish/more"
     },
     {
-      "href": "svg/glyphish/mountains-toolbar.svg",
-      "filename": "glyphish/mountains-toolbar"
-    },
-    {
       "href": "svg/glyphish/mountains.svg",
       "filename": "glyphish/mountains"
-    },
-    {
-      "href": "svg/glyphish/mouse-cursor-toolbar.svg",
-      "filename": "glyphish/mouse-cursor-toolbar"
     },
     {
       "href": "svg/glyphish/mouse-cursor.svg",
       "filename": "glyphish/mouse-cursor"
     },
     {
-      "href": "svg/glyphish/mug-toolbar.svg",
-      "filename": "glyphish/mug-toolbar"
-    },
-    {
       "href": "svg/glyphish/mug.svg",
       "filename": "glyphish/mug"
-    },
-    {
-      "href": "svg/glyphish/music-note-2-toolbar.svg",
-      "filename": "glyphish/music-note-2-toolbar"
     },
     {
       "href": "svg/glyphish/music-note-2.svg",
       "filename": "glyphish/music-note-2"
     },
     {
-      "href": "svg/glyphish/music-note-3-toolbar.svg",
-      "filename": "glyphish/music-note-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/music-note-3.svg",
       "filename": "glyphish/music-note-3"
-    },
-    {
-      "href": "svg/glyphish/music-note-toolbar.svg",
-      "filename": "glyphish/music-note-toolbar"
     },
     {
       "href": "svg/glyphish/music-note.svg",
       "filename": "glyphish/music-note"
     },
     {
-      "href": "svg/glyphish/music-playlist-toolbar.svg",
-      "filename": "glyphish/music-playlist-toolbar"
-    },
-    {
       "href": "svg/glyphish/music-playlist.svg",
       "filename": "glyphish/music-playlist"
-    },
-    {
-      "href": "svg/glyphish/neck-tie-toolbar.svg",
-      "filename": "glyphish/neck-tie-toolbar"
     },
     {
       "href": "svg/glyphish/neck-tie.svg",
       "filename": "glyphish/neck-tie"
     },
     {
-      "href": "svg/glyphish/necklace-2-toolbar.svg",
-      "filename": "glyphish/necklace-2-toolbar"
-    },
-    {
-      "href": "svg/glyphish/necklace-toolbar.svg",
-      "filename": "glyphish/necklace-toolbar"
-    },
-    {
-      "href": "svg/glyphish/newspaper-toolbar.svg",
-      "filename": "glyphish/newspaper-toolbar"
-    },
-    {
       "href": "svg/glyphish/newspaper.svg",
       "filename": "glyphish/newspaper"
-    },
-    {
-      "href": "svg/glyphish/notepad-2-toolbar.svg",
-      "filename": "glyphish/notepad-2-toolbar"
     },
     {
       "href": "svg/glyphish/notepad-2.svg",
       "filename": "glyphish/notepad-2"
     },
     {
-      "href": "svg/glyphish/notepad-toolbar.svg",
-      "filename": "glyphish/notepad-toolbar"
-    },
-    {
       "href": "svg/glyphish/notepad.svg",
       "filename": "glyphish/notepad"
-    },
-    {
-      "href": "svg/glyphish/numbered-list-toolbar.svg",
-      "filename": "glyphish/numbered-list-toolbar"
     },
     {
       "href": "svg/glyphish/numbered-list.svg",
       "filename": "glyphish/numbered-list"
     },
     {
-      "href": "svg/glyphish/one-finger-tap-toolbar.svg",
-      "filename": "glyphish/one-finger-tap-toolbar"
-    },
-    {
       "href": "svg/glyphish/one-finger-tap.svg",
       "filename": "glyphish/one-finger-tap"
-    },
-    {
-      "href": "svg/glyphish/org-chart-toolbar.svg",
-      "filename": "glyphish/org-chart-toolbar"
     },
     {
       "href": "svg/glyphish/org-chart.svg",
       "filename": "glyphish/org-chart"
     },
     {
-      "href": "svg/glyphish/package-toolbar.svg",
-      "filename": "glyphish/package-toolbar"
-    },
-    {
       "href": "svg/glyphish/package.svg",
       "filename": "glyphish/package"
-    },
-    {
-      "href": "svg/glyphish/paint-brush-toolbar.svg",
-      "filename": "glyphish/paint-brush-toolbar"
     },
     {
       "href": "svg/glyphish/paint-brush.svg",
       "filename": "glyphish/paint-brush"
     },
     {
-      "href": "svg/glyphish/paint-roller-toolbar.svg",
-      "filename": "glyphish/paint-roller-toolbar"
-    },
-    {
       "href": "svg/glyphish/paint-roller.svg",
       "filename": "glyphish/paint-roller"
-    },
-    {
-      "href": "svg/glyphish/palette-toolbar.svg",
-      "filename": "glyphish/palette-toolbar"
     },
     {
       "href": "svg/glyphish/palette.svg",
       "filename": "glyphish/palette"
     },
     {
-      "href": "svg/glyphish/pants-toolbar.svg",
-      "filename": "glyphish/pants-toolbar"
-    },
-    {
-      "href": "svg/glyphish/paper-airplane-toolbar.svg",
-      "filename": "glyphish/paper-airplane-toolbar"
-    },
-    {
       "href": "svg/glyphish/paper-airplane.svg",
       "filename": "glyphish/paper-airplane"
-    },
-    {
-      "href": "svg/glyphish/paper-clip-toolbar.svg",
-      "filename": "glyphish/paper-clip-toolbar"
     },
     {
       "href": "svg/glyphish/paper-clip.svg",
       "filename": "glyphish/paper-clip"
     },
     {
-      "href": "svg/glyphish/parcel-toolbar.svg",
-      "filename": "glyphish/parcel-toolbar"
-    },
-    {
       "href": "svg/glyphish/parcel.svg",
       "filename": "glyphish/parcel"
-    },
-    {
-      "href": "svg/glyphish/pause-toolbar.svg",
-      "filename": "glyphish/pause-toolbar"
     },
     {
       "href": "svg/glyphish/pause.svg",
       "filename": "glyphish/pause"
     },
     {
-      "href": "svg/glyphish/paw-print-toolbar.svg",
-      "filename": "glyphish/paw-print-toolbar"
-    },
-    {
       "href": "svg/glyphish/paw-print.svg",
       "filename": "glyphish/paw-print"
-    },
-    {
-      "href": "svg/glyphish/paypal-toolbar.svg",
-      "filename": "glyphish/paypal-toolbar"
     },
     {
       "href": "svg/glyphish/paypal.svg",
       "filename": "glyphish/paypal"
     },
     {
-      "href": "svg/glyphish/peace-sign-toolbar.svg",
-      "filename": "glyphish/peace-sign-toolbar"
-    },
-    {
       "href": "svg/glyphish/peace-sign.svg",
       "filename": "glyphish/peace-sign"
-    },
-    {
-      "href": "svg/glyphish/pencil-toolbar.svg",
-      "filename": "glyphish/pencil-toolbar"
     },
     {
       "href": "svg/glyphish/pencil.svg",
       "filename": "glyphish/pencil"
     },
     {
-      "href": "svg/glyphish/phone-toolbar.svg",
-      "filename": "glyphish/phone-toolbar"
-    },
-    {
       "href": "svg/glyphish/phone.svg",
       "filename": "glyphish/phone"
-    },
-    {
-      "href": "svg/glyphish/photo-2-toolbar.svg",
-      "filename": "glyphish/photo-2-toolbar"
     },
     {
       "href": "svg/glyphish/photo-2.svg",
       "filename": "glyphish/photo-2"
     },
     {
-      "href": "svg/glyphish/photo-toolbar.svg",
-      "filename": "glyphish/photo-toolbar"
-    },
-    {
       "href": "svg/glyphish/photo.svg",
       "filename": "glyphish/photo"
-    },
-    {
-      "href": "svg/glyphish/photos-2-toolbar.svg",
-      "filename": "glyphish/photos-2-toolbar"
     },
     {
       "href": "svg/glyphish/photos-2.svg",
       "filename": "glyphish/photos-2"
     },
     {
-      "href": "svg/glyphish/photos-toolbar.svg",
-      "filename": "glyphish/photos-toolbar"
-    },
-    {
       "href": "svg/glyphish/photos.svg",
       "filename": "glyphish/photos"
-    },
-    {
-      "href": "svg/glyphish/piano-2-toolbar.svg",
-      "filename": "glyphish/piano-2-toolbar"
     },
     {
       "href": "svg/glyphish/piano-2.svg",
       "filename": "glyphish/piano-2"
     },
     {
-      "href": "svg/glyphish/piano-toolbar.svg",
-      "filename": "glyphish/piano-toolbar"
-    },
-    {
       "href": "svg/glyphish/piano.svg",
       "filename": "glyphish/piano"
-    },
-    {
-      "href": "svg/glyphish/picture-toolbar.svg",
-      "filename": "glyphish/picture-toolbar"
     },
     {
       "href": "svg/glyphish/picture.svg",
       "filename": "glyphish/picture"
     },
     {
-      "href": "svg/glyphish/pie-chart-toolbar.svg",
-      "filename": "glyphish/pie-chart-toolbar"
-    },
-    {
       "href": "svg/glyphish/pie-chart.svg",
       "filename": "glyphish/pie-chart"
-    },
-    {
-      "href": "svg/glyphish/pig-toolbar.svg",
-      "filename": "glyphish/pig-toolbar"
     },
     {
       "href": "svg/glyphish/pig.svg",
       "filename": "glyphish/pig"
     },
     {
-      "href": "svg/glyphish/piggy-bank-toolbar.svg",
-      "filename": "glyphish/piggy-bank-toolbar"
-    },
-    {
       "href": "svg/glyphish/piggy-bank.svg",
       "filename": "glyphish/piggy-bank"
-    },
-    {
-      "href": "svg/glyphish/pill-toolbar.svg",
-      "filename": "glyphish/pill-toolbar"
     },
     {
       "href": "svg/glyphish/pill.svg",
       "filename": "glyphish/pill"
     },
     {
-      "href": "svg/glyphish/pin-2-toolbar.svg",
-      "filename": "glyphish/pin-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/pin-2.svg",
       "filename": "glyphish/pin-2"
-    },
-    {
-      "href": "svg/glyphish/pin-toolbar.svg",
-      "filename": "glyphish/pin-toolbar"
     },
     {
       "href": "svg/glyphish/pin.svg",
       "filename": "glyphish/pin"
     },
     {
-      "href": "svg/glyphish/pinch-toolbar.svg",
-      "filename": "glyphish/pinch-toolbar"
-    },
-    {
       "href": "svg/glyphish/pinch.svg",
       "filename": "glyphish/pinch"
-    },
-    {
-      "href": "svg/glyphish/ping-pong-paddle-toolbar.svg",
-      "filename": "glyphish/ping-pong-paddle-toolbar"
     },
     {
       "href": "svg/glyphish/ping-pong-paddle.svg",
       "filename": "glyphish/ping-pong-paddle"
     },
     {
-      "href": "svg/glyphish/pinterest-toolbar.svg",
-      "filename": "glyphish/pinterest-toolbar"
-    },
-    {
       "href": "svg/glyphish/pinterest.svg",
       "filename": "glyphish/pinterest"
-    },
-    {
-      "href": "svg/glyphish/pizza-toolbar.svg",
-      "filename": "glyphish/pizza-toolbar"
     },
     {
       "href": "svg/glyphish/pizza.svg",
       "filename": "glyphish/pizza"
     },
     {
-      "href": "svg/glyphish/planet-toolbar.svg",
-      "filename": "glyphish/planet-toolbar"
-    },
-    {
       "href": "svg/glyphish/planet.svg",
       "filename": "glyphish/planet"
-    },
-    {
-      "href": "svg/glyphish/play-toolbar.svg",
-      "filename": "glyphish/play-toolbar"
     },
     {
       "href": "svg/glyphish/play.svg",
       "filename": "glyphish/play"
     },
     {
-      "href": "svg/glyphish/plus-circle-toolbar.svg",
-      "filename": "glyphish/plus-circle-toolbar"
-    },
-    {
       "href": "svg/glyphish/plus-circle.svg",
       "filename": "glyphish/plus-circle"
-    },
-    {
-      "href": "svg/glyphish/plus-rounded-square-toolbar.svg",
-      "filename": "glyphish/plus-rounded-square-toolbar"
     },
     {
       "href": "svg/glyphish/plus-rounded-square.svg",
       "filename": "glyphish/plus-rounded-square"
     },
     {
-      "href": "svg/glyphish/plus-toolbar.svg",
-      "filename": "glyphish/plus-toolbar"
-    },
-    {
       "href": "svg/glyphish/plus.svg",
       "filename": "glyphish/plus"
-    },
-    {
-      "href": "svg/glyphish/podium-toolbar.svg",
-      "filename": "glyphish/podium-toolbar"
     },
     {
       "href": "svg/glyphish/podium.svg",
       "filename": "glyphish/podium"
     },
     {
-      "href": "svg/glyphish/pointing-finger-toolbar.svg",
-      "filename": "glyphish/pointing-finger-toolbar"
-    },
-    {
       "href": "svg/glyphish/pointing-finger.svg",
       "filename": "glyphish/pointing-finger"
-    },
-    {
-      "href": "svg/glyphish/popsicle-toolbar.svg",
-      "filename": "glyphish/popsicle-toolbar"
     },
     {
       "href": "svg/glyphish/popsicle.svg",
       "filename": "glyphish/popsicle"
     },
     {
-      "href": "svg/glyphish/power-socket-toolbar.svg",
-      "filename": "glyphish/power-socket-toolbar"
-    },
-    {
       "href": "svg/glyphish/power-socket.svg",
       "filename": "glyphish/power-socket"
-    },
-    {
-      "href": "svg/glyphish/presentation-toolbar.svg",
-      "filename": "glyphish/presentation-toolbar"
     },
     {
       "href": "svg/glyphish/presentation.svg",
       "filename": "glyphish/presentation"
     },
     {
-      "href": "svg/glyphish/price-tag-toolbar.svg",
-      "filename": "glyphish/price-tag-toolbar"
-    },
-    {
       "href": "svg/glyphish/price-tag.svg",
       "filename": "glyphish/price-tag"
-    },
-    {
-      "href": "svg/glyphish/printer-toolbar.svg",
-      "filename": "glyphish/printer-toolbar"
     },
     {
       "href": "svg/glyphish/printer.svg",
       "filename": "glyphish/printer"
     },
     {
-      "href": "svg/glyphish/purse-toolbar.svg",
-      "filename": "glyphish/purse-toolbar"
-    },
-    {
-      "href": "svg/glyphish/puzzle-piece-toolbar.svg",
-      "filename": "glyphish/puzzle-piece-toolbar"
-    },
-    {
       "href": "svg/glyphish/puzzle-piece.svg",
       "filename": "glyphish/puzzle-piece"
-    },
-    {
-      "href": "svg/glyphish/px-toolbar.svg",
-      "filename": "glyphish/px-toolbar"
     },
     {
       "href": "svg/glyphish/px.svg",
       "filename": "glyphish/px"
     },
     {
-      "href": "svg/glyphish/question-toolbar.svg",
-      "filename": "glyphish/question-toolbar"
-    },
-    {
       "href": "svg/glyphish/question.svg",
       "filename": "glyphish/question"
-    },
-    {
-      "href": "svg/glyphish/quora-toolbar.svg",
-      "filename": "glyphish/quora-toolbar"
     },
     {
       "href": "svg/glyphish/quora.svg",
       "filename": "glyphish/quora"
     },
     {
-      "href": "svg/glyphish/radar-2-toolbar.svg",
-      "filename": "glyphish/radar-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/radar-2.svg",
       "filename": "glyphish/radar-2"
-    },
-    {
-      "href": "svg/glyphish/radar-toolbar.svg",
-      "filename": "glyphish/radar-toolbar"
     },
     {
       "href": "svg/glyphish/radar.svg",
       "filename": "glyphish/radar"
     },
     {
-      "href": "svg/glyphish/radiation-toolbar.svg",
-      "filename": "glyphish/radiation-toolbar"
-    },
-    {
       "href": "svg/glyphish/radiation.svg",
       "filename": "glyphish/radiation"
-    },
-    {
-      "href": "svg/glyphish/rain-cloud-toolbar.svg",
-      "filename": "glyphish/rain-cloud-toolbar"
     },
     {
       "href": "svg/glyphish/rain-cloud.svg",
       "filename": "glyphish/rain-cloud"
     },
     {
-      "href": "svg/glyphish/rdio-toolbar.svg",
-      "filename": "glyphish/rdio-toolbar"
-    },
-    {
       "href": "svg/glyphish/rdio.svg",
       "filename": "glyphish/rdio"
-    },
-    {
-      "href": "svg/glyphish/record-toolbar.svg",
-      "filename": "glyphish/record-toolbar"
     },
     {
       "href": "svg/glyphish/record.svg",
       "filename": "glyphish/record"
     },
     {
-      "href": "svg/glyphish/recycle-toolbar.svg",
-      "filename": "glyphish/recycle-toolbar"
-    },
-    {
       "href": "svg/glyphish/recycle.svg",
       "filename": "glyphish/recycle"
-    },
-    {
-      "href": "svg/glyphish/reddit-toolbar.svg",
-      "filename": "glyphish/reddit-toolbar"
     },
     {
       "href": "svg/glyphish/reddit.svg",
       "filename": "glyphish/reddit"
     },
     {
-      "href": "svg/glyphish/refresh-2-toolbar.svg",
-      "filename": "glyphish/refresh-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/refresh-2.svg",
       "filename": "glyphish/refresh-2"
-    },
-    {
-      "href": "svg/glyphish/refresh-3-toolbar.svg",
-      "filename": "glyphish/refresh-3-toolbar"
     },
     {
       "href": "svg/glyphish/refresh-3.svg",
       "filename": "glyphish/refresh-3"
     },
     {
-      "href": "svg/glyphish/refresh-toolbar.svg",
-      "filename": "glyphish/refresh-toolbar"
-    },
-    {
       "href": "svg/glyphish/refresh.svg",
       "filename": "glyphish/refresh"
-    },
-    {
-      "href": "svg/glyphish/renren-toolbar.svg",
-      "filename": "glyphish/renren-toolbar"
     },
     {
       "href": "svg/glyphish/renren.svg",
       "filename": "glyphish/renren"
     },
     {
-      "href": "svg/glyphish/repeat-infinite-toolbar.svg",
-      "filename": "glyphish/repeat-infinite-toolbar"
-    },
-    {
       "href": "svg/glyphish/repeat-infinite.svg",
       "filename": "glyphish/repeat-infinite"
-    },
-    {
-      "href": "svg/glyphish/repeat-toolbar.svg",
-      "filename": "glyphish/repeat-toolbar"
     },
     {
       "href": "svg/glyphish/repeat.svg",
       "filename": "glyphish/repeat"
     },
     {
-      "href": "svg/glyphish/reply-all-toolbar.svg",
-      "filename": "glyphish/reply-all-toolbar"
-    },
-    {
       "href": "svg/glyphish/reply-all.svg",
       "filename": "glyphish/reply-all"
-    },
-    {
-      "href": "svg/glyphish/reply-toolbar.svg",
-      "filename": "glyphish/reply-toolbar"
     },
     {
       "href": "svg/glyphish/reply.svg",
       "filename": "glyphish/reply"
     },
     {
-      "href": "svg/glyphish/retweet-toolbar.svg",
-      "filename": "glyphish/retweet-toolbar"
-    },
-    {
       "href": "svg/glyphish/retweet.svg",
       "filename": "glyphish/retweet"
-    },
-    {
-      "href": "svg/glyphish/revert-toolbar.svg",
-      "filename": "glyphish/revert-toolbar"
     },
     {
       "href": "svg/glyphish/revert.svg",
       "filename": "glyphish/revert"
     },
     {
-      "href": "svg/glyphish/rewind-time-toolbar.svg",
-      "filename": "glyphish/rewind-time-toolbar"
-    },
-    {
       "href": "svg/glyphish/rewind-time.svg",
       "filename": "glyphish/rewind-time"
-    },
-    {
-      "href": "svg/glyphish/rewind-toolbar.svg",
-      "filename": "glyphish/rewind-toolbar"
     },
     {
       "href": "svg/glyphish/rewind.svg",
       "filename": "glyphish/rewind"
     },
     {
-      "href": "svg/glyphish/road-sign-toolbar.svg",
-      "filename": "glyphish/road-sign-toolbar"
-    },
-    {
       "href": "svg/glyphish/road-sign.svg",
       "filename": "glyphish/road-sign"
-    },
-    {
-      "href": "svg/glyphish/rocket-toolbar.svg",
-      "filename": "glyphish/rocket-toolbar"
     },
     {
       "href": "svg/glyphish/rocket.svg",
       "filename": "glyphish/rocket"
     },
     {
-      "href": "svg/glyphish/rotate-toolbar.svg",
-      "filename": "glyphish/rotate-toolbar"
-    },
-    {
       "href": "svg/glyphish/rotate.svg",
       "filename": "glyphish/rotate"
-    },
-    {
-      "href": "svg/glyphish/route-toolbar.svg",
-      "filename": "glyphish/route-toolbar"
     },
     {
       "href": "svg/glyphish/route.svg",
       "filename": "glyphish/route"
     },
     {
-      "href": "svg/glyphish/rss-toolbar.svg",
-      "filename": "glyphish/rss-toolbar"
-    },
-    {
       "href": "svg/glyphish/rss.svg",
       "filename": "glyphish/rss"
-    },
-    {
-      "href": "svg/glyphish/ruler-toolbar.svg",
-      "filename": "glyphish/ruler-toolbar"
     },
     {
       "href": "svg/glyphish/ruler.svg",
       "filename": "glyphish/ruler"
     },
     {
-      "href": "svg/glyphish/rum-jug-toolbar.svg",
-      "filename": "glyphish/rum-jug-toolbar"
-    },
-    {
       "href": "svg/glyphish/rum-jug.svg",
       "filename": "glyphish/rum-jug"
-    },
-    {
-      "href": "svg/glyphish/running-man-toolbar.svg",
-      "filename": "glyphish/running-man-toolbar"
     },
     {
       "href": "svg/glyphish/running-man.svg",
       "filename": "glyphish/running-man"
     },
     {
-      "href": "svg/glyphish/safety-pin-toolbar.svg",
-      "filename": "glyphish/safety-pin-toolbar"
-    },
-    {
       "href": "svg/glyphish/safety-pin.svg",
       "filename": "glyphish/safety-pin"
-    },
-    {
-      "href": "svg/glyphish/sail-boat-2-toolbar.svg",
-      "filename": "glyphish/sail-boat-2-toolbar"
     },
     {
       "href": "svg/glyphish/sail-boat-2.svg",
       "filename": "glyphish/sail-boat-2"
     },
     {
-      "href": "svg/glyphish/sail-boat-toolbar.svg",
-      "filename": "glyphish/sail-boat-toolbar"
-    },
-    {
       "href": "svg/glyphish/sail-boat.svg",
       "filename": "glyphish/sail-boat"
-    },
-    {
-      "href": "svg/glyphish/satellite-toolbar.svg",
-      "filename": "glyphish/satellite-toolbar"
     },
     {
       "href": "svg/glyphish/satellite.svg",
       "filename": "glyphish/satellite"
     },
     {
-      "href": "svg/glyphish/scale-toolbar.svg",
-      "filename": "glyphish/scale-toolbar"
-    },
-    {
       "href": "svg/glyphish/scale.svg",
       "filename": "glyphish/scale"
-    },
-    {
-      "href": "svg/glyphish/scarf-toolbar.svg",
-      "filename": "glyphish/scarf-toolbar"
-    },
-    {
-      "href": "svg/glyphish/scissors-toolbar.svg",
-      "filename": "glyphish/scissors-toolbar"
     },
     {
       "href": "svg/glyphish/scissors.svg",
       "filename": "glyphish/scissors"
     },
     {
-      "href": "svg/glyphish/scoreboard-toolbar.svg",
-      "filename": "glyphish/scoreboard-toolbar"
-    },
-    {
       "href": "svg/glyphish/scoreboard.svg",
       "filename": "glyphish/scoreboard"
-    },
-    {
-      "href": "svg/glyphish/screw-toolbar.svg",
-      "filename": "glyphish/screw-toolbar"
     },
     {
       "href": "svg/glyphish/screw.svg",
       "filename": "glyphish/screw"
     },
     {
-      "href": "svg/glyphish/search-toolbar.svg",
-      "filename": "glyphish/search-toolbar"
-    },
-    {
       "href": "svg/glyphish/search.svg",
       "filename": "glyphish/search"
-    },
-    {
-      "href": "svg/glyphish/service-bell-toolbar.svg",
-      "filename": "glyphish/service-bell-toolbar"
     },
     {
       "href": "svg/glyphish/service-bell.svg",
       "filename": "glyphish/service-bell"
     },
     {
-      "href": "svg/glyphish/share-2-toolbar.svg",
-      "filename": "glyphish/share-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/share-2.svg",
       "filename": "glyphish/share-2"
-    },
-    {
-      "href": "svg/glyphish/share-3-toolbar.svg",
-      "filename": "glyphish/share-3-toolbar"
     },
     {
       "href": "svg/glyphish/share-3.svg",
       "filename": "glyphish/share-3"
     },
     {
-      "href": "svg/glyphish/share-toolbar.svg",
-      "filename": "glyphish/share-toolbar"
-    },
-    {
       "href": "svg/glyphish/share.svg",
       "filename": "glyphish/share"
-    },
-    {
-      "href": "svg/glyphish/shield-toolbar.svg",
-      "filename": "glyphish/shield-toolbar"
     },
     {
       "href": "svg/glyphish/shield.svg",
       "filename": "glyphish/shield"
     },
     {
-      "href": "svg/glyphish/shinto-torii-arch-toolbar.svg",
-      "filename": "glyphish/shinto-torii-arch-toolbar"
-    },
-    {
       "href": "svg/glyphish/shinto-torii-arch.svg",
       "filename": "glyphish/shinto-torii-arch"
-    },
-    {
-      "href": "svg/glyphish/ships-wheel-toolbar.svg",
-      "filename": "glyphish/ships-wheel-toolbar"
     },
     {
       "href": "svg/glyphish/ships-wheel.svg",
       "filename": "glyphish/ships-wheel"
     },
     {
-      "href": "svg/glyphish/shoes-toolbar.svg",
-      "filename": "glyphish/shoes-toolbar"
-    },
-    {
-      "href": "svg/glyphish/shopping-bag-toolbar.svg",
-      "filename": "glyphish/shopping-bag-toolbar"
-    },
-    {
       "href": "svg/glyphish/shopping-bag.svg",
       "filename": "glyphish/shopping-bag"
-    },
-    {
-      "href": "svg/glyphish/shopping-cart-toolbar.svg",
-      "filename": "glyphish/shopping-cart-toolbar"
     },
     {
       "href": "svg/glyphish/shopping-cart.svg",
       "filename": "glyphish/shopping-cart"
     },
     {
-      "href": "svg/glyphish/shorts-toolbar.svg",
-      "filename": "glyphish/shorts-toolbar"
-    },
-    {
-      "href": "svg/glyphish/shuffle-2-toolbar.svg",
-      "filename": "glyphish/shuffle-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/shuffle-2.svg",
       "filename": "glyphish/shuffle-2"
-    },
-    {
-      "href": "svg/glyphish/shuffle-toolbar.svg",
-      "filename": "glyphish/shuffle-toolbar"
     },
     {
       "href": "svg/glyphish/shuffle.svg",
       "filename": "glyphish/shuffle"
     },
     {
-      "href": "svg/glyphish/sign-toolbar.svg",
-      "filename": "glyphish/sign-toolbar"
-    },
-    {
       "href": "svg/glyphish/sign.svg",
       "filename": "glyphish/sign"
-    },
-    {
-      "href": "svg/glyphish/signpost-toolbar.svg",
-      "filename": "glyphish/signpost-toolbar"
     },
     {
       "href": "svg/glyphish/signpost.svg",
       "filename": "glyphish/signpost"
     },
     {
-      "href": "svg/glyphish/sikh-symbol-toolbar.svg",
-      "filename": "glyphish/sikh-symbol-toolbar"
-    },
-    {
       "href": "svg/glyphish/sikh-symbol.svg",
       "filename": "glyphish/sikh-symbol"
-    },
-    {
-      "href": "svg/glyphish/sinawebo-toolbar.svg",
-      "filename": "glyphish/sinawebo-toolbar"
     },
     {
       "href": "svg/glyphish/sinawebo.svg",
       "filename": "glyphish/sinawebo"
     },
     {
-      "href": "svg/glyphish/skip-ahead-toolbar.svg",
-      "filename": "glyphish/skip-ahead-toolbar"
-    },
-    {
       "href": "svg/glyphish/skip-ahead.svg",
       "filename": "glyphish/skip-ahead"
-    },
-    {
-      "href": "svg/glyphish/skip-back-toolbar.svg",
-      "filename": "glyphish/skip-back-toolbar"
     },
     {
       "href": "svg/glyphish/skip-back.svg",
       "filename": "glyphish/skip-back"
     },
     {
-      "href": "svg/glyphish/skirt-toolbar-2.svg",
-      "filename": "glyphish/skirt-toolbar-2"
-    },
-    {
-      "href": "svg/glyphish/skirt-toolbar.svg",
-      "filename": "glyphish/skirt-toolbar"
-    },
-    {
-      "href": "svg/glyphish/skull-2-toolbar.svg",
-      "filename": "glyphish/skull-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/skull-2.svg",
       "filename": "glyphish/skull-2"
-    },
-    {
-      "href": "svg/glyphish/skull-and-crossbones-toolbar.svg",
-      "filename": "glyphish/skull-and-crossbones-toolbar"
     },
     {
       "href": "svg/glyphish/skull-and-crossbones.svg",
       "filename": "glyphish/skull-and-crossbones"
     },
     {
-      "href": "svg/glyphish/skull-toolbar.svg",
-      "filename": "glyphish/skull-toolbar"
-    },
-    {
       "href": "svg/glyphish/skull.svg",
       "filename": "glyphish/skull"
-    },
-    {
-      "href": "svg/glyphish/skype-toolbar.svg",
-      "filename": "glyphish/skype-toolbar"
     },
     {
       "href": "svg/glyphish/skype.svg",
       "filename": "glyphish/skype"
     },
     {
-      "href": "svg/glyphish/slayer-hand-toolbar.svg",
-      "filename": "glyphish/slayer-hand-toolbar"
-    },
-    {
       "href": "svg/glyphish/slayer-hand.svg",
       "filename": "glyphish/slayer-hand"
-    },
-    {
-      "href": "svg/glyphish/sliders-2-toolbar.svg",
-      "filename": "glyphish/sliders-2-toolbar"
     },
     {
       "href": "svg/glyphish/sliders-2.svg",
       "filename": "glyphish/sliders-2"
     },
     {
-      "href": "svg/glyphish/sliders-toolbar.svg",
-      "filename": "glyphish/sliders-toolbar"
-    },
-    {
       "href": "svg/glyphish/sliders.svg",
       "filename": "glyphish/sliders"
-    },
-    {
-      "href": "svg/glyphish/slingshot-toolbar.svg",
-      "filename": "glyphish/slingshot-toolbar"
     },
     {
       "href": "svg/glyphish/slingshot.svg",
       "filename": "glyphish/slingshot"
     },
     {
-      "href": "svg/glyphish/slowmo-toolbar.svg",
-      "filename": "glyphish/slowmo-toolbar"
-    },
-    {
       "href": "svg/glyphish/slowmo.svg",
       "filename": "glyphish/slowmo"
-    },
-    {
-      "href": "svg/glyphish/smile-toolbar.svg",
-      "filename": "glyphish/smile-toolbar"
     },
     {
       "href": "svg/glyphish/smile.svg",
       "filename": "glyphish/smile"
     },
     {
-      "href": "svg/glyphish/snake-toolbar.svg",
-      "filename": "glyphish/snake-toolbar"
-    },
-    {
       "href": "svg/glyphish/snake.svg",
       "filename": "glyphish/snake"
-    },
-    {
-      "href": "svg/glyphish/snow-cloud-toolbar.svg",
-      "filename": "glyphish/snow-cloud-toolbar"
     },
     {
       "href": "svg/glyphish/snow-cloud.svg",
       "filename": "glyphish/snow-cloud"
     },
     {
-      "href": "svg/glyphish/soccer-ball-toolbar.svg",
-      "filename": "glyphish/soccer-ball-toolbar"
-    },
-    {
       "href": "svg/glyphish/soccer-ball.svg",
       "filename": "glyphish/soccer-ball"
-    },
-    {
-      "href": "svg/glyphish/sock-2-toolbar.svg",
-      "filename": "glyphish/sock-2-toolbar"
-    },
-    {
-      "href": "svg/glyphish/sock-toolbar.svg",
-      "filename": "glyphish/sock-toolbar"
     },
     {
       "href": "svg/glyphish/sock.svg",
       "filename": "glyphish/sock"
     },
     {
-      "href": "svg/glyphish/sort-ascending-toolbar.svg",
-      "filename": "glyphish/sort-ascending-toolbar"
-    },
-    {
       "href": "svg/glyphish/sort-ascending.svg",
       "filename": "glyphish/sort-ascending"
-    },
-    {
-      "href": "svg/glyphish/sort-descending-toolbar.svg",
-      "filename": "glyphish/sort-descending-toolbar"
     },
     {
       "href": "svg/glyphish/sort-descending.svg",
       "filename": "glyphish/sort-descending"
     },
     {
-      "href": "svg/glyphish/sound-2-toolbar.svg",
-      "filename": "glyphish/sound-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/sound-2.svg",
       "filename": "glyphish/sound-2"
-    },
-    {
-      "href": "svg/glyphish/sound-3-toolbar.svg",
-      "filename": "glyphish/sound-3-toolbar"
     },
     {
       "href": "svg/glyphish/sound-3.svg",
       "filename": "glyphish/sound-3"
     },
     {
-      "href": "svg/glyphish/sound-muted-toolbar.svg",
-      "filename": "glyphish/sound-muted-toolbar"
-    },
-    {
       "href": "svg/glyphish/sound-muted.svg",
       "filename": "glyphish/sound-muted"
-    },
-    {
-      "href": "svg/glyphish/sound-toolbar.svg",
-      "filename": "glyphish/sound-toolbar"
     },
     {
       "href": "svg/glyphish/sound.svg",
       "filename": "glyphish/sound"
     },
     {
-      "href": "svg/glyphish/speaker-toolbar.svg",
-      "filename": "glyphish/speaker-toolbar"
-    },
-    {
       "href": "svg/glyphish/speaker.svg",
       "filename": "glyphish/speaker"
-    },
-    {
-      "href": "svg/glyphish/speedometer-toolbar.svg",
-      "filename": "glyphish/speedometer-toolbar"
     },
     {
       "href": "svg/glyphish/speedometer.svg",
       "filename": "glyphish/speedometer"
     },
     {
-      "href": "svg/glyphish/split-path-toolbar.svg",
-      "filename": "glyphish/split-path-toolbar"
-    },
-    {
       "href": "svg/glyphish/split-path.svg",
       "filename": "glyphish/split-path"
-    },
-    {
-      "href": "svg/glyphish/spotify-toolbar.svg",
-      "filename": "glyphish/spotify-toolbar"
     },
     {
       "href": "svg/glyphish/spotify.svg",
       "filename": "glyphish/spotify"
     },
     {
-      "href": "svg/glyphish/spray-can-toolbar.svg",
-      "filename": "glyphish/spray-can-toolbar"
-    },
-    {
       "href": "svg/glyphish/spray-can.svg",
       "filename": "glyphish/spray-can"
-    },
-    {
-      "href": "svg/glyphish/spraybottle-toolbar.svg",
-      "filename": "glyphish/spraybottle-toolbar"
     },
     {
       "href": "svg/glyphish/spraybottle.svg",
       "filename": "glyphish/spraybottle"
     },
     {
-      "href": "svg/glyphish/spread-toolbar.svg",
-      "filename": "glyphish/spread-toolbar"
-    },
-    {
       "href": "svg/glyphish/spread.svg",
       "filename": "glyphish/spread"
-    },
-    {
-      "href": "svg/glyphish/squiggle-toolbar.svg",
-      "filename": "glyphish/squiggle-toolbar"
     },
     {
       "href": "svg/glyphish/squiggle.svg",
       "filename": "glyphish/squiggle"
     },
     {
-      "href": "svg/glyphish/stack-2-toolbar.svg",
-      "filename": "glyphish/stack-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/stack-2.svg",
       "filename": "glyphish/stack-2"
-    },
-    {
-      "href": "svg/glyphish/stack-toolbar.svg",
-      "filename": "glyphish/stack-toolbar"
     },
     {
       "href": "svg/glyphish/stack.svg",
       "filename": "glyphish/stack"
     },
     {
-      "href": "svg/glyphish/stamp-2-toolbar.svg",
-      "filename": "glyphish/stamp-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/stamp-2.svg",
       "filename": "glyphish/stamp-2"
-    },
-    {
-      "href": "svg/glyphish/stamp-toolbar.svg",
-      "filename": "glyphish/stamp-toolbar"
     },
     {
       "href": "svg/glyphish/stamp.svg",
       "filename": "glyphish/stamp"
     },
     {
-      "href": "svg/glyphish/star-toolbar.svg",
-      "filename": "glyphish/star-toolbar"
-    },
-    {
       "href": "svg/glyphish/star.svg",
       "filename": "glyphish/star"
-    },
-    {
-      "href": "svg/glyphish/steam-toolbar.svg",
-      "filename": "glyphish/steam-toolbar"
     },
     {
       "href": "svg/glyphish/steam.svg",
       "filename": "glyphish/steam"
     },
     {
-      "href": "svg/glyphish/sticky-note-toolbar.svg",
-      "filename": "glyphish/sticky-note-toolbar"
-    },
-    {
       "href": "svg/glyphish/sticky-note.svg",
       "filename": "glyphish/sticky-note"
-    },
-    {
-      "href": "svg/glyphish/stop-hand--toolbar.svg",
-      "filename": "glyphish/stop-hand--toolbar"
     },
     {
       "href": "svg/glyphish/stop-hand-.svg",
       "filename": "glyphish/stop-hand-"
     },
     {
-      "href": "svg/glyphish/stop-toolbar.svg",
-      "filename": "glyphish/stop-toolbar"
-    },
-    {
       "href": "svg/glyphish/stop.svg",
       "filename": "glyphish/stop"
-    },
-    {
-      "href": "svg/glyphish/stopwatch-2-toolbar.svg",
-      "filename": "glyphish/stopwatch-2-toolbar"
     },
     {
       "href": "svg/glyphish/stopwatch-2.svg",
       "filename": "glyphish/stopwatch-2"
     },
     {
-      "href": "svg/glyphish/stopwatch-toolbar.svg",
-      "filename": "glyphish/stopwatch-toolbar"
-    },
-    {
       "href": "svg/glyphish/stopwatch.svg",
       "filename": "glyphish/stopwatch"
-    },
-    {
-      "href": "svg/glyphish/store-toolbar.svg",
-      "filename": "glyphish/store-toolbar"
     },
     {
       "href": "svg/glyphish/store.svg",
       "filename": "glyphish/store"
     },
     {
-      "href": "svg/glyphish/storm-cloud-toolbar.svg",
-      "filename": "glyphish/storm-cloud-toolbar"
-    },
-    {
       "href": "svg/glyphish/storm-cloud.svg",
       "filename": "glyphish/storm-cloud"
-    },
-    {
-      "href": "svg/glyphish/stumbleupon-toolbar.svg",
-      "filename": "glyphish/stumbleupon-toolbar"
     },
     {
       "href": "svg/glyphish/stumbleupon.svg",
       "filename": "glyphish/stumbleupon"
     },
     {
-      "href": "svg/glyphish/suit-toolbar.svg",
-      "filename": "glyphish/suit-toolbar"
-    },
-    {
-      "href": "svg/glyphish/suitcase-toolbar.svg",
-      "filename": "glyphish/suitcase-toolbar"
-    },
-    {
       "href": "svg/glyphish/suitcase.svg",
       "filename": "glyphish/suitcase"
-    },
-    {
-      "href": "svg/glyphish/sun-2-toolbar.svg",
-      "filename": "glyphish/sun-2-toolbar"
     },
     {
       "href": "svg/glyphish/sun-2.svg",
       "filename": "glyphish/sun-2"
     },
     {
-      "href": "svg/glyphish/sun-cloud-toolbar.svg",
-      "filename": "glyphish/sun-cloud-toolbar"
-    },
-    {
       "href": "svg/glyphish/sun-cloud.svg",
       "filename": "glyphish/sun-cloud"
-    },
-    {
-      "href": "svg/glyphish/sun-toolbar.svg",
-      "filename": "glyphish/sun-toolbar"
     },
     {
       "href": "svg/glyphish/sun.svg",
       "filename": "glyphish/sun"
     },
     {
-      "href": "svg/glyphish/sweater-toolbar.svg",
-      "filename": "glyphish/sweater-toolbar"
-    },
-    {
-      "href": "svg/glyphish/switches-toolbar.svg",
-      "filename": "glyphish/switches-toolbar"
-    },
-    {
       "href": "svg/glyphish/switches.svg",
       "filename": "glyphish/switches"
-    },
-    {
-      "href": "svg/glyphish/sword-toolbar.svg",
-      "filename": "glyphish/sword-toolbar"
     },
     {
       "href": "svg/glyphish/sword.svg",
       "filename": "glyphish/sword"
     },
     {
-      "href": "svg/glyphish/swords-toolbar.svg",
-      "filename": "glyphish/swords-toolbar"
-    },
-    {
       "href": "svg/glyphish/swords.svg",
       "filename": "glyphish/swords"
-    },
-    {
-      "href": "svg/glyphish/t-shirt-toolbar.svg",
-      "filename": "glyphish/t-shirt-toolbar"
     },
     {
       "href": "svg/glyphish/t-shirt.svg",
       "filename": "glyphish/t-shirt"
     },
     {
-      "href": "svg/glyphish/tablet-toolbar.svg",
-      "filename": "glyphish/tablet-toolbar"
-    },
-    {
       "href": "svg/glyphish/tablet.svg",
       "filename": "glyphish/tablet"
-    },
-    {
-      "href": "svg/glyphish/tag-toolbar.svg",
-      "filename": "glyphish/tag-toolbar"
     },
     {
       "href": "svg/glyphish/tag.svg",
       "filename": "glyphish/tag"
     },
     {
-      "href": "svg/glyphish/tags-toolbar.svg",
-      "filename": "glyphish/tags-toolbar"
-    },
-    {
       "href": "svg/glyphish/tags.svg",
       "filename": "glyphish/tags"
-    },
-    {
-      "href": "svg/glyphish/taoism-yin-yang-toolbar.svg",
-      "filename": "glyphish/taoism-yin-yang-toolbar"
     },
     {
       "href": "svg/glyphish/taoism-yin-yang.svg",
       "filename": "glyphish/taoism-yin-yang"
     },
     {
-      "href": "svg/glyphish/target-2-toolbar.svg",
-      "filename": "glyphish/target-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/target-2.svg",
       "filename": "glyphish/target-2"
-    },
-    {
-      "href": "svg/glyphish/target-dummy-toolbar.svg",
-      "filename": "glyphish/target-dummy-toolbar"
     },
     {
       "href": "svg/glyphish/target-dummy.svg",
       "filename": "glyphish/target-dummy"
     },
     {
-      "href": "svg/glyphish/target-reticle-toolbar.svg",
-      "filename": "glyphish/target-reticle-toolbar"
-    },
-    {
       "href": "svg/glyphish/target-reticle.svg",
       "filename": "glyphish/target-reticle"
-    },
-    {
-      "href": "svg/glyphish/target-toolbar.svg",
-      "filename": "glyphish/target-toolbar"
     },
     {
       "href": "svg/glyphish/target.svg",
       "filename": "glyphish/target"
     },
     {
-      "href": "svg/glyphish/telescope-toolbar.svg",
-      "filename": "glyphish/telescope-toolbar"
-    },
-    {
       "href": "svg/glyphish/telescope.svg",
       "filename": "glyphish/telescope"
-    },
-    {
-      "href": "svg/glyphish/television-toolbar.svg",
-      "filename": "glyphish/television-toolbar"
     },
     {
       "href": "svg/glyphish/television.svg",
       "filename": "glyphish/television"
     },
     {
-      "href": "svg/glyphish/tennis-ball-toolbar.svg",
-      "filename": "glyphish/tennis-ball-toolbar"
-    },
-    {
       "href": "svg/glyphish/tennis-ball.svg",
       "filename": "glyphish/tennis-ball"
-    },
-    {
-      "href": "svg/glyphish/tennis-court-toolbar.svg",
-      "filename": "glyphish/tennis-court-toolbar"
     },
     {
       "href": "svg/glyphish/tennis-court.svg",
       "filename": "glyphish/tennis-court"
     },
     {
-      "href": "svg/glyphish/tennis-net-toolbar.svg",
-      "filename": "glyphish/tennis-net-toolbar"
-    },
-    {
       "href": "svg/glyphish/tennis-net.svg",
       "filename": "glyphish/tennis-net"
-    },
-    {
-      "href": "svg/glyphish/tennis-observation-seat-toolbar.svg",
-      "filename": "glyphish/tennis-observation-seat-toolbar"
     },
     {
       "href": "svg/glyphish/tennis-observation-seat.svg",
       "filename": "glyphish/tennis-observation-seat"
     },
     {
-      "href": "svg/glyphish/tennis-racquet-toolbar.svg",
-      "filename": "glyphish/tennis-racquet-toolbar"
-    },
-    {
       "href": "svg/glyphish/tennis-racquet.svg",
       "filename": "glyphish/tennis-racquet"
-    },
-    {
-      "href": "svg/glyphish/terminal-toolbar.svg",
-      "filename": "glyphish/terminal-toolbar"
     },
     {
       "href": "svg/glyphish/terminal.svg",
       "filename": "glyphish/terminal"
     },
     {
-      "href": "svg/glyphish/test-tube-toolbar.svg",
-      "filename": "glyphish/test-tube-toolbar"
-    },
-    {
       "href": "svg/glyphish/test-tube.svg",
       "filename": "glyphish/test-tube"
-    },
-    {
-      "href": "svg/glyphish/thermometer-toolbar.svg",
-      "filename": "glyphish/thermometer-toolbar"
     },
     {
       "href": "svg/glyphish/thermometer.svg",
       "filename": "glyphish/thermometer"
     },
     {
-      "href": "svg/glyphish/three-finger-tap-toolbar.svg",
-      "filename": "glyphish/three-finger-tap-toolbar"
-    },
-    {
       "href": "svg/glyphish/three-finger-tap.svg",
       "filename": "glyphish/three-finger-tap"
-    },
-    {
-      "href": "svg/glyphish/thumbs-down-toolbar.svg",
-      "filename": "glyphish/thumbs-down-toolbar"
     },
     {
       "href": "svg/glyphish/thumbs-down.svg",
       "filename": "glyphish/thumbs-down"
     },
     {
-      "href": "svg/glyphish/thumbs-up-toolbar.svg",
-      "filename": "glyphish/thumbs-up-toolbar"
-    },
-    {
       "href": "svg/glyphish/thumbs-up.svg",
       "filename": "glyphish/thumbs-up"
-    },
-    {
-      "href": "svg/glyphish/ticket-toolbar.svg",
-      "filename": "glyphish/ticket-toolbar"
     },
     {
       "href": "svg/glyphish/ticket.svg",
       "filename": "glyphish/ticket"
     },
     {
-      "href": "svg/glyphish/timer-2-toolbar.svg",
-      "filename": "glyphish/timer-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/timer-2.svg",
       "filename": "glyphish/timer-2"
-    },
-    {
-      "href": "svg/glyphish/timer-toolbar.svg",
-      "filename": "glyphish/timer-toolbar"
     },
     {
       "href": "svg/glyphish/timer.svg",
       "filename": "glyphish/timer"
     },
     {
-      "href": "svg/glyphish/toolbox-toolbar.svg",
-      "filename": "glyphish/toolbox-toolbar"
-    },
-    {
       "href": "svg/glyphish/toolbox.svg",
       "filename": "glyphish/toolbox"
-    },
-    {
-      "href": "svg/glyphish/top-list-toolbar.svg",
-      "filename": "glyphish/top-list-toolbar"
     },
     {
       "href": "svg/glyphish/top-list.svg",
       "filename": "glyphish/top-list"
     },
     {
-      "href": "svg/glyphish/tophat-toolbar.svg",
-      "filename": "glyphish/tophat-toolbar"
-    },
-    {
-      "href": "svg/glyphish/trailer-toolbar.svg",
-      "filename": "glyphish/trailer-toolbar"
-    },
-    {
       "href": "svg/glyphish/trailer.svg",
       "filename": "glyphish/trailer"
-    },
-    {
-      "href": "svg/glyphish/train-toolbar.svg",
-      "filename": "glyphish/train-toolbar"
     },
     {
       "href": "svg/glyphish/train.svg",
       "filename": "glyphish/train"
     },
     {
-      "href": "svg/glyphish/trash-toolbar.svg",
-      "filename": "glyphish/trash-toolbar"
-    },
-    {
       "href": "svg/glyphish/trash.svg",
       "filename": "glyphish/trash"
-    },
-    {
-      "href": "svg/glyphish/tree-toolbar.svg",
-      "filename": "glyphish/tree-toolbar"
     },
     {
       "href": "svg/glyphish/tree.svg",
       "filename": "glyphish/tree"
     },
     {
-      "href": "svg/glyphish/trinity-knot-toolbar.svg",
-      "filename": "glyphish/trinity-knot-toolbar"
-    },
-    {
       "href": "svg/glyphish/trinity-knot.svg",
       "filename": "glyphish/trinity-knot"
-    },
-    {
-      "href": "svg/glyphish/trophy-toolbar.svg",
-      "filename": "glyphish/trophy-toolbar"
     },
     {
       "href": "svg/glyphish/trophy.svg",
       "filename": "glyphish/trophy"
     },
     {
-      "href": "svg/glyphish/trumpet-toolbar.svg",
-      "filename": "glyphish/trumpet-toolbar"
-    },
-    {
       "href": "svg/glyphish/trumpet.svg",
       "filename": "glyphish/trumpet"
-    },
-    {
-      "href": "svg/glyphish/tshirt-toolbar.svg",
-      "filename": "glyphish/tshirt-toolbar"
-    },
-    {
-      "href": "svg/glyphish/tumblr-toolbar.svg",
-      "filename": "glyphish/tumblr-toolbar"
     },
     {
       "href": "svg/glyphish/tumblr.svg",
       "filename": "glyphish/tumblr"
     },
     {
-      "href": "svg/glyphish/tv-toolbar.svg",
-      "filename": "glyphish/tv-toolbar"
-    },
-    {
       "href": "svg/glyphish/tv.svg",
       "filename": "glyphish/tv"
-    },
-    {
-      "href": "svg/glyphish/twitter-toolbar.svg",
-      "filename": "glyphish/twitter-toolbar"
     },
     {
       "href": "svg/glyphish/twitter.svg",
       "filename": "glyphish/twitter"
     },
     {
-      "href": "svg/glyphish/two-finger-tap-toolbar.svg",
-      "filename": "glyphish/two-finger-tap-toolbar"
-    },
-    {
       "href": "svg/glyphish/two-finger-tap.svg",
       "filename": "glyphish/two-finger-tap"
-    },
-    {
-      "href": "svg/glyphish/two-fingers-toolbar.svg",
-      "filename": "glyphish/two-fingers-toolbar"
     },
     {
       "href": "svg/glyphish/two-fingers.svg",
       "filename": "glyphish/two-fingers"
     },
     {
-      "href": "svg/glyphish/ufo-3-toolbar.svg",
-      "filename": "glyphish/ufo-3-toolbar"
-    },
-    {
       "href": "svg/glyphish/ufo-3.svg",
       "filename": "glyphish/ufo-3"
-    },
-    {
-      "href": "svg/glyphish/ufo-toolbar.svg",
-      "filename": "glyphish/ufo-toolbar"
     },
     {
       "href": "svg/glyphish/ufo.svg",
       "filename": "glyphish/ufo"
     },
     {
-      "href": "svg/glyphish/umbrella-toolbar.svg",
-      "filename": "glyphish/umbrella-toolbar"
-    },
-    {
       "href": "svg/glyphish/umbrella.svg",
       "filename": "glyphish/umbrella"
-    },
-    {
-      "href": "svg/glyphish/underline-toolbar.svg",
-      "filename": "glyphish/underline-toolbar"
     },
     {
       "href": "svg/glyphish/underline.svg",
       "filename": "glyphish/underline"
     },
     {
-      "href": "svg/glyphish/underwear-toolbar.svg",
-      "filename": "glyphish/underwear-toolbar"
-    },
-    {
-      "href": "svg/glyphish/unlocked-toolbar.svg",
-      "filename": "glyphish/unlocked-toolbar"
-    },
-    {
       "href": "svg/glyphish/unlocked.svg",
       "filename": "glyphish/unlocked"
-    },
-    {
-      "href": "svg/glyphish/user-add-toolbar.svg",
-      "filename": "glyphish/user-add-toolbar"
     },
     {
       "href": "svg/glyphish/user-add.svg",
       "filename": "glyphish/user-add"
     },
     {
-      "href": "svg/glyphish/user-checked-toolbar.svg",
-      "filename": "glyphish/user-checked-toolbar"
-    },
-    {
       "href": "svg/glyphish/user-checked.svg",
       "filename": "glyphish/user-checked"
-    },
-    {
-      "href": "svg/glyphish/user-delete-toolbar.svg",
-      "filename": "glyphish/user-delete-toolbar"
     },
     {
       "href": "svg/glyphish/user-delete.svg",
       "filename": "glyphish/user-delete"
     },
     {
-      "href": "svg/glyphish/user-error-toolbar.svg",
-      "filename": "glyphish/user-error-toolbar"
-    },
-    {
       "href": "svg/glyphish/user-error.svg",
       "filename": "glyphish/user-error"
-    },
-    {
-      "href": "svg/glyphish/user-group-toolbar.svg",
-      "filename": "glyphish/user-group-toolbar"
     },
     {
       "href": "svg/glyphish/user-group.svg",
       "filename": "glyphish/user-group"
     },
     {
-      "href": "svg/glyphish/user-minus-toolbar.svg",
-      "filename": "glyphish/user-minus-toolbar"
-    },
-    {
       "href": "svg/glyphish/user-minus.svg",
       "filename": "glyphish/user-minus"
-    },
-    {
-      "href": "svg/glyphish/user-toolbar.svg",
-      "filename": "glyphish/user-toolbar"
     },
     {
       "href": "svg/glyphish/user.svg",
       "filename": "glyphish/user"
     },
     {
-      "href": "svg/glyphish/users-2-toolbar.svg",
-      "filename": "glyphish/users-2-toolbar"
-    },
-    {
       "href": "svg/glyphish/users-2.svg",
       "filename": "glyphish/users-2"
-    },
-    {
-      "href": "svg/glyphish/users-toolbar.svg",
-      "filename": "glyphish/users-toolbar"
     },
     {
       "href": "svg/glyphish/users.svg",
       "filename": "glyphish/users"
     },
     {
-      "href": "svg/glyphish/utensils-toolbar.svg",
-      "filename": "glyphish/utensils-toolbar"
-    },
-    {
       "href": "svg/glyphish/utensils.svg",
       "filename": "glyphish/utensils"
-    },
-    {
-      "href": "svg/glyphish/vertical-swipe-toolbar.svg",
-      "filename": "glyphish/vertical-swipe-toolbar"
     },
     {
       "href": "svg/glyphish/vertical-swipe.svg",
       "filename": "glyphish/vertical-swipe"
     },
     {
-      "href": "svg/glyphish/video-camera-toolbar.svg",
-      "filename": "glyphish/video-camera-toolbar"
-    },
-    {
       "href": "svg/glyphish/video-camera.svg",
       "filename": "glyphish/video-camera"
-    },
-    {
-      "href": "svg/glyphish/video-film-strip-toolbar.svg",
-      "filename": "glyphish/video-film-strip-toolbar"
     },
     {
       "href": "svg/glyphish/video-film-strip.svg",
       "filename": "glyphish/video-film-strip"
     },
     {
-      "href": "svg/glyphish/viking-ship-toolbar.svg",
-      "filename": "glyphish/viking-ship-toolbar"
-    },
-    {
       "href": "svg/glyphish/viking-ship.svg",
       "filename": "glyphish/viking-ship"
-    },
-    {
-      "href": "svg/glyphish/vimeo-toolbar.svg",
-      "filename": "glyphish/vimeo-toolbar"
     },
     {
       "href": "svg/glyphish/vimeo.svg",
       "filename": "glyphish/vimeo"
     },
     {
-      "href": "svg/glyphish/voicemail-toolbar.svg",
-      "filename": "glyphish/voicemail-toolbar"
-    },
-    {
       "href": "svg/glyphish/voicemail.svg",
       "filename": "glyphish/voicemail"
-    },
-    {
-      "href": "svg/glyphish/walking-man-toolbar.svg",
-      "filename": "glyphish/walking-man-toolbar"
     },
     {
       "href": "svg/glyphish/walking-man.svg",
       "filename": "glyphish/walking-man"
     },
     {
-      "href": "svg/glyphish/warning-toolbar.svg",
-      "filename": "glyphish/warning-toolbar"
-    },
-    {
       "href": "svg/glyphish/warning.svg",
       "filename": "glyphish/warning"
-    },
-    {
-      "href": "svg/glyphish/washing-machine-toolbar.svg",
-      "filename": "glyphish/washing-machine-toolbar"
     },
     {
       "href": "svg/glyphish/washing-machine.svg",
       "filename": "glyphish/washing-machine"
     },
     {
-      "href": "svg/glyphish/weights-toolbar.svg",
-      "filename": "glyphish/weights-toolbar"
-    },
-    {
       "href": "svg/glyphish/weights.svg",
       "filename": "glyphish/weights"
-    },
-    {
-      "href": "svg/glyphish/whale-toolbar.svg",
-      "filename": "glyphish/whale-toolbar"
     },
     {
       "href": "svg/glyphish/whale.svg",
       "filename": "glyphish/whale"
     },
     {
-      "href": "svg/glyphish/whistle-toolbar.svg",
-      "filename": "glyphish/whistle-toolbar"
-    },
-    {
       "href": "svg/glyphish/whistle.svg",
       "filename": "glyphish/whistle"
-    },
-    {
-      "href": "svg/glyphish/wifi-signal-toolbar.svg",
-      "filename": "glyphish/wifi-signal-toolbar"
     },
     {
       "href": "svg/glyphish/wifi-signal.svg",
       "filename": "glyphish/wifi-signal"
     },
     {
-      "href": "svg/glyphish/windows-toolbar.svg",
-      "filename": "glyphish/windows-toolbar"
-    },
-    {
       "href": "svg/glyphish/windows.svg",
       "filename": "glyphish/windows"
-    },
-    {
-      "href": "svg/glyphish/wine-bottle-toolbar.svg",
-      "filename": "glyphish/wine-bottle-toolbar"
     },
     {
       "href": "svg/glyphish/wine-bottle.svg",
       "filename": "glyphish/wine-bottle"
     },
     {
-      "href": "svg/glyphish/wine-glass-toolbar.svg",
-      "filename": "glyphish/wine-glass-toolbar"
-    },
-    {
       "href": "svg/glyphish/wine-glass.svg",
       "filename": "glyphish/wine-glass"
-    },
-    {
-      "href": "svg/glyphish/wordpress-toolbar.svg",
-      "filename": "glyphish/wordpress-toolbar"
     },
     {
       "href": "svg/glyphish/wordpress.svg",
       "filename": "glyphish/wordpress"
     },
     {
-      "href": "svg/glyphish/worm-toolbar.svg",
-      "filename": "glyphish/worm-toolbar"
-    },
-    {
       "href": "svg/glyphish/worm.svg",
       "filename": "glyphish/worm"
-    },
-    {
-      "href": "svg/glyphish/wrench-toolbar.svg",
-      "filename": "glyphish/wrench-toolbar"
     },
     {
       "href": "svg/glyphish/wrench.svg",
       "filename": "glyphish/wrench"
     },
     {
-      "href": "svg/glyphish/yahoo-toolbar.svg",
-      "filename": "glyphish/yahoo-toolbar"
-    },
-    {
       "href": "svg/glyphish/yahoo.svg",
       "filename": "glyphish/yahoo"
-    },
-    {
-      "href": "svg/glyphish/youtube-toolbar.svg",
-      "filename": "glyphish/youtube-toolbar"
     },
     {
       "href": "svg/glyphish/youtube.svg",
       "filename": "glyphish/youtube"
     },
     {
-      "href": "svg/glyphish/zoom-in-toolbar.svg",
-      "filename": "glyphish/zoom-in-toolbar"
-    },
-    {
       "href": "svg/glyphish/zoom-in.svg",
       "filename": "glyphish/zoom-in"
-    },
-    {
-      "href": "svg/glyphish/zoom-out-toolbar.svg",
-      "filename": "glyphish/zoom-out-toolbar"
     },
     {
       "href": "svg/glyphish/zoom-out.svg",

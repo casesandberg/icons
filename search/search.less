@@ -1,4 +1,4 @@
-@import '../global/mixins.less';
+@import 'mixins.less';
 
 body{
     background: #eee;
@@ -32,35 +32,39 @@ body{
         float: left;
         margin: 0 10px 10px 0;
         .border-radius(6px);
-        cursor: pointer;
+        // cursor: pointer;
         .speed-up();
-
-        &.ng-enter,
-        &.ng-leave
-        {
-            .transition(opacity 200ms linear);
-            .transition(max-width 200ms 200ms linear);
-            display: block;
-        }
-
-        &.ng-enter.ng-enter-active,
-        &.ng-leave {
-            opacity: 1;
-            max-width: 70px;
-        }
-
-        &.ng-leave.ng-leave-active,
-        &.ng-enter {
-            opacity: 0;
-            max-width: 0;
-            .transition(max-width 200ms linear);
-            .transition(opacity 200ms 200ms linear);
-        }
+        position: relative;
 
         .icon-image{
             display: inline-block;
             vertical-align: middle;
             opacity: .75;
+        }
+
+        .icon-label{
+            background: rgba(238, 238, 238, .85);
+            position: absolute;
+            z-index: 2;
+            left: 50%;
+            .font(18, 400);
+            font-family: 'Oswald', sans-serif;
+            line-height: 18px;
+            padding: 8px;
+            color: #222;
+            top: 50%;
+            -webkit-transform: translateY(-50%) translateX(-50%);
+            opacity: 0;
+            .border-radius(6px);
+
+            .transition();
+        }
+
+        &:hover{
+            z-index: 2;
+            .icon-label{
+                opacity: 1;
+            }
         }
     }
 }
