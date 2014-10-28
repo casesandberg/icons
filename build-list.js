@@ -1,44 +1,36 @@
 var fs = require('fs');
+var jf = require('jsonfile');
 var icons = module.exports;
 
 function scanDirectory(dir){
-    fs.readdir(dir, function(error, list){
-        var tempArray = [];
+    var tempArray = [];
 
-        if(error){
-            return error
-        }
-
-        list.forEach(function(file, i){
-            var path = dir + '/' + file;
-            tempArray.concat(printObj(path, file));
-        });
-
-        // console.log(JSON.stringify(tempArray, null, 4));
-        return tempArray
+    fs.readdirSync(dir).forEach(function(file, i){
+        tempArray = tempArray.concat(printObj(dir + '/' + file, file))
     });
+
+    return tempArray
 }
 
 function printObj(path, file){
-    fs.stat(path, function(error, stat){
 
-        if(stat && stat.isDirectory()){
-            scanDirectory(path)
-        } else if(file != '.DS_Store'){
-            tempObj = {};
-            tempObj.href = path;
-            tempObj.filename = file.replace('.svg', '');
+    var stat = fs.statSync(path);
 
-            // console.log(tempObj);
-            return tempObj
-        }
-    });
+    if(stat && stat.isDirectory()){
+        return scanDirectory(path)
+    } else if(file != '.DS_Store'){
+        tempObj = {};
+        tempObj.href = path;
+        tempObj.filename = path.replace('.svg', '').replace('svg/', '');
+
+        return [tempObj]
+    }
 }
 
 icons.list = function(dir){
     var masterObj = {};
     masterObj.icons = scanDirectory('svg');
-    console.log(JSON.stringify(masterObj, null, 4));
+    jf.writeFileSync('svg-list.json', masterObj);
 }
 
 icons.list();
